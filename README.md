@@ -5,4 +5,4 @@ List produced by: `sudo iptables -S | grep DROP | sort -u | sed -ne 's/^.*-s \(.
 
 Current coverage of the "whole internet" can be seen [here](http://commi.ddns.info/ISec), updates twice a day.
 
-We have surpassed 25%!
+We have surpassed 26%!
