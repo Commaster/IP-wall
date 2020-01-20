@@ -1,0 +1,4 @@
+Jan 12 12:04:39 Failed password for pi from 211.26.123.219 port 47164 ssh2
+Jan 12 12:04:39 Failed password for pi from 211.26.123.219 port 47168 ssh2
+Jan 12 12:04:40 Connection closed by pi 211.26.123.219 port 47164 [preauth]
+Jan 12 12:04:40 Connection closed by pi 211.26.123.219 port 47168 [preauth]

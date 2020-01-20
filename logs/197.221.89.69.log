@@ -1,0 +1,3 @@
+Dec 12 03:21:45 Did not receive identification string from 197.221.89.69 port 62998
+Dec 12 03:22:11 Failed password for root from 197.221.89.69 port 64107 ssh2
+Dec 12 03:22:11 Connection closed by authenticating user root 197.221.89.69 port 64107 [preauth]

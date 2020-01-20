@@ -1,0 +1,20 @@
+Dec 29 04:48:49 Did not receive identification string from 92.118.37.64 port 61000
+Dec 18 07:36:50 Did not receive identification string from 92.118.37.64 port 61000
+Dec 29 04:46:56 connect from unknown[92.118.37.64]
+Dec 29 04:46:56 SSL_accept error from unknown[92.118.37.64]: lost connection
+Dec 29 04:46:56 lost connection after STARTTLS from unknown[92.118.37.64]
+Dec 29 04:46:56 disconnect from unknown[92.118.37.64] ehlo=1 starttls=0/1 commands=1/2
+Dec 29 04:47:52 Disconnected (no auth attempts in 0 secs): user=<>, rip=92.118.37.64, session=<LNLPwM6aSO5cdiVA>
+Dec 29 04:47:56 Disconnected (no auth attempts in 0 secs): user=<>, rip=92.118.37.64, TLS handshaking: SSL_accept() syscall failed: Success, session=<RmcTwc6aSO5cdiVA>
+Dec 29 04:47:57 Disconnected (no auth attempts in 2 secs): user=<>, rip=92.118.37.64, TLS handshaking: SSL_accept() syscall failed: Success, session=<dLcjwc6aSO5cdiVA>
+Dec 29 04:48:24 Disconnected (no auth attempts in 2 secs): user=<>, rip=92.118.37.64, TLS handshaking: SSL_accept() syscall failed: Success, session=<Y7u+ws6aSO5cdiVA>
+Dec 18 07:36:44 Disconnected (no auth attempts in 2 secs): user=<>, rip=92.118.37.64, TLS handshaking: SSL_accept() syscall failed: Success, session=<0d921POZSO5cdiVA>
+Dec 18 07:37:21 connect from unknown[92.118.37.64]
+Dec 18 07:37:21 SSL_accept error from unknown[92.118.37.64]: lost connection
+Dec 18 07:37:21 lost connection after STARTTLS from unknown[92.118.37.64]
+Dec 18 07:37:21 disconnect from unknown[92.118.37.64] ehlo=1 starttls=0/1 commands=1/2
+Dec 18 07:38:13 Disconnected (no auth attempts in 0 secs): user=<>, rip=92.118.37.64, session=<Tk/N2fOZSO5cdiVA>
+Dec 18 07:38:29 Disconnected (no auth attempts in 2 secs): user=<>, rip=92.118.37.64, TLS handshaking: SSL_accept() syscall failed: Success, session=<Hli52vOZSO5cdiVA>
+Dec 18 07:38:34 Disconnected (no auth attempts in 0 secs): user=<>, rip=92.118.37.64, TLS handshaking: SSL_accept() syscall failed: Success, session=<FeoE2/OZSO5cdiVA>
+92.118.37.64 - - [29/Dec/2019:04:47:22 +0200] "GET / HTTP/1.0" 301 178 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/75.0.3770.100 Safari/537.36"
+92.118.37.64 - - [18/Dec/2019:07:38:39 +0200] "GET / HTTP/1.0" 301 178 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/75.0.3770.100 Safari/537.36"

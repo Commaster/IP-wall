@@ -1,0 +1,4 @@
+Jan  7 15:05:19 Failed password for pi from 148.71.232.226 port 9482 ssh2
+Jan  7 15:05:19 Failed password for pi from 148.71.232.226 port 37666 ssh2
+Jan  7 15:05:19 Connection closed by pi 148.71.232.226 port 9482 [preauth]
+Jan  7 15:05:19 Connection closed by pi 148.71.232.226 port 37666 [preauth]

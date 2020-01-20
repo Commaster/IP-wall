@@ -1,0 +1,10 @@
+Jan 13 09:21:53 Failed password for ts from 108.160.199.209 port 60142 ssh2
+Jan 13 09:21:53 Received disconnect from 108.160.199.209 port 60142:11: Bye Bye [preauth]
+Jan 13 11:08:49 Failed password for root from 108.160.199.209 port 39576 ssh2
+Jan 13 11:08:49 Received disconnect from 108.160.199.209 port 39576:11: Bye Bye [preauth]
+Jan 13 12:10:17 Failed password for root from 108.160.199.209 port 35554 ssh2
+Jan 13 12:10:17 Received disconnect from 108.160.199.209 port 35554:11: Bye Bye [preauth]
+Jan 13 13:11:34 Failed password for momar from 108.160.199.209 port 59764 ssh2
+Jan 13 13:11:34 Received disconnect from 108.160.199.209 port 59764:11: Bye Bye [preauth]
+Jan 13 14:11:57 Failed password for nginx from 108.160.199.209 port 55742 ssh2
+Jan 13 14:11:57 Received disconnect from 108.160.199.209 port 55742:11: Bye Bye [preauth]

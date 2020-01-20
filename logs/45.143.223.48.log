@@ -1,0 +1,12 @@
+Jan  5 21:54:06 connect from unknown[45.143.223.48]
+Jan  5 21:54:06 C1E0640BF6: client=unknown[45.143.223.48]
+Jan  5 21:54:07 disconnect from unknown[45.143.223.48] ehlo=1 mail=1 rcpt=1 data=1 rset=1 quit=1 commands=6
+Jan  6 09:02:06 connect from unknown[45.143.223.48]
+Jan  6 09:02:06 disconnect from unknown[45.143.223.48] quit=1 commands=1
+Jan  6 09:02:06 connect from unknown[45.143.223.48]
+Jan  6 09:02:07 NOQUEUE: reject: RCPT from unknown[45.143.223.48]: 454 4.7.1 <youngroller09@gmail.com>: Relay access denied; from=<info@claim.com> to=<youngroller09@gmail.com> proto=ESMTP helo=<[45.143.223.48]>
+Jan  6 09:02:07 NOQUEUE: reject: RCPT from unknown[45.143.223.48]: 454 4.7.1 <amandawhitmore11@hotmail.com>: Relay access denied; from=<info@claim.com> to=<amandawhitmore11@hotmail.com> proto=ESMTP helo=<[45.143.223.48]>
+Jan  6 09:02:07 NOQUEUE: reject: RCPT from unknown[45.143.223.48]: 454 4.7.1 <johndugan44@hotmail.com>: Relay access denied; from=<info@claim.com> to=<johndugan44@hotmail.com> proto=ESMTP helo=<[45.143.223.48]>
+Jan  6 09:02:07 NOQUEUE: reject: RCPT from unknown[45.143.223.48]: 454 4.7.1 <James.anthony39@aol.com>: Relay access denied; from=<info@claim.com> to=<James.anthony39@aol.com> proto=ESMTP helo=<[45.143.223.48]>
+Jan  6 09:02:07 NOQUEUE: reject: RCPT from unknown[45.143.223.48]: 454 4.7.1 <k.micheal51@yahoo.com>: Relay access denied; from=<info@claim.com> to=<k.micheal51@yahoo.com> proto=ESMTP helo=<[45.143.223.48]>
+Jan  6 09:02:07 disconnect from unknown[45.143.223.48] ehlo=1 mail=1 rcpt=0/5 rset=1 quit=1 commands=4/9

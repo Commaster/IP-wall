@@ -1,0 +1,3 @@
+Jan 16 19:59:36 Did not receive identification string from 195.66.220.94 port 49766
+Jan 16 19:59:41 Failed password for 666666 from 195.66.220.94 port 57823 ssh2
+Jan 16 19:59:41 Connection closed by 666666 195.66.220.94 port 57823 [preauth]

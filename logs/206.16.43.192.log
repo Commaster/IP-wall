@@ -1,0 +1,2 @@
+206.16.43.192 - - [18/Dec/2019:08:56:05 +0200] "GET /manager/html HTTP/1.1" 400 666 "-" "-" "User-Agent:Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1.0.3705"
+206.16.43.192 - - [18/Dec/2019:08:56:51 +0200] "GET /manager/html HTTP/1.1" 200 68 "-" "-" "User-Agent:Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1.0.3705"

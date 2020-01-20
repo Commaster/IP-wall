@@ -1,0 +1,14 @@
+Jan 10 22:34:47 Failed password for hadoop from 108.160.199.199 port 55546 ssh2
+Jan 10 22:34:47 Received disconnect from 108.160.199.199 port 55546:11: Bye Bye [preauth]
+Jan 10 23:21:51 Failed password for root from 108.160.199.199 port 49358 ssh2
+Jan 10 23:21:51 Received disconnect from 108.160.199.199 port 49358:11: Bye Bye [preauth]
+Jan 11 00:04:51 Failed password for bms from 108.160.199.199 port 37758 ssh2
+Jan 11 00:04:51 Received disconnect from 108.160.199.199 port 37758:11: Bye Bye [preauth]
+Jan 11 00:47:14 Failed password for root from 108.160.199.199 port 54390 ssh2
+Jan 11 00:47:14 Received disconnect from 108.160.199.199 port 54390:11: Bye Bye [preauth]
+Jan 11 01:29:44 Failed password for root from 108.160.199.199 port 42790 ssh2
+Jan 11 01:29:44 Received disconnect from 108.160.199.199 port 42790:11: Bye Bye [preauth]
+Jan 11 02:11:53 Failed password for root from 108.160.199.199 port 59422 ssh2
+Jan 11 02:11:53 Received disconnect from 108.160.199.199 port 59422:11: Bye Bye [preauth]
+Jan 11 02:53:53 Failed password for root from 108.160.199.199 port 47822 ssh2
+Jan 11 02:53:54 Received disconnect from 108.160.199.199 port 47822:11: Bye Bye [preauth]

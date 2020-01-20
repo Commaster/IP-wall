@@ -1,0 +1,4 @@
+Jan 15 15:02:47 Failed password for oracle from 58.82.183.95 port 60006 ssh2
+Jan 15 15:02:47 Received disconnect from 58.82.183.95 port 60006:11: Normal Shutdown, Thank you for playing [preauth]
+58.82.183.95 - - [16/Jan/2020:00:54:37 +0200] "GET /w00tw00t.at.blackhats.romanian.anti-sec:) HTTP/1.1" 301 178 "-" "ZmEu"
+58.82.183.95 - - [16/Jan/2020:00:54:38 +0200] "GET /phpMyAdmin/scripts/setup.php HTTP/1.1" 301 178 "-" "ZmEu"

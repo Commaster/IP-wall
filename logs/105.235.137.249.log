@@ -1,0 +1,3 @@
+Jan 13 14:46:58 Did not receive identification string from 105.235.137.249 port 36682
+Jan 13 14:47:04 Failed password for user from 105.235.137.249 port 40696 ssh2
+Jan 13 14:47:04 Connection closed by user 105.235.137.249 port 40696 [preauth]

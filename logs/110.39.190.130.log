@@ -1,0 +1,3 @@
+Dec 11 12:27:05 Did not receive identification string from 110.39.190.130 port 62916
+Dec 11 12:27:12 Failed password for root from 110.39.190.130 port 63238 ssh2
+Dec 11 12:27:12 Connection closed by authenticating user root 110.39.190.130 port 63238 [preauth]

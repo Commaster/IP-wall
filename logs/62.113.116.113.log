@@ -1,0 +1,6 @@
+Dec 19 04:54:01 Did not receive identification string from 62.113.116.113 port 57541
+Dec 19 04:54:01 Bad protocol version identification 'GET / HTTP/1.1' from 62.113.116.113 port 57829
+Dec 19 04:54:02 Bad protocol version identification 'GET / HTTP/1.1' from 62.113.116.113 port 57894
+Dec 19 04:54:02 Bad protocol version identification 'GET / HTTP/1.1' from 62.113.116.113 port 59224
+62.113.116.113 - - [19/Dec/2019:04:54:02 +0200] "GET / HTTP/1.1" 200 195 "-" "-" "Mozilla/5.0 (Windows NT 5.1; rv:9.0.1) Gecko/20100101 Firefox/9.0.1"
+62.113.116.113 - - [19/Dec/2019:04:54:01 +0200] "GET / HTTP/1.1" 301 178 "-" "Mozilla/5.0 (Windows NT 5.1; rv:9.0.1) Gecko/20100101 Firefox/9.0.1"

@@ -1,0 +1,11 @@
+Jan  7 03:35:39 connect from unknown[45.143.223.13]
+Jan  7 03:35:39 5E0EE40305: client=unknown[45.143.223.13]
+Jan  7 03:35:42 disconnect from unknown[45.143.223.13] ehlo=1 mail=1 rcpt=1 data=1 rset=1 quit=1 commands=6
+Jan  7 09:51:11 connect from unknown[45.143.223.13]
+Jan  7 09:51:11 disconnect from unknown[45.143.223.13] quit=1 commands=1
+Jan  7 09:51:11 connect from unknown[45.143.223.13]
+Jan  7 09:51:11 NOQUEUE: reject: RCPT from unknown[45.143.223.13]: 454 4.7.1 <emmamuchmoney7@yahoo.com>: Relay access denied; from=<test@mail.1csb.com.mx> to=<emmamuchmoney7@yahoo.com> proto=ESMTP helo=<[45.143.223.13]>
+Jan  7 09:51:11 NOQUEUE: reject: RCPT from unknown[45.143.223.13]: 454 4.7.1 <dr.ferdmark12@gmail.com>: Relay access denied; from=<test@mail.1csb.com.mx> to=<dr.ferdmark12@gmail.com> proto=ESMTP helo=<[45.143.223.13]>
+Jan  7 09:51:11 NOQUEUE: reject: RCPT from unknown[45.143.223.13]: 454 4.7.1 <ecowasafrica788@hotmail.com>: Relay access denied; from=<test@mail.1csb.com.mx> to=<ecowasafrica788@hotmail.com> proto=ESMTP helo=<[45.143.223.13]>
+Jan  7 09:51:11 NOQUEUE: reject: RCPT from unknown[45.143.223.13]: 454 4.7.1 <bhighcommission2@aol.com>: Relay access denied; from=<test@mail.1csb.com.mx> to=<bhighcommission2@aol.com> proto=ESMTP helo=<[45.143.223.13]>
+Jan  7 09:51:11 disconnect from unknown[45.143.223.13] ehlo=1 mail=1 rcpt=0/4 rset=1 quit=1 commands=4/8

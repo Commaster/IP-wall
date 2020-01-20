@@ -1,0 +1,5 @@
+59.153.74.71 - - [30/Dec/2019:00:00:51 +0200] "GET /w00tw00t.at.blackhats.romanian.anti-sec:) HTTP/1.1" 301 178 "-" "ZmEu"
+59.153.74.71 - - [30/Dec/2019:00:00:51 +0200] "GET /phpMyAdmin/scripts/setup.php HTTP/1.1" 301 178 "-" "ZmEu"
+59.153.74.71 - - [30/Dec/2019:00:00:52 +0200] "GET /phpmyadmin/scripts/setup.php HTTP/1.1" 301 178 "-" "ZmEu"
+59.153.74.71 - - [30/Dec/2019:00:00:52 +0200] "GET /pma/scripts/setup.php HTTP/1.1" 301 178 "-" "ZmEu"
+59.153.74.71 - - [30/Dec/2019:00:00:53 +0200] "GET /myadmin/scripts/setup.php HTTP/1.1" 301 178 "-" "ZmEu"

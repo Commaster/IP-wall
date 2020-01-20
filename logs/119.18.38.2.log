@@ -1,0 +1,403 @@
+Dec 12 17:57:14 Did not receive identification string from 119.18.38.2 port 42090
+Dec 12 17:58:42 Failed password for root from 119.18.38.2 port 60092 ssh2
+Dec 12 17:58:42 Received disconnect from 119.18.38.2 port 60092:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 17:59:36 Failed password for root from 119.18.38.2 port 44242 ssh2
+Dec 12 17:59:37 Received disconnect from 119.18.38.2 port 44242:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:00:30 Failed password for root from 119.18.38.2 port 56614 ssh2
+Dec 12 18:00:30 Received disconnect from 119.18.38.2 port 56614:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:01:21 Failed password for root from 119.18.38.2 port 40754 ssh2
+Dec 12 18:01:21 Received disconnect from 119.18.38.2 port 40754:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:02:13 Failed password for root from 119.18.38.2 port 53132 ssh2
+Dec 12 18:02:13 Received disconnect from 119.18.38.2 port 53132:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:03:03 Failed password for root from 119.18.38.2 port 37272 ssh2
+Dec 12 18:03:04 Received disconnect from 119.18.38.2 port 37272:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:03:55 Failed password for root from 119.18.38.2 port 49642 ssh2
+Dec 12 18:03:55 Received disconnect from 119.18.38.2 port 49642:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:04:46 Failed password for root from 119.18.38.2 port 33792 ssh2
+Dec 12 18:04:46 Received disconnect from 119.18.38.2 port 33792:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:05:37 Failed password for root from 119.18.38.2 port 46164 ssh2
+Dec 12 18:05:38 Received disconnect from 119.18.38.2 port 46164:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:06:28 Failed password for root from 119.18.38.2 port 58534 ssh2
+Dec 12 18:06:29 Received disconnect from 119.18.38.2 port 58534:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:07:20 Failed password for root from 119.18.38.2 port 42674 ssh2
+Dec 12 18:07:21 Received disconnect from 119.18.38.2 port 42674:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:08:14 Failed password for root from 119.18.38.2 port 55050 ssh2
+Dec 12 18:08:14 Received disconnect from 119.18.38.2 port 55050:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:09:09 Failed password for root from 119.18.38.2 port 39184 ssh2
+Dec 12 18:09:10 Received disconnect from 119.18.38.2 port 39184:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:10:06 Failed password for root from 119.18.38.2 port 51566 ssh2
+Dec 12 18:10:06 Received disconnect from 119.18.38.2 port 51566:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:11:04 Failed password for root from 119.18.38.2 port 35710 ssh2
+Dec 12 18:11:04 Received disconnect from 119.18.38.2 port 35710:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:12:02 Failed password for root from 119.18.38.2 port 48084 ssh2
+Dec 12 18:12:02 Received disconnect from 119.18.38.2 port 48084:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:13:00 Failed password for root from 119.18.38.2 port 60458 ssh2
+Dec 12 18:13:01 Received disconnect from 119.18.38.2 port 60458:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:13:56 Failed password for root from 119.18.38.2 port 44596 ssh2
+Dec 12 18:13:56 Received disconnect from 119.18.38.2 port 44596:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:14:52 Failed password for root from 119.18.38.2 port 56976 ssh2
+Dec 12 18:14:52 Received disconnect from 119.18.38.2 port 56976:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:15:48 Failed password for root from 119.18.38.2 port 41122 ssh2
+Dec 12 18:15:48 Received disconnect from 119.18.38.2 port 41122:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:16:44 Failed password for root from 119.18.38.2 port 53504 ssh2
+Dec 12 18:16:44 Received disconnect from 119.18.38.2 port 53504:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:17:41 Failed password for root from 119.18.38.2 port 37650 ssh2
+Dec 12 18:17:41 Received disconnect from 119.18.38.2 port 37650:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:18:36 Failed password for root from 119.18.38.2 port 50028 ssh2
+Dec 12 18:18:37 Received disconnect from 119.18.38.2 port 50028:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:19:31 Failed password for root from 119.18.38.2 port 34170 ssh2
+Dec 12 18:19:31 Received disconnect from 119.18.38.2 port 34170:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:20:24 Failed password for root from 119.18.38.2 port 46542 ssh2
+Dec 12 18:20:25 Received disconnect from 119.18.38.2 port 46542:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:21:18 Failed password for root from 119.18.38.2 port 58914 ssh2
+Dec 12 18:21:19 Received disconnect from 119.18.38.2 port 58914:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:22:13 Failed password for root from 119.18.38.2 port 43056 ssh2
+Dec 12 18:22:14 Received disconnect from 119.18.38.2 port 43056:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:23:11 Failed password for root from 119.18.38.2 port 55434 ssh2
+Dec 12 18:23:12 Received disconnect from 119.18.38.2 port 55434:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:24:11 Failed password for root from 119.18.38.2 port 39578 ssh2
+Dec 12 18:24:12 Received disconnect from 119.18.38.2 port 39578:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:25:11 Failed password for root from 119.18.38.2 port 51952 ssh2
+Dec 12 18:25:11 Received disconnect from 119.18.38.2 port 51952:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:26:08 Failed password for root from 119.18.38.2 port 36090 ssh2
+Dec 12 18:26:08 Received disconnect from 119.18.38.2 port 36090:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:27:03 Failed password for root from 119.18.38.2 port 48470 ssh2
+Dec 12 18:27:03 Received disconnect from 119.18.38.2 port 48470:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:27:59 Failed password for root from 119.18.38.2 port 60842 ssh2
+Dec 12 18:28:00 Received disconnect from 119.18.38.2 port 60842:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:28:57 Failed password for root from 119.18.38.2 port 44986 ssh2
+Dec 12 18:28:57 Received disconnect from 119.18.38.2 port 44986:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:29:55 Failed password for root from 119.18.38.2 port 57366 ssh2
+Dec 12 18:29:55 Received disconnect from 119.18.38.2 port 57366:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:30:53 Failed password for root from 119.18.38.2 port 41512 ssh2
+Dec 12 18:30:53 Received disconnect from 119.18.38.2 port 41512:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:31:50 Failed password for root from 119.18.38.2 port 53888 ssh2
+Dec 12 18:31:51 Received disconnect from 119.18.38.2 port 53888:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:32:47 Failed password for root from 119.18.38.2 port 38030 ssh2
+Dec 12 18:32:48 Received disconnect from 119.18.38.2 port 38030:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:33:44 Failed password for root from 119.18.38.2 port 50404 ssh2
+Dec 12 18:33:44 Received disconnect from 119.18.38.2 port 50404:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:34:41 Failed password for root from 119.18.38.2 port 34542 ssh2
+Dec 12 18:34:41 Received disconnect from 119.18.38.2 port 34542:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:35:40 Failed password for root from 119.18.38.2 port 46916 ssh2
+Dec 12 18:35:40 Received disconnect from 119.18.38.2 port 46916:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:36:41 Failed password for root from 119.18.38.2 port 59296 ssh2
+Dec 12 18:36:41 Received disconnect from 119.18.38.2 port 59296:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:37:40 Failed password for root from 119.18.38.2 port 43438 ssh2
+Dec 12 18:37:40 Received disconnect from 119.18.38.2 port 43438:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:38:37 Failed password for root from 119.18.38.2 port 55814 ssh2
+Dec 12 18:38:37 Received disconnect from 119.18.38.2 port 55814:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:39:32 Failed password for root from 119.18.38.2 port 39958 ssh2
+Dec 12 18:39:33 Received disconnect from 119.18.38.2 port 39958:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:40:30 Failed password for root from 119.18.38.2 port 52328 ssh2
+Dec 12 18:40:30 Received disconnect from 119.18.38.2 port 52328:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:41:28 Failed password for root from 119.18.38.2 port 36470 ssh2
+Dec 12 18:41:28 Received disconnect from 119.18.38.2 port 36470:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:42:28 Failed password for root from 119.18.38.2 port 48846 ssh2
+Dec 12 18:42:28 Received disconnect from 119.18.38.2 port 48846:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:43:26 Failed password for root from 119.18.38.2 port 32990 ssh2
+Dec 12 18:43:26 Received disconnect from 119.18.38.2 port 32990:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:44:22 Failed password for root from 119.18.38.2 port 45364 ssh2
+Dec 12 18:44:23 Received disconnect from 119.18.38.2 port 45364:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:45:19 Failed password for root from 119.18.38.2 port 57734 ssh2
+Dec 12 18:45:19 Received disconnect from 119.18.38.2 port 57734:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:46:14 Failed password for root from 119.18.38.2 port 41880 ssh2
+Dec 12 18:46:14 Received disconnect from 119.18.38.2 port 41880:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:47:11 Failed password for root from 119.18.38.2 port 54252 ssh2
+Dec 12 18:47:11 Received disconnect from 119.18.38.2 port 54252:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:48:09 Failed password for root from 119.18.38.2 port 38390 ssh2
+Dec 12 18:48:09 Received disconnect from 119.18.38.2 port 38390:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:49:10 Failed password for root from 119.18.38.2 port 50768 ssh2
+Dec 12 18:49:11 Received disconnect from 119.18.38.2 port 50768:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:50:10 Failed password for root from 119.18.38.2 port 34914 ssh2
+Dec 12 18:50:11 Received disconnect from 119.18.38.2 port 34914:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:51:07 Failed password for root from 119.18.38.2 port 47290 ssh2
+Dec 12 18:51:07 Received disconnect from 119.18.38.2 port 47290:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:52:03 Failed password for root from 119.18.38.2 port 59666 ssh2
+Dec 12 18:52:03 Received disconnect from 119.18.38.2 port 59666:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:52:58 Failed password for root from 119.18.38.2 port 43808 ssh2
+Dec 12 18:52:58 Received disconnect from 119.18.38.2 port 43808:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:53:54 Failed password for root from 119.18.38.2 port 56178 ssh2
+Dec 12 18:53:54 Received disconnect from 119.18.38.2 port 56178:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:54:50 Failed password for root from 119.18.38.2 port 40322 ssh2
+Dec 12 18:54:50 Received disconnect from 119.18.38.2 port 40322:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:55:47 Failed password for root from 119.18.38.2 port 52700 ssh2
+Dec 12 18:55:48 Received disconnect from 119.18.38.2 port 52700:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:56:44 Failed password for root from 119.18.38.2 port 36846 ssh2
+Dec 12 18:56:44 Received disconnect from 119.18.38.2 port 36846:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:57:40 Failed password for root from 119.18.38.2 port 49222 ssh2
+Dec 12 18:57:41 Received disconnect from 119.18.38.2 port 49222:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:58:36 Failed password for root from 119.18.38.2 port 33362 ssh2
+Dec 12 18:58:36 Received disconnect from 119.18.38.2 port 33362:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 18:59:33 Failed password for root from 119.18.38.2 port 45738 ssh2
+Dec 12 18:59:33 Received disconnect from 119.18.38.2 port 45738:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:00:33 Failed password for root from 119.18.38.2 port 58114 ssh2
+Dec 12 19:00:33 Received disconnect from 119.18.38.2 port 58114:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:01:36 Failed password for root from 119.18.38.2 port 42256 ssh2
+Dec 12 19:01:37 Received disconnect from 119.18.38.2 port 42256:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:02:38 Failed password for root from 119.18.38.2 port 54628 ssh2
+Dec 12 19:02:39 Received disconnect from 119.18.38.2 port 54628:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:03:38 Failed password for root from 119.18.38.2 port 38774 ssh2
+Dec 12 19:03:38 Received disconnect from 119.18.38.2 port 38774:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:04:37 Failed password for root from 119.18.38.2 port 51150 ssh2
+Dec 12 19:04:38 Received disconnect from 119.18.38.2 port 51150:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:05:35 Failed password for root from 119.18.38.2 port 35292 ssh2
+Dec 12 19:05:36 Received disconnect from 119.18.38.2 port 35292:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:06:33 Failed password for root from 119.18.38.2 port 47664 ssh2
+Dec 12 19:06:34 Received disconnect from 119.18.38.2 port 47664:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:07:33 Failed password for root from 119.18.38.2 port 60042 ssh2
+Dec 12 19:07:33 Received disconnect from 119.18.38.2 port 60042:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:08:32 Failed password for root from 119.18.38.2 port 44180 ssh2
+Dec 12 19:08:33 Received disconnect from 119.18.38.2 port 44180:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:09:31 Failed password for root from 119.18.38.2 port 56560 ssh2
+Dec 12 19:09:31 Received disconnect from 119.18.38.2 port 56560:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:10:27 Failed password for root from 119.18.38.2 port 40706 ssh2
+Dec 12 19:10:28 Received disconnect from 119.18.38.2 port 40706:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:11:25 Failed password for root from 119.18.38.2 port 53082 ssh2
+Dec 12 19:11:26 Received disconnect from 119.18.38.2 port 53082:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:12:23 Failed password for root from 119.18.38.2 port 37228 ssh2
+Dec 12 19:12:24 Received disconnect from 119.18.38.2 port 37228:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:13:24 Failed password for root from 119.18.38.2 port 49602 ssh2
+Dec 12 19:13:25 Received disconnect from 119.18.38.2 port 49602:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:14:29 Failed password for root from 119.18.38.2 port 33746 ssh2
+Dec 12 19:14:29 Received disconnect from 119.18.38.2 port 33746:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:15:31 Failed password for root from 119.18.38.2 port 46118 ssh2
+Dec 12 19:15:31 Received disconnect from 119.18.38.2 port 46118:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:16:32 Failed password for root from 119.18.38.2 port 58494 ssh2
+Dec 12 19:16:33 Received disconnect from 119.18.38.2 port 58494:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:17:31 Failed password for root from 119.18.38.2 port 42640 ssh2
+Dec 12 19:17:31 Received disconnect from 119.18.38.2 port 42640:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:18:31 Failed password for root from 119.18.38.2 port 55016 ssh2
+Dec 12 19:18:31 Received disconnect from 119.18.38.2 port 55016:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:19:30 Failed password for root from 119.18.38.2 port 39156 ssh2
+Dec 12 19:19:31 Received disconnect from 119.18.38.2 port 39156:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:20:32 Failed password for root from 119.18.38.2 port 51530 ssh2
+Dec 12 19:20:32 Received disconnect from 119.18.38.2 port 51530:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:21:33 Failed password for root from 119.18.38.2 port 35678 ssh2
+Dec 12 19:21:34 Received disconnect from 119.18.38.2 port 35678:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:22:33 Failed password for root from 119.18.38.2 port 48054 ssh2
+Dec 12 19:22:33 Received disconnect from 119.18.38.2 port 48054:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:23:32 Failed password for root from 119.18.38.2 port 60430 ssh2
+Dec 12 19:23:32 Received disconnect from 119.18.38.2 port 60430:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:24:31 Failed password for root from 119.18.38.2 port 44572 ssh2
+Dec 12 19:24:31 Received disconnect from 119.18.38.2 port 44572:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:25:30 Failed password for root from 119.18.38.2 port 56948 ssh2
+Dec 12 19:25:31 Received disconnect from 119.18.38.2 port 56948:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:26:33 Failed password for root from 119.18.38.2 port 41092 ssh2
+Dec 12 19:26:33 Received disconnect from 119.18.38.2 port 41092:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:27:37 Failed password for root from 119.18.38.2 port 53470 ssh2
+Dec 12 19:27:37 Received disconnect from 119.18.38.2 port 53470:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:28:41 Failed password for root from 119.18.38.2 port 37616 ssh2
+Dec 12 19:28:41 Received disconnect from 119.18.38.2 port 37616:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:29:42 Failed password for root from 119.18.38.2 port 49994 ssh2
+Dec 12 19:29:43 Received disconnect from 119.18.38.2 port 49994:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:30:42 Failed password for root from 119.18.38.2 port 34136 ssh2
+Dec 12 19:30:42 Received disconnect from 119.18.38.2 port 34136:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:31:43 Failed password for root from 119.18.38.2 port 46510 ssh2
+Dec 12 19:31:43 Received disconnect from 119.18.38.2 port 46510:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:32:44 Failed password for root from 119.18.38.2 port 58886 ssh2
+Dec 12 19:32:45 Received disconnect from 119.18.38.2 port 58886:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:33:47 Failed password for root from 119.18.38.2 port 43026 ssh2
+Dec 12 19:33:47 Received disconnect from 119.18.38.2 port 43026:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:34:48 Failed password for root from 119.18.38.2 port 55400 ssh2
+Dec 12 19:34:49 Received disconnect from 119.18.38.2 port 55400:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:35:48 Failed password for root from 119.18.38.2 port 39544 ssh2
+Dec 12 19:35:48 Received disconnect from 119.18.38.2 port 39544:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:36:48 Failed password for root from 119.18.38.2 port 51926 ssh2
+Dec 12 19:36:48 Received disconnect from 119.18.38.2 port 51926:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:37:49 Failed password for root from 119.18.38.2 port 36072 ssh2
+Dec 12 19:37:49 Received disconnect from 119.18.38.2 port 36072:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:38:52 Failed password for root from 119.18.38.2 port 48446 ssh2
+Dec 12 19:38:52 Received disconnect from 119.18.38.2 port 48446:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:39:59 Failed password for root from 119.18.38.2 port 60824 ssh2
+Dec 12 19:39:59 Received disconnect from 119.18.38.2 port 60824:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:41:04 Failed password for root from 119.18.38.2 port 44964 ssh2
+Dec 12 19:41:05 Received disconnect from 119.18.38.2 port 44964:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:42:08 Failed password for root from 119.18.38.2 port 57338 ssh2
+Dec 12 19:42:09 Received disconnect from 119.18.38.2 port 57338:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:43:08 Failed password for gpadmin from 119.18.38.2 port 41488 ssh2
+Dec 12 19:43:09 Received disconnect from 119.18.38.2 port 41488:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:44:10 Failed password for git from 119.18.38.2 port 53870 ssh2
+Dec 12 19:44:10 Received disconnect from 119.18.38.2 port 53870:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:45:12 Failed password for hadoop from 119.18.38.2 port 38014 ssh2
+Dec 12 19:45:13 Received disconnect from 119.18.38.2 port 38014:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:46:15 Failed password for oracle from 119.18.38.2 port 50392 ssh2
+Dec 12 19:46:15 Received disconnect from 119.18.38.2 port 50392:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:47:17 Failed password for hadoop from 119.18.38.2 port 34536 ssh2
+Dec 12 19:47:17 Received disconnect from 119.18.38.2 port 34536:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:48:17 Failed password for oracle from 119.18.38.2 port 46914 ssh2
+Dec 12 19:48:17 Received disconnect from 119.18.38.2 port 46914:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:49:17 Failed password for git from 119.18.38.2 port 59290 ssh2
+Dec 12 19:49:17 Received disconnect from 119.18.38.2 port 59290:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:50:17 Failed password for mysql from 119.18.38.2 port 43448 ssh2
+Dec 12 19:50:18 Received disconnect from 119.18.38.2 port 43448:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:51:20 Failed password for postgres from 119.18.38.2 port 55832 ssh2
+Dec 12 19:51:21 Received disconnect from 119.18.38.2 port 55832:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:52:26 Failed password for zabbix from 119.18.38.2 port 39976 ssh2
+Dec 12 19:52:26 Received disconnect from 119.18.38.2 port 39976:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:53:32 Failed password for zabbix from 119.18.38.2 port 52352 ssh2
+Dec 12 19:53:32 Received disconnect from 119.18.38.2 port 52352:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:54:33 Failed password for nagios from 119.18.38.2 port 36494 ssh2
+Dec 12 19:54:33 Received disconnect from 119.18.38.2 port 36494:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:55:34 Failed password for db2admin from 119.18.38.2 port 48882 ssh2
+Dec 12 19:55:34 Received disconnect from 119.18.38.2 port 48882:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:56:36 Failed password for mysql from 119.18.38.2 port 33030 ssh2
+Dec 12 19:56:36 Received disconnect from 119.18.38.2 port 33030:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:57:38 Failed password for nagios from 119.18.38.2 port 45408 ssh2
+Dec 12 19:57:38 Received disconnect from 119.18.38.2 port 45408:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:58:42 Failed password for postgres from 119.18.38.2 port 57782 ssh2
+Dec 12 19:58:43 Received disconnect from 119.18.38.2 port 57782:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 19:59:46 Failed password for portal from 119.18.38.2 port 41932 ssh2
+Dec 12 19:59:47 Received disconnect from 119.18.38.2 port 41932:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:00:49 Failed password for postgres from 119.18.38.2 port 54318 ssh2
+Dec 12 20:00:49 Received disconnect from 119.18.38.2 port 54318:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:01:49 Failed password for nexus from 119.18.38.2 port 38468 ssh2
+Dec 12 20:01:50 Received disconnect from 119.18.38.2 port 38468:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:02:53 Failed password for nexus from 119.18.38.2 port 50850 ssh2
+Dec 12 20:02:53 Received disconnect from 119.18.38.2 port 50850:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:03:59 Failed password for test123 from 119.18.38.2 port 34996 ssh2
+Dec 12 20:03:59 Received disconnect from 119.18.38.2 port 34996:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:05:05 Failed password for factorio from 119.18.38.2 port 47366 ssh2
+Dec 12 20:05:06 Received disconnect from 119.18.38.2 port 47366:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:06:08 Failed password for bwadmin from 119.18.38.2 port 59736 ssh2
+Dec 12 20:06:09 Received disconnect from 119.18.38.2 port 59736:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:07:11 Failed password for utente from 119.18.38.2 port 43886 ssh2
+Dec 12 20:07:11 Received disconnect from 119.18.38.2 port 43886:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:08:12 Failed password for tomcat from 119.18.38.2 port 56278 ssh2
+Dec 12 20:08:13 Received disconnect from 119.18.38.2 port 56278:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:09:14 Failed password for hadoop from 119.18.38.2 port 40420 ssh2
+Dec 12 20:09:15 Received disconnect from 119.18.38.2 port 40420:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:10:18 Failed password for hadoop from 119.18.38.2 port 52796 ssh2
+Dec 12 20:10:19 Received disconnect from 119.18.38.2 port 52796:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:11:23 Failed password for hadoop from 119.18.38.2 port 36942 ssh2
+Dec 12 20:11:24 Received disconnect from 119.18.38.2 port 36942:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:12:28 Failed password for bitrix from 119.18.38.2 port 49316 ssh2
+Dec 12 20:12:28 Received disconnect from 119.18.38.2 port 49316:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:13:32 Failed password for jenkins from 119.18.38.2 port 33470 ssh2
+Dec 12 20:13:32 Received disconnect from 119.18.38.2 port 33470:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:14:37 Failed password for testuser from 119.18.38.2 port 45858 ssh2
+Dec 12 20:14:38 Received disconnect from 119.18.38.2 port 45858:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:15:44 Failed password for testuser from 119.18.38.2 port 58238 ssh2
+Dec 12 20:15:44 Received disconnect from 119.18.38.2 port 58238:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:16:49 Failed password for testuser from 119.18.38.2 port 42382 ssh2
+Dec 12 20:16:50 Received disconnect from 119.18.38.2 port 42382:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:17:54 Failed password for testuser from 119.18.38.2 port 54756 ssh2
+Dec 12 20:17:55 Received disconnect from 119.18.38.2 port 54756:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:18:56 Failed password for test from 119.18.38.2 port 38902 ssh2
+Dec 12 20:18:57 Received disconnect from 119.18.38.2 port 38902:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:19:59 Failed password for git from 119.18.38.2 port 51292 ssh2
+Dec 12 20:19:59 Received disconnect from 119.18.38.2 port 51292:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:21:00 Failed password for jenkins from 119.18.38.2 port 35450 ssh2
+Dec 12 20:21:00 Received disconnect from 119.18.38.2 port 35450:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:22:01 Failed password for jenkins from 119.18.38.2 port 47822 ssh2
+Dec 12 20:22:01 Received disconnect from 119.18.38.2 port 47822:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:23:03 Failed password for jenkins from 119.18.38.2 port 60202 ssh2
+Dec 12 20:23:04 Received disconnect from 119.18.38.2 port 60202:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:24:08 Failed password for jenkins from 119.18.38.2 port 44346 ssh2
+Dec 12 20:24:08 Received disconnect from 119.18.38.2 port 44346:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:25:12 Failed password for jenkins from 119.18.38.2 port 56726 ssh2
+Dec 12 20:25:12 Received disconnect from 119.18.38.2 port 56726:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:26:17 Failed password for jenkins from 119.18.38.2 port 40882 ssh2
+Dec 12 20:26:17 Received disconnect from 119.18.38.2 port 40882:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:27:24 Failed password for postgres from 119.18.38.2 port 53266 ssh2
+Dec 12 20:27:24 Received disconnect from 119.18.38.2 port 53266:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:28:29 Failed password for postgres from 119.18.38.2 port 37408 ssh2
+Dec 12 20:28:29 Received disconnect from 119.18.38.2 port 37408:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:29:32 Failed password for postgres from 119.18.38.2 port 49780 ssh2
+Dec 12 20:29:32 Received disconnect from 119.18.38.2 port 49780:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:30:37 Failed password for postgres from 119.18.38.2 port 33930 ssh2
+Dec 12 20:30:37 Received disconnect from 119.18.38.2 port 33930:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:31:41 Failed password for postgres from 119.18.38.2 port 46306 ssh2
+Dec 12 20:31:41 Received disconnect from 119.18.38.2 port 46306:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:32:43 Failed password for vnc from 119.18.38.2 port 58684 ssh2
+Dec 12 20:32:43 Received disconnect from 119.18.38.2 port 58684:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:33:45 Failed password for teste from 119.18.38.2 port 42830 ssh2
+Dec 12 20:33:45 Received disconnect from 119.18.38.2 port 42830:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:34:47 Failed password for test1 from 119.18.38.2 port 55200 ssh2
+Dec 12 20:34:47 Received disconnect from 119.18.38.2 port 55200:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:35:52 Failed password for oracle from 119.18.38.2 port 39338 ssh2
+Dec 12 20:35:52 Received disconnect from 119.18.38.2 port 39338:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:36:56 Failed password for test from 119.18.38.2 port 51720 ssh2
+Dec 12 20:36:56 Received disconnect from 119.18.38.2 port 51720:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:38:01 Failed password for test from 119.18.38.2 port 35860 ssh2
+Dec 12 20:38:01 Received disconnect from 119.18.38.2 port 35860:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:39:07 Failed password for test from 119.18.38.2 port 48240 ssh2
+Dec 12 20:39:08 Received disconnect from 119.18.38.2 port 48240:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:40:11 Failed password for test from 119.18.38.2 port 60614 ssh2
+Dec 12 20:40:11 Received disconnect from 119.18.38.2 port 60614:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:41:14 Failed password for test from 119.18.38.2 port 44756 ssh2
+Dec 12 20:41:14 Received disconnect from 119.18.38.2 port 44756:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:42:54 Failed password for test from 119.18.38.2 port 57140 ssh2
+Dec 12 20:42:55 Received disconnect from 119.18.38.2 port 57140:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:44:37 Failed password for user from 119.18.38.2 port 41294 ssh2
+Dec 12 20:44:38 Received disconnect from 119.18.38.2 port 41294:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:45:55 Failed password for tester from 119.18.38.2 port 58110 ssh2
+Dec 12 20:45:55 Received disconnect from 119.18.38.2 port 58110:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:46:57 Failed password for ftpuser from 119.18.38.2 port 41446 ssh2
+Dec 12 20:46:57 Received disconnect from 119.18.38.2 port 41446:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:48:01 Failed password for ftpuser from 119.18.38.2 port 55308 ssh2
+Dec 12 20:48:02 Received disconnect from 119.18.38.2 port 55308:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:49:08 Failed password for ubuntu from 119.18.38.2 port 40346 ssh2
+Dec 12 20:49:08 Received disconnect from 119.18.38.2 port 40346:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:50:15 Failed password for ubuntu from 119.18.38.2 port 54066 ssh2
+Dec 12 20:50:15 Received disconnect from 119.18.38.2 port 54066:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:51:24 Failed password for ubuntu from 119.18.38.2 port 39984 ssh2
+Dec 12 20:51:25 Received disconnect from 119.18.38.2 port 39984:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:52:30 Failed password for ubuntu from 119.18.38.2 port 52906 ssh2
+Dec 12 20:52:30 Received disconnect from 119.18.38.2 port 52906:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:53:33 Failed password for ubuntu from 119.18.38.2 port 36270 ssh2
+Dec 12 20:53:33 Received disconnect from 119.18.38.2 port 36270:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:54:37 Failed password for ubuntu from 119.18.38.2 port 46904 ssh2
+Dec 12 20:54:37 Received disconnect from 119.18.38.2 port 46904:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:55:41 Failed password for ubuntu from 119.18.38.2 port 57928 ssh2
+Dec 12 20:55:41 Received disconnect from 119.18.38.2 port 57928:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:56:46 Failed password for ubuntu from 119.18.38.2 port 40926 ssh2
+Dec 12 20:56:46 Received disconnect from 119.18.38.2 port 40926:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:57:50 Failed password for ubuntu from 119.18.38.2 port 51214 ssh2
+Dec 12 20:57:50 Received disconnect from 119.18.38.2 port 51214:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:58:54 Failed password for oracle from 119.18.38.2 port 33562 ssh2
+Dec 12 20:58:54 Received disconnect from 119.18.38.2 port 33562:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 20:59:57 Failed password for oracle from 119.18.38.2 port 43934 ssh2
+Dec 12 20:59:57 Received disconnect from 119.18.38.2 port 43934:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 21:01:02 Failed password for oracle from 119.18.38.2 port 53910 ssh2
+Dec 12 21:01:03 Received disconnect from 119.18.38.2 port 53910:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 21:02:10 Failed password for test from 119.18.38.2 port 37842 ssh2
+Dec 12 21:02:11 Received disconnect from 119.18.38.2 port 37842:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 21:03:21 Failed password for postgres from 119.18.38.2 port 51202 ssh2
+Dec 12 21:03:21 Received disconnect from 119.18.38.2 port 51202:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 21:04:28 Failed password for user from 119.18.38.2 port 34782 ssh2
+Dec 12 21:04:28 Received disconnect from 119.18.38.2 port 34782:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 21:05:32 Failed password for user from 119.18.38.2 port 46032 ssh2
+Dec 12 21:05:33 Received disconnect from 119.18.38.2 port 46032:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 21:06:37 Failed password for user from 119.18.38.2 port 56092 ssh2
+Dec 12 21:06:37 Received disconnect from 119.18.38.2 port 56092:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 21:07:42 Failed password for admin from 119.18.38.2 port 36664 ssh2
+Dec 12 21:07:42 Received disconnect from 119.18.38.2 port 36664:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 21:08:47 Failed password for user from 119.18.38.2 port 45054 ssh2
+Dec 12 21:08:47 Received disconnect from 119.18.38.2 port 45054:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 21:09:53 Failed password for admin from 119.18.38.2 port 54726 ssh2
+Dec 12 21:09:53 Received disconnect from 119.18.38.2 port 54726:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 21:10:57 Failed password for admin from 119.18.38.2 port 36564 ssh2
+Dec 12 21:10:57 Received disconnect from 119.18.38.2 port 36564:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 21:12:03 Failed password for admin from 119.18.38.2 port 46286 ssh2
+Dec 12 21:12:03 Received disconnect from 119.18.38.2 port 46286:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 21:13:08 Failed password for admin from 119.18.38.2 port 56920 ssh2
+Dec 12 21:13:09 Received disconnect from 119.18.38.2 port 56920:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 21:14:17 Failed password for hadoop from 119.18.38.2 port 41050 ssh2
+Dec 12 21:14:17 Received disconnect from 119.18.38.2 port 41050:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 21:15:30 Failed password for hadoop from 119.18.38.2 port 56542 ssh2
+Dec 12 21:15:30 Received disconnect from 119.18.38.2 port 56542:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 21:16:39 Failed password for nagios from 119.18.38.2 port 42112 ssh2
+Dec 12 21:16:40 Received disconnect from 119.18.38.2 port 42112:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 21:17:46 Failed password for nagios from 119.18.38.2 port 53414 ssh2
+Dec 12 21:17:46 Received disconnect from 119.18.38.2 port 53414:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 21:18:54 Failed password for nagios from 119.18.38.2 port 36166 ssh2
+Dec 12 21:18:54 Received disconnect from 119.18.38.2 port 36166:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 21:20:01 Failed password for dev from 119.18.38.2 port 46582 ssh2
+Dec 12 21:20:01 Received disconnect from 119.18.38.2 port 46582:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 21:21:10 Failed password for ntps from 119.18.38.2 port 58764 ssh2
+Dec 12 21:21:10 Received disconnect from 119.18.38.2 port 58764:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 21:22:19 Failed password for root from 119.18.38.2 port 44630 ssh2
+Dec 12 21:22:19 Received disconnect from 119.18.38.2 port 44630:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 12 21:23:28 Failed password for user from 119.18.38.2 port 57642 ssh2
+Dec 12 21:23:28 Received disconnect from 119.18.38.2 port 57642:11: Normal Shutdown, Thank you for playing [preauth]

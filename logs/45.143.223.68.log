@@ -1,0 +1,12 @@
+Dec 22 06:10:36 connect from unknown[45.143.223.68]
+Dec 22 06:10:36 F0BE84104A: client=unknown[45.143.223.68]
+Dec 22 06:10:40 disconnect from unknown[45.143.223.68] ehlo=1 mail=1 rcpt=1 data=1 rset=1 quit=1 commands=6
+Dec 23 00:16:24 connect from unknown[45.143.223.68]
+Dec 23 00:16:24 disconnect from unknown[45.143.223.68] quit=1 commands=1
+Dec 23 00:16:24 connect from unknown[45.143.223.68]
+Dec 23 00:16:24 NOQUEUE: reject: RCPT from unknown[45.143.223.68]: 454 4.7.1 <diplomcynthiamrose121@yahoo.com>: Relay access denied; from=<rosemorganc212@gmail.com> to=<diplomcynthiamrose121@yahoo.com> proto=ESMTP helo=<[45.143.223.68]>
+Dec 23 00:16:24 NOQUEUE: reject: RCPT from unknown[45.143.223.68]: 454 4.7.1 <rosemorganc212@gmail.com>: Relay access denied; from=<rosemorganc212@gmail.com> to=<rosemorganc212@gmail.com> proto=ESMTP helo=<[45.143.223.68]>
+Dec 23 00:16:24 NOQUEUE: reject: RCPT from unknown[45.143.223.68]: 454 4.7.1 <morganrosemdiploma@gmail.com>: Relay access denied; from=<rosemorganc212@gmail.com> to=<morganrosemdiploma@gmail.com> proto=ESMTP helo=<[45.143.223.68]>
+Dec 23 00:16:24 NOQUEUE: reject: RCPT from unknown[45.143.223.68]: 454 4.7.1 <sallyadams5463@outlook.com>: Relay access denied; from=<rosemorganc212@gmail.com> to=<sallyadams5463@outlook.com> proto=ESMTP helo=<[45.143.223.68]>
+Dec 23 00:16:24 NOQUEUE: reject: RCPT from unknown[45.143.223.68]: 454 4.7.1 <mssgcentre01@aol.com>: Relay access denied; from=<rosemorganc212@gmail.com> to=<mssgcentre01@aol.com> proto=ESMTP helo=<[45.143.223.68]>
+Dec 23 00:16:25 disconnect from unknown[45.143.223.68] ehlo=1 mail=1 rcpt=0/5 rset=1 quit=1 commands=4/9

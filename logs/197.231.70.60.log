@@ -1,0 +1,4 @@
+Jan 11 07:02:55 Failed password for pi from 197.231.70.60 port 36710 ssh2
+Jan 11 07:02:55 Failed password for pi from 197.231.70.60 port 36706 ssh2
+Jan 11 07:02:56 Connection closed by pi 197.231.70.60 port 36710 [preauth]
+Jan 11 07:02:56 Connection closed by pi 197.231.70.60 port 36706 [preauth]

@@ -1,0 +1,4 @@
+Jan 19 23:44:41 Failed password for erik from 83.240.245.242 port 40988 ssh2
+Jan 19 23:44:41 Received disconnect from 83.240.245.242 port 40988:11: Bye Bye [preauth]
+Jan 20 06:57:17 Failed password for root from 83.240.245.242 port 48030 ssh2
+Jan 20 06:57:17 Received disconnect from 83.240.245.242 port 48030:11: Bye Bye [preauth]

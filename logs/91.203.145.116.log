@@ -1,0 +1,2 @@
+91.203.145.116 - - [11/Dec/2019:21:46:18 +0200] "GET /component/users/?view=registration HTTP/1.1" 200 68 "-" "http://terrafun.tk" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.1)"
+91.203.145.116 - - [11/Dec/2019:21:45:31 +0200] "GET /component/users/?view=registration HTTP/1.1" 301 178 "http://terrafun.tk" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.1)"

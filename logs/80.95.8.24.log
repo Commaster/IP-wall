@@ -1,0 +1,3 @@
+Dec  9 13:56:04 Did not receive identification string from 80.95.8.24 port 64405
+Dec  9 13:57:30 Failed password for user1 from 80.95.8.24 port 59550 ssh2
+Dec  9 13:57:31 Connection closed by user1 80.95.8.24 port 59550 [preauth]

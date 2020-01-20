@@ -1,0 +1,12 @@
+Dec  9 23:16:57 warning: hostname 107.171.27.185.in-addr.datacom.se does not resolve to address 185.27.171.107: Name or service not known
+Dec  9 23:16:57 connect from unknown[185.27.171.107]
+Dec  9 23:16:59 warning: unknown[185.27.171.107]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Dec  9 23:16:59 disconnect from unknown[185.27.171.107] ehlo=1 auth=0/1 quit=1 commands=2/3
+Dec 10 16:16:07 warning: hostname 107.171.27.185.in-addr.datacom.se does not resolve to address 185.27.171.107: Name or service not known
+Dec 10 16:16:07 connect from unknown[185.27.171.107]
+Dec 10 16:16:10 warning: unknown[185.27.171.107]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Dec 10 16:16:10 disconnect from unknown[185.27.171.107] ehlo=1 auth=0/1 quit=1 commands=2/3
+Dec 10 21:45:48 warning: hostname 107.171.27.185.in-addr.datacom.se does not resolve to address 185.27.171.107: Name or service not known
+Dec 10 21:45:48 connect from unknown[185.27.171.107]
+Dec 10 21:45:51 warning: unknown[185.27.171.107]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Dec 10 21:45:51 disconnect from unknown[185.27.171.107] ehlo=1 auth=0/1 quit=1 commands=2/3

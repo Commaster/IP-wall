@@ -1,0 +1,3 @@
+Jan  9 19:47:23 Did not receive identification string from 83.110.111.93 port 61108
+Jan  9 19:47:30 Failed password for Administrator from 83.110.111.93 port 50200 ssh2
+Jan  9 19:47:30 Connection closed by Administrator 83.110.111.93 port 50200 [preauth]

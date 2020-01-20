@@ -1,0 +1,8 @@
+Jan 17 10:50:12 Failed password for root from 62.197.120.198 port 42826 ssh2
+Jan 17 10:50:12 Received disconnect from 62.197.120.198 port 42826:11: Bye Bye [preauth]
+Jan 17 12:24:08 Failed password for redis from 62.197.120.198 port 39646 ssh2
+Jan 17 12:24:08 Received disconnect from 62.197.120.198 port 39646:11: Bye Bye [preauth]
+Jan 17 13:44:04 Failed password for steve from 62.197.120.198 port 54108 ssh2
+Jan 17 13:44:04 Received disconnect from 62.197.120.198 port 54108:11: Bye Bye [preauth]
+Jan 17 15:03:27 Failed password for haga from 62.197.120.198 port 53080 ssh2
+Jan 17 15:03:27 Received disconnect from 62.197.120.198 port 53080:11: Bye Bye [preauth]

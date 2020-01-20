@@ -1,0 +1,73 @@
+Dec 24 00:32:52 Did not receive identification string from 198.57.27.3 port 39532
+Dec 24 00:36:28 Failed password for libuuid from 198.57.27.3 port 43116 ssh2
+Dec 24 00:36:28 Received disconnect from 198.57.27.3 port 43116:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:28 Failed password for mbps from 198.57.27.3 port 44484 ssh2
+Dec 24 00:36:28 Received disconnect from 198.57.27.3 port 44484:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:29 Failed password for alice from 198.57.27.3 port 41838 ssh2
+Dec 24 00:36:29 Failed password for packer from 198.57.27.3 port 41296 ssh2
+Dec 24 00:36:29 Failed password for guest from 198.57.27.3 port 40690 ssh2
+Dec 24 00:36:29 Received disconnect from 198.57.27.3 port 41838:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:29 Failed password for ts3 from 198.57.27.3 port 45536 ssh2
+Dec 24 00:36:29 Received disconnect from 198.57.27.3 port 40690:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:29 Received disconnect from 198.57.27.3 port 45536:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:29 Received disconnect from 198.57.27.3 port 41296:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:30 Failed password for jenkins from 198.57.27.3 port 45036 ssh2
+Dec 24 00:36:30 Received disconnect from 198.57.27.3 port 45036:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:30 Failed password for ftproot from 198.57.27.3 port 46062 ssh2
+Dec 24 00:36:30 Failed password for ubuntu from 198.57.27.3 port 43920 ssh2
+Dec 24 00:36:30 Failed password for ec2-user from 198.57.27.3 port 47538 ssh2
+Dec 24 00:36:30 Received disconnect from 198.57.27.3 port 46062:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:30 Received disconnect from 198.57.27.3 port 43920:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:30 Received disconnect from 198.57.27.3 port 47538:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:30 Failed password for matt from 198.57.27.3 port 49346 ssh2
+Dec 24 00:36:30 Received disconnect from 198.57.27.3 port 49346:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:31 Failed password for ftpuser from 198.57.27.3 port 46656 ssh2
+Dec 24 00:36:31 Received disconnect from 198.57.27.3 port 46656:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:32 Failed password for a from 198.57.27.3 port 49946 ssh2
+Dec 24 00:36:32 Received disconnect from 198.57.27.3 port 49946:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:32 Failed password for musicbot from 198.57.27.3 port 50546 ssh2
+Dec 24 00:36:32 Received disconnect from 198.57.27.3 port 50546:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:32 Failed password for sinusbot from 198.57.27.3 port 51142 ssh2
+Dec 24 00:36:32 Received disconnect from 198.57.27.3 port 51142:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:33 Failed password for afk from 198.57.27.3 port 52348 ssh2
+Dec 24 00:36:33 Received disconnect from 198.57.27.3 port 52348:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:34 Failed password for jenkins from 198.57.27.3 port 53556 ssh2
+Dec 24 00:36:34 Received disconnect from 198.57.27.3 port 53556:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:35 Failed password for system from 198.57.27.3 port 54148 ssh2
+Dec 24 00:36:35 Received disconnect from 198.57.27.3 port 54148:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:35 Failed password for storm from 198.57.27.3 port 40296 ssh2
+Dec 24 00:36:35 Received disconnect from 198.57.27.3 port 40296:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:36 Failed password for sysop from 198.57.27.3 port 54746 ssh2
+Dec 24 00:36:36 Received disconnect from 198.57.27.3 port 54746:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:36 Failed password for cacti from 198.57.27.3 port 55348 ssh2
+Dec 24 00:36:36 Received disconnect from 198.57.27.3 port 55348:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:37 Failed password for ak47 from 198.57.27.3 port 52948 ssh2
+Dec 24 00:36:37 Received disconnect from 198.57.27.3 port 52948:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:37 Failed password for kafka from 198.57.27.3 port 55948 ssh2
+Dec 24 00:36:38 Received disconnect from 198.57.27.3 port 55948:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:38 Failed password for nexus from 198.57.27.3 port 56548 ssh2
+Dec 24 00:36:38 Received disconnect from 198.57.27.3 port 56548:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:39 Failed password for vyatta from 198.57.27.3 port 57148 ssh2
+Dec 24 00:36:39 Received disconnect from 198.57.27.3 port 57148:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:39 Failed password for www from 198.57.27.3 port 57750 ssh2
+Dec 24 00:36:39 Received disconnect from 198.57.27.3 port 57750:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:40 Failed password for deploy from 198.57.27.3 port 58350 ssh2
+Dec 24 00:36:40 Received disconnect from 198.57.27.3 port 58350:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:41 Failed password for glassfish3 from 198.57.27.3 port 59552 ssh2
+Dec 24 00:36:41 Failed password for glassfish1 from 198.57.27.3 port 58952 ssh2
+Dec 24 00:36:41 Received disconnect from 198.57.27.3 port 59552:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:41 Received disconnect from 198.57.27.3 port 58952:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:42 Failed password for bot from 198.57.27.3 port 60154 ssh2
+Dec 24 00:36:42 Received disconnect from 198.57.27.3 port 60154:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:43 Failed password for bot from 198.57.27.3 port 60752 ssh2
+Dec 24 00:36:43 Received disconnect from 198.57.27.3 port 60752:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:45 Failed password for botadd from 198.57.27.3 port 33122 ssh2
+Dec 24 00:36:45 Received disconnect from 198.57.27.3 port 33122:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:45 Failed password for teamspeak from 198.57.27.3 port 33722 ssh2
+Dec 24 00:36:45 Received disconnect from 198.57.27.3 port 33722:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:47 Failed password for root from 198.57.27.3 port 34924 ssh2
+Dec 24 00:36:48 Received disconnect from 198.57.27.3 port 34924:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:48 Failed password for root from 198.57.27.3 port 35522 ssh2
+Dec 24 00:36:48 Received disconnect from 198.57.27.3 port 35522:11: Normal Shutdown, Thank you for playing [preauth]
+Dec 24 00:36:49 Failed password for root from 198.57.27.3 port 34314 ssh2
+Dec 24 00:36:49 Received disconnect from 198.57.27.3 port 34314:11: Normal Shutdown, Thank you for playing [preauth]

@@ -1,0 +1,2 @@
+49.236.213.235 - - [12/Dec/2019:18:21:37 +0200] "GET /magento2/pub/errors/503.php HTTP/1.1" 200 68 "-" "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0"
+49.236.213.235 - - [12/Dec/2019:18:21:45 +0200] "GET /magento2/pub/errors/503.php HTTP/1.1" 200 68 "-" "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0"
