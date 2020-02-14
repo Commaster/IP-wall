@@ -1,0 +1,2 @@
+150.242.18.177 - - [25/Jan/2020:08:40:07 +0200] "GET / HTTP/1.1" 301 178 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7"
+150.242.18.177 - - [25/Jan/2020:08:40:07 +0200] "GET / HTTP/1.1" 400 166 "-" "-"

@@ -1,0 +1,97 @@
+Jan 20 11:07:00 Failed password for root from 217.208.143.103 port 56368 ssh2
+Jan 20 11:07:10 message repeated 5 times: [ Failed password for root from 217.208.143.103 port 56368 ssh2]
+Jan 20 11:07:20 Failed password for root from 217.208.143.103 port 56385 ssh2
+Jan 20 11:07:30 message repeated 5 times: [ Failed password for root from 217.208.143.103 port 56385 ssh2]
+Jan 20 11:07:40 Failed password for root from 217.208.143.103 port 56398 ssh2
+Jan 20 11:07:50 message repeated 5 times: [ Failed password for root from 217.208.143.103 port 56398 ssh2]
+Jan 20 11:08:01 Failed password for root from 217.208.143.103 port 56413 ssh2
+Jan 20 11:08:05 message repeated 2 times: [ Failed password for root from 217.208.143.103 port 56413 ssh2]
+Jan 20 11:08:07 Failed password for root from 217.208.143.103 port 56413 ssh2
+Jan 20 11:08:07 Received disconnect from 217.208.143.103 port 56413:11: disconnected by user [preauth]
+Jan 20 11:08:14 Failed password for admin from 217.208.143.103 port 56426 ssh2
+Jan 20 11:08:16 Failed password for admin from 217.208.143.103 port 56426 ssh2
+Jan 20 11:08:18 Failed password for admin from 217.208.143.103 port 56426 ssh2
+Jan 20 11:08:20 Failed password for admin from 217.208.143.103 port 56426 ssh2
+Jan 20 11:08:22 Failed password for admin from 217.208.143.103 port 56426 ssh2
+Jan 20 11:08:24 Failed password for admin from 217.208.143.103 port 56426 ssh2
+Jan 20 11:08:32 Failed password for admin from 217.208.143.103 port 56437 ssh2
+Jan 20 11:08:34 Failed password for admin from 217.208.143.103 port 56437 ssh2
+Jan 20 11:08:37 Failed password for admin from 217.208.143.103 port 56437 ssh2
+Jan 20 11:08:39 Failed password for admin from 217.208.143.103 port 56437 ssh2
+Jan 20 11:08:41 Failed password for admin from 217.208.143.103 port 56437 ssh2
+Jan 20 11:08:43 Failed password for admin from 217.208.143.103 port 56437 ssh2
+Jan 20 11:08:51 Failed password for admin from 217.208.143.103 port 56448 ssh2
+Jan 20 11:08:53 Failed password for admin from 217.208.143.103 port 56448 ssh2
+Jan 20 11:08:54 Received disconnect from 217.208.143.103 port 56448:11: disconnected by user [preauth]
+Jan 20 11:09:03 Failed password for pi from 217.208.143.103 port 56455 ssh2
+Jan 20 11:09:05 Failed password for pi from 217.208.143.103 port 56455 ssh2
+Jan 20 11:09:05 Received disconnect from 217.208.143.103 port 56455:11: disconnected by user [preauth]
+Jan 20 11:09:15 Failed password for baikal from 217.208.143.103 port 56464 ssh2
+Jan 20 11:09:15 Received disconnect from 217.208.143.103 port 56464:11: disconnected by user [preauth]
+Jan 20 11:09:22 Failed password for oracle from 217.208.143.103 port 32986 ssh2
+Jan 20 11:09:25 Failed password for oracle from 217.208.143.103 port 32986 ssh2
+Jan 20 11:09:27 Failed password for oracle from 217.208.143.103 port 32986 ssh2
+Jan 20 11:09:29 Failed password for oracle from 217.208.143.103 port 32986 ssh2
+Jan 20 11:09:31 Failed password for oracle from 217.208.143.103 port 32986 ssh2
+Jan 20 11:09:33 Failed password for oracle from 217.208.143.103 port 32986 ssh2
+Jan 20 11:09:43 Failed password for oracle from 217.208.143.103 port 32999 ssh2
+Jan 20 11:09:45 Failed password for oracle from 217.208.143.103 port 32999 ssh2
+Jan 20 11:09:47 Failed password for oracle from 217.208.143.103 port 32999 ssh2
+Jan 20 11:09:50 Failed password for oracle from 217.208.143.103 port 32999 ssh2
+Jan 20 11:09:52 Failed password for oracle from 217.208.143.103 port 32999 ssh2
+Jan 20 11:09:55 Failed password for oracle from 217.208.143.103 port 32999 ssh2
+Jan 20 11:10:03 Failed password for oracle from 217.208.143.103 port 33015 ssh2
+Jan 20 11:10:06 Failed password for oracle from 217.208.143.103 port 33015 ssh2
+Jan 20 11:10:06 Received disconnect from 217.208.143.103 port 33015:11: disconnected by user [preauth]
+Jan 20 11:10:16 Failed password for usuario from 217.208.143.103 port 33020 ssh2
+Jan 20 11:10:18 Failed password for usuario from 217.208.143.103 port 33020 ssh2
+Jan 20 11:10:20 Failed password for usuario from 217.208.143.103 port 33020 ssh2
+Jan 20 11:10:22 Failed password for usuario from 217.208.143.103 port 33020 ssh2
+Jan 20 11:10:25 Failed password for usuario from 217.208.143.103 port 33020 ssh2
+Jan 20 11:10:27 Failed password for usuario from 217.208.143.103 port 33020 ssh2
+Jan 20 11:10:36 Failed password for usuario from 217.208.143.103 port 33035 ssh2
+Jan 20 11:10:39 Failed password for usuario from 217.208.143.103 port 33035 ssh2
+Jan 20 11:10:41 Failed password for usuario from 217.208.143.103 port 33035 ssh2
+Jan 20 11:10:43 Failed password for usuario from 217.208.143.103 port 33035 ssh2
+Jan 20 11:10:46 Failed password for usuario from 217.208.143.103 port 33035 ssh2
+Jan 20 11:10:48 Failed password for usuario from 217.208.143.103 port 33035 ssh2
+Jan 20 11:10:57 Failed password for usuario from 217.208.143.103 port 33050 ssh2
+Jan 20 11:11:00 Failed password for usuario from 217.208.143.103 port 33050 ssh2
+Jan 20 11:11:00 Received disconnect from 217.208.143.103 port 33050:11: disconnected by user [preauth]
+Jan 20 11:11:08 Failed password for test from 217.208.143.103 port 33057 ssh2
+Jan 20 11:11:10 Failed password for test from 217.208.143.103 port 33057 ssh2
+Jan 20 11:11:12 Failed password for test from 217.208.143.103 port 33057 ssh2
+Jan 20 11:11:14 Failed password for test from 217.208.143.103 port 33057 ssh2
+Jan 20 11:11:16 Failed password for test from 217.208.143.103 port 33057 ssh2
+Jan 20 11:11:18 Failed password for test from 217.208.143.103 port 33057 ssh2
+Jan 20 11:11:26 Failed password for test from 217.208.143.103 port 33069 ssh2
+Jan 20 11:11:28 Failed password for test from 217.208.143.103 port 33069 ssh2
+Jan 20 11:11:30 Failed password for test from 217.208.143.103 port 33069 ssh2
+Jan 20 11:11:32 Failed password for test from 217.208.143.103 port 33069 ssh2
+Jan 20 11:11:34 Failed password for test from 217.208.143.103 port 33069 ssh2
+Jan 20 11:11:37 Failed password for test from 217.208.143.103 port 33069 ssh2
+Jan 20 11:11:48 Failed password for test from 217.208.143.103 port 33082 ssh2
+Jan 20 11:11:50 Failed password for test from 217.208.143.103 port 33082 ssh2
+Jan 20 11:11:50 Received disconnect from 217.208.143.103 port 33082:11: disconnected by user [preauth]
+Jan 20 11:11:58 Failed password for user from 217.208.143.103 port 33092 ssh2
+Jan 20 11:12:00 Failed password for user from 217.208.143.103 port 33092 ssh2
+Jan 20 11:12:02 Failed password for user from 217.208.143.103 port 33092 ssh2
+Jan 20 11:12:03 Failed password for user from 217.208.143.103 port 33092 ssh2
+Jan 20 11:12:06 Failed password for user from 217.208.143.103 port 33092 ssh2
+Jan 20 11:12:08 Failed password for user from 217.208.143.103 port 33092 ssh2
+Jan 20 11:12:19 Failed password for user from 217.208.143.103 port 33102 ssh2
+Jan 20 11:12:20 Failed password for user from 217.208.143.103 port 33102 ssh2
+Jan 20 11:12:22 Failed password for user from 217.208.143.103 port 33102 ssh2
+Jan 20 11:12:24 Failed password for user from 217.208.143.103 port 33102 ssh2
+Jan 20 11:12:26 Failed password for user from 217.208.143.103 port 33102 ssh2
+Jan 20 11:12:27 Failed password for user from 217.208.143.103 port 33102 ssh2
+Jan 20 11:12:35 Failed password for user from 217.208.143.103 port 33113 ssh2
+Jan 20 11:12:37 Failed password for user from 217.208.143.103 port 33113 ssh2
+Jan 20 11:12:37 Received disconnect from 217.208.143.103 port 33113:11: disconnected by user [preauth]
+Jan 20 11:12:46 Failed password for ftpuser from 217.208.143.103 port 33119 ssh2
+Jan 20 11:12:48 Failed password for ftpuser from 217.208.143.103 port 33119 ssh2
+Jan 20 11:12:50 Failed password for ftpuser from 217.208.143.103 port 33119 ssh2
+Jan 20 11:12:52 Failed password for ftpuser from 217.208.143.103 port 33119 ssh2
+Jan 20 11:12:54 Failed password for ftpuser from 217.208.143.103 port 33119 ssh2
+Jan 20 11:12:56 Failed password for ftpuser from 217.208.143.103 port 33119 ssh2
+Jan 20 11:13:11 Connection closed by 217.208.143.103 port 33134 [preauth]

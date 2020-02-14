@@ -1,0 +1,1 @@
+193.36.119.115 - - [25/Jan/2020:05:26:14 +0200] "GET / HTTP/1.0" 301 178 "-" "masscan/1.0 (https://github.com/robertdavidgraham/masscan)"

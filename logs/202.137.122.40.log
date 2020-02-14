@@ -1,0 +1,3 @@
+Feb  2 08:57:57 Did not receive identification string from 202.137.122.40 port 42512
+Feb  2 08:58:03 Failed password for dircreate from 202.137.122.40 port 26385 ssh2
+Feb  2 08:58:03 Connection closed by dircreate 202.137.122.40 port 26385 [preauth]

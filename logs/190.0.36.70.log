@@ -1,0 +1,22 @@
+Feb  6 20:59:42 warning: hostname Static-BAFibra190-0-36-70.epm.net.co does not resolve to address 190.0.36.70
+Feb  6 20:59:42 connect from unknown[190.0.36.70]
+Feb  6 20:59:43 C1FC64382B: client=unknown[190.0.36.70]
+Feb  6 20:59:48 disconnect from unknown[190.0.36.70] ehlo=1 mail=1 rcpt=1 data=1 rset=1 quit=1 commands=6
+Feb  8 00:20:51 warning: hostname Static-BAFibra190-0-36-70.epm.net.co does not resolve to address 190.0.36.70
+Feb  8 00:20:51 connect from unknown[190.0.36.70]
+Feb  8 00:20:52 disconnect from unknown[190.0.36.70] quit=1 commands=1
+Feb  8 00:20:52 warning: hostname Static-BAFibra190-0-36-70.epm.net.co does not resolve to address 190.0.36.70
+Feb  8 00:20:52 connect from unknown[190.0.36.70]
+Feb  8 00:20:52 NOQUEUE: reject: RCPT from unknown[190.0.36.70]: 454 4.7.1 <messagebox666@gmail.com>: Relay access denied; from=<app> to=<messagebox666@gmail.com> proto=ESMTP helo=<SVRTERM.unionelectrica.com.co>
+Feb  8 00:20:53 NOQUEUE: reject: RCPT from unknown[190.0.36.70]: 454 4.7.1 <john.document@yahoo.co.uk>: Relay access denied; from=<app> to=<john.document@yahoo.co.uk> proto=ESMTP helo=<SVRTERM.unionelectrica.com.co>
+Feb  8 00:20:53 NOQUEUE: reject: RCPT from unknown[190.0.36.70]: 454 4.7.1 <G006677@hotmail.com>: Relay access denied; from=<app> to=<G006677@hotmail.com> proto=ESMTP helo=<SVRTERM.unionelectrica.com.co>
+Feb  8 00:20:53 disconnect from unknown[190.0.36.70] ehlo=1 mail=1 rcpt=0/3 rset=1 quit=1 commands=4/7
+Feb  8 00:21:36 warning: hostname Static-BAFibra190-0-36-70.epm.net.co does not resolve to address 190.0.36.70
+Feb  8 00:21:36 connect from unknown[190.0.36.70]
+Feb  8 00:21:37 disconnect from unknown[190.0.36.70] quit=1 commands=1
+Feb  8 00:21:37 warning: hostname Static-BAFibra190-0-36-70.epm.net.co does not resolve to address 190.0.36.70
+Feb  8 00:21:37 connect from unknown[190.0.36.70]
+Feb  8 00:21:38 NOQUEUE: reject: RCPT from unknown[190.0.36.70]: 454 4.7.1 <messagebox666@gmail.com>: Relay access denied; from=<app> to=<messagebox666@gmail.com> proto=ESMTP helo=<SVRTERM.unionelectrica.com.co>
+Feb  8 00:21:38 NOQUEUE: reject: RCPT from unknown[190.0.36.70]: 454 4.7.1 <john.document@yahoo.co.uk>: Relay access denied; from=<app> to=<john.document@yahoo.co.uk> proto=ESMTP helo=<SVRTERM.unionelectrica.com.co>
+Feb  8 00:21:38 NOQUEUE: reject: RCPT from unknown[190.0.36.70]: 454 4.7.1 <G006677@hotmail.com>: Relay access denied; from=<app> to=<G006677@hotmail.com> proto=ESMTP helo=<SVRTERM.unionelectrica.com.co>
+Feb  8 00:21:39 disconnect from unknown[190.0.36.70] ehlo=1 mail=1 rcpt=0/3 rset=1 quit=1 commands=4/7

@@ -1,0 +1,18 @@
+Feb  4 00:35:05 Connection closed by 94.59.69.16 port 39884 [preauth]
+Feb  4 00:35:13 Connection closed by 94.59.69.16 port 40458 [preauth]
+Feb  4 00:35:18 Failed password for 22 from 94.59.69.16 port 38636 ssh2
+Feb  4 00:35:18 Received disconnect from 94.59.69.16 port 38636:11: Bye Bye [preauth]
+Feb  4 02:40:07 Failed password for 22 from 94.59.69.16 port 46360 ssh2
+Feb  4 02:40:07 Received disconnect from 94.59.69.16 port 46360:11: Bye Bye [preauth]
+Feb  4 04:04:29 Connection closed by 94.59.69.16 port 52314 [preauth]
+Feb  4 04:20:04 Connection closed by 94.59.69.16 port 45980 [preauth]
+Feb  4 04:30:50 Connection closed by 94.59.69.16 port 53512 [preauth]
+Feb  4 04:46:08 Connection closed by 94.59.69.16 port 57672 [preauth]
+Feb  4 04:58:14 Failed password for 22 from 94.59.69.16 port 44624 ssh2
+Feb  4 04:58:14 Received disconnect from 94.59.69.16 port 44624:11: Bye Bye [preauth]
+Feb  4 05:14:54 Connection closed by 94.59.69.16 port 59552 [preauth]
+Feb  4 05:26:38 Connection closed by 94.59.69.16 port 51644 [preauth]
+Feb  4 05:46:10 Failed password for 9222 from 94.59.69.16 port 37224 ssh2
+Feb  4 05:46:10 Received disconnect from 94.59.69.16 port 37224:11: Bye Bye [preauth]
+Feb  4 06:00:28 Failed password for 22 from 94.59.69.16 port 55104 ssh2
+Feb  4 06:00:28 Received disconnect from 94.59.69.16 port 55104:11: Bye Bye [preauth]

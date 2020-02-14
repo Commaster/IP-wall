@@ -1,0 +1,3 @@
+Feb 12 20:54:02 Did not receive identification string from 199.250.132.72 port 49966
+Feb 12 20:54:11 Failed password for admin1 from 199.250.132.72 port 55865 ssh2
+Feb 12 20:54:32 Connection closed by admin1 199.250.132.72 port 55865 [preauth]

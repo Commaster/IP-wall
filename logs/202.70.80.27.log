@@ -1,0 +1,4 @@
+Jan 24 20:52:28 Failed password for mike from 202.70.80.27 port 35082 ssh2
+Jan 24 20:52:28 Received disconnect from 202.70.80.27 port 35082:11: Bye Bye [preauth]
+Jan 27 20:23:45 Failed password for jl from 202.70.80.27 port 52870 ssh2
+Jan 27 20:23:45 Received disconnect from 202.70.80.27 port 52870:11: Bye Bye [preauth]

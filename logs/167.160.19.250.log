@@ -1,0 +1,2 @@
+167.160.19.250 - - [22/Jan/2020:02:36:22 +0200] "GET / HTTP/1.1" 301 178 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:28.0) Gecko/20100101 Firefox/28.0"
+167.160.19.250 - - [22/Jan/2020:02:36:22 +0200] "POST /Admin792124b0/Login.php HTTP/1.1" 301 178 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:28.0) Gecko/20100101 Firefox/28.0"

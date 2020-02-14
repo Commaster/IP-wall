@@ -1,0 +1,3 @@
+Feb 13 10:49:44 Did not receive identification string from 1.6.180.189 port 58040
+Feb 13 10:49:54 Failed password for 888888 from 1.6.180.189 port 54757 ssh2
+Feb 13 10:49:55 Connection closed by 888888 1.6.180.189 port 54757 [preauth]

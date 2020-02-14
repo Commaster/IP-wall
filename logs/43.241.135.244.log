@@ -1,0 +1,3 @@
+Feb  8 14:20:22 Did not receive identification string from 43.241.135.244 port 49396
+Feb  8 14:20:27 Failed password for tech from 43.241.135.244 port 54433 ssh2
+Feb  8 14:20:28 Connection closed by tech 43.241.135.244 port 54433 [preauth]

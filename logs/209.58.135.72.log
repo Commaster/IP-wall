@@ -1,0 +1,109 @@
+Feb 11 07:22:45 Did not receive identification string from 209.58.135.72 port 57292
+Feb 11 07:22:50 Failed password for root from 209.58.135.72 port 57458 ssh2
+Feb 11 07:22:51 Connection closed by authenticating user root 209.58.135.72 port 57458 [preauth]
+Feb 11 07:22:55 Failed password for root from 209.58.135.72 port 58002 ssh2
+Feb 11 07:22:56 Connection closed by authenticating user root 209.58.135.72 port 58002 [preauth]
+Feb 11 07:23:00 Failed password for root from 209.58.135.72 port 58464 ssh2
+Feb 11 07:23:01 Connection closed by authenticating user root 209.58.135.72 port 58464 [preauth]
+Feb 11 07:23:09 Failed password for root from 209.58.135.72 port 58924 ssh2
+Feb 11 07:23:10 Connection closed by authenticating user root 209.58.135.72 port 58924 [preauth]
+Feb 11 07:23:18 Failed password for root from 209.58.135.72 port 59792 ssh2
+Feb 11 07:23:19 Connection closed by authenticating user root 209.58.135.72 port 59792 [preauth]
+Feb 11 07:23:28 Failed password for root from 209.58.135.72 port 60618 ssh2
+Feb 11 07:23:29 Connection closed by authenticating user root 209.58.135.72 port 60618 [preauth]
+Feb 11 07:23:39 Failed password for root from 209.58.135.72 port 33298 ssh2
+Feb 11 07:23:40 Connection closed by authenticating user root 209.58.135.72 port 33298 [preauth]
+Feb 11 07:23:47 Failed password for root from 209.58.135.72 port 34384 ssh2
+Feb 11 07:23:48 Connection closed by authenticating user root 209.58.135.72 port 34384 [preauth]
+Feb 11 07:23:54 Failed password for root from 209.58.135.72 port 35120 ssh2
+Feb 11 07:23:55 Connection closed by authenticating user root 209.58.135.72 port 35120 [preauth]
+Feb 11 07:24:03 Failed password for root from 209.58.135.72 port 35810 ssh2
+Feb 11 07:24:05 Connection closed by authenticating user root 209.58.135.72 port 35810 [preauth]
+Feb 11 07:24:27 Failed password for root from 209.58.135.72 port 36680 ssh2
+Feb 11 07:24:28 Connection closed by authenticating user root 209.58.135.72 port 36680 [preauth]
+Feb 11 07:24:36 Failed password for root from 209.58.135.72 port 38792 ssh2
+Feb 11 07:24:36 Connection closed by authenticating user root 209.58.135.72 port 38792 [preauth]
+Feb 11 07:24:43 Failed password for root from 209.58.135.72 port 39628 ssh2
+Feb 11 07:24:44 Connection closed by authenticating user root 209.58.135.72 port 39628 [preauth]
+Feb 11 07:25:14 Failed password for root from 209.58.135.72 port 40120 ssh2
+Feb 11 07:25:15 Connection closed by authenticating user root 209.58.135.72 port 40120 [preauth]
+Feb 11 07:25:21 Failed password for root from 209.58.135.72 port 42748 ssh2
+Feb 11 07:25:22 Connection closed by authenticating user root 209.58.135.72 port 42748 [preauth]
+Feb 11 07:25:30 Failed password for root from 209.58.135.72 port 43390 ssh2
+Feb 11 07:25:32 Connection closed by authenticating user root 209.58.135.72 port 43390 [preauth]
+Feb 11 07:25:42 Failed password for root from 209.58.135.72 port 44088 ssh2
+Feb 11 07:25:42 Connection closed by authenticating user root 209.58.135.72 port 44088 [preauth]
+Feb 11 07:25:52 Failed password for ubuntu from 209.58.135.72 port 44962 ssh2
+Feb 11 07:25:53 Connection closed by ubuntu 209.58.135.72 port 44962 [preauth]
+Feb 11 07:26:01 Failed password for test from 209.58.135.72 port 45984 ssh2
+Feb 11 07:26:01 Connection closed by test 209.58.135.72 port 45984 [preauth]
+Feb 11 07:26:08 Failed password for test from 209.58.135.72 port 46744 ssh2
+Feb 11 07:26:09 Connection closed by test 209.58.135.72 port 46744 [preauth]
+Feb 11 07:26:14 Failed password for test from 209.58.135.72 port 47354 ssh2
+Feb 11 07:26:15 Connection closed by test 209.58.135.72 port 47354 [preauth]
+Feb 11 07:26:24 Failed password for user from 209.58.135.72 port 47878 ssh2
+Feb 11 07:26:24 Connection closed by user 209.58.135.72 port 47878 [preauth]
+Feb 11 07:26:33 Failed password for user from 209.58.135.72 port 48736 ssh2
+Feb 11 07:26:36 Connection closed by user 209.58.135.72 port 48736 [preauth]
+Feb 11 07:26:47 Failed password for debian from 209.58.135.72 port 49458 ssh2
+Feb 11 07:26:48 Connection closed by debian 209.58.135.72 port 49458 [preauth]
+Feb 11 07:27:00 Failed password for guest from 209.58.135.72 port 50756 ssh2
+Feb 11 07:27:01 Connection closed by guest 209.58.135.72 port 50756 [preauth]
+Feb 11 07:27:07 Failed password for guest from 209.58.135.72 port 52034 ssh2
+Feb 11 07:27:08 Connection closed by guest 209.58.135.72 port 52034 [preauth]
+Feb 11 07:27:16 Failed password for oracle from 209.58.135.72 port 52624 ssh2
+Feb 11 07:27:17 Connection closed by oracle 209.58.135.72 port 52624 [preauth]
+Feb 11 07:27:24 Failed password for oracle from 209.58.135.72 port 53372 ssh2
+Feb 11 07:27:25 Connection closed by oracle 209.58.135.72 port 53372 [preauth]
+Feb 11 07:27:31 Failed password for oracle from 209.58.135.72 port 54106 ssh2
+Feb 11 07:27:32 Connection closed by oracle 209.58.135.72 port 54106 [preauth]
+Feb 11 07:27:38 Failed password for usr from 209.58.135.72 port 54692 ssh2
+Feb 11 07:27:39 Connection closed by usr 209.58.135.72 port 54692 [preauth]
+Feb 11 07:27:47 Failed password for vpn from 209.58.135.72 port 55402 ssh2
+Feb 11 07:27:48 Connection closed by vpn 209.58.135.72 port 55402 [preauth]
+Feb 11 07:28:02 Failed password for www from 209.58.135.72 port 56128 ssh2
+Feb 11 07:28:04 Connection closed by www 209.58.135.72 port 56128 [preauth]
+Feb 11 07:28:11 Failed password for web from 209.58.135.72 port 57504 ssh2
+Feb 11 07:28:13 Connection closed by web 209.58.135.72 port 57504 [preauth]
+Feb 11 07:28:19 Failed password for default from 209.58.135.72 port 58340 ssh2
+Feb 11 07:28:20 Connection closed by default 209.58.135.72 port 58340 [preauth]
+Feb 11 07:28:29 Failed password for dbadmin from 209.58.135.72 port 58932 ssh2
+Feb 11 07:28:30 Connection closed by dbadmin 209.58.135.72 port 58932 [preauth]
+Feb 11 07:28:36 Failed password for git from 209.58.135.72 port 60002 ssh2
+Feb 11 07:28:36 Connection closed by git 209.58.135.72 port 60002 [preauth]
+Feb 11 07:28:43 Failed password for git from 209.58.135.72 port 60740 ssh2
+Feb 11 07:28:44 Connection closed by git 209.58.135.72 port 60740 [preauth]
+Feb 11 07:28:49 Failed password for ftp from 209.58.135.72 port 33228 ssh2
+Feb 11 07:28:50 Connection closed by ftp 209.58.135.72 port 33228 [preauth]
+Feb 11 07:29:01 Failed password for ftp from 209.58.135.72 port 33780 ssh2
+Feb 11 07:29:01 Connection closed by ftp 209.58.135.72 port 33780 [preauth]
+Feb 11 07:29:18 Failed password for mail from 209.58.135.72 port 34852 ssh2
+Feb 11 07:29:18 Connection closed by authenticating user mail 209.58.135.72 port 34852 [preauth]
+Feb 11 07:29:26 Failed password for work from 209.58.135.72 port 36388 ssh2
+Feb 11 07:29:31 Connection closed by work 209.58.135.72 port 36388 [preauth]
+Feb 11 07:29:36 Failed password for ftpuser from 209.58.135.72 port 37116 ssh2
+Feb 11 07:29:37 Connection closed by ftpuser 209.58.135.72 port 37116 [preauth]
+Feb 11 07:29:45 Failed password for gpadmin from 209.58.135.72 port 38004 ssh2
+Feb 11 07:29:47 Connection closed by gpadmin 209.58.135.72 port 38004 [preauth]
+Feb 11 07:29:55 Failed password for user1 from 209.58.135.72 port 38788 ssh2
+Feb 11 07:29:56 Connection closed by user1 209.58.135.72 port 38788 [preauth]
+Feb 11 07:30:03 Failed password for manager from 209.58.135.72 port 39780 ssh2
+Feb 11 07:30:04 Connection closed by manager 209.58.135.72 port 39780 [preauth]
+Feb 11 07:30:12 Failed password for mysql from 209.58.135.72 port 40504 ssh2
+Feb 11 07:30:14 Connection closed by authenticating user mysql 209.58.135.72 port 40504 [preauth]
+Feb 11 07:30:32 Failed password for mysql from 209.58.135.72 port 41424 ssh2
+Feb 11 07:30:34 Connection closed by authenticating user mysql 209.58.135.72 port 41424 [preauth]
+Feb 11 07:31:00 Failed password for client from 209.58.135.72 port 43346 ssh2
+Feb 11 07:31:01 Connection closed by client 209.58.135.72 port 43346 [preauth]
+Feb 11 07:31:09 Failed password for client from 209.58.135.72 port 45722 ssh2
+Feb 11 07:31:10 Connection closed by client 209.58.135.72 port 45722 [preauth]
+Feb 11 07:31:16 Failed password for apache from 209.58.135.72 port 46450 ssh2
+Feb 11 07:31:17 Connection closed by apache 209.58.135.72 port 46450 [preauth]
+Feb 11 07:31:31 Failed password for apache from 209.58.135.72 port 47080 ssh2
+Feb 11 07:31:31 Connection closed by apache 209.58.135.72 port 47080 [preauth]
+Feb 11 07:31:39 Failed password for pi from 209.58.135.72 port 48326 ssh2
+Feb 11 07:31:40 Connection closed by pi 209.58.135.72 port 48326 [preauth]
+Feb 11 07:31:47 Failed password for pi from 209.58.135.72 port 49166 ssh2
+Feb 11 07:31:48 Connection closed by pi 209.58.135.72 port 49166 [preauth]
+Feb 11 07:31:56 Failed password for administrator from 209.58.135.72 port 49864 ssh2
+Feb 11 07:31:58 Connection closed by administrator 209.58.135.72 port 49864 [preauth]

@@ -1,0 +1,5 @@
+194.26.29.123 - - [29/Jan/2020:11:49:59 +0200] "GET / HTTP/1.0" 301 178 "-" "masscan/1.0 (https://github.com/robertdavidgraham/masscan)"
+Jan 30 05:30:13 connect from unknown[194.26.29.123]
+Jan 30 05:30:13 SSL_accept error from unknown[194.26.29.123]: lost connection
+Jan 30 05:30:13 lost connection after STARTTLS from unknown[194.26.29.123]
+Jan 30 05:30:13 disconnect from unknown[194.26.29.123] ehlo=1 starttls=0/1 commands=1/2

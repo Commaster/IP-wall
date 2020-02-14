@@ -1,0 +1,4 @@
+Jan 20 22:53:32 warning: hostname static.cmcti.vn does not resolve to address 203.171.20.103: Name or service not known
+Jan 20 22:53:32 connect from unknown[203.171.20.103]
+Jan 20 22:53:33 4B8E8403C7: client=unknown[203.171.20.103]
+Jan 20 22:53:38 disconnect from unknown[203.171.20.103] ehlo=1 mail=1 rcpt=1 data=1 rset=1 quit=1 commands=6
