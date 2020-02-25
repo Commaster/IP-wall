@@ -1,0 +1,4 @@
+Feb 20 20:39:07 Failed password for info from 81.28.167.30 port 36311 ssh2
+Feb 20 20:39:07 Received disconnect from 81.28.167.30 port 36311:11: Bye Bye [preauth]
+Feb 20 20:39:15 Failed password for info from 81.28.167.30 port 37055 ssh2
+Feb 20 20:39:15 Received disconnect from 81.28.167.30 port 37055:11: Bye Bye [preauth]
