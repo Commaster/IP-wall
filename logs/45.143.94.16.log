@@ -1,0 +1,4 @@
+45.143.94.16 - - [29/Feb/2020:17:56:35 +0200] "GET http://www.google.com/ HTTP/1.0" 301 162 "-" "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"
+45.143.94.16 - - [29/Feb/2020:17:56:35 +0200] "GET http://173.194.73.101/ HTTP/1.0" 301 162 "-" "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"
+45.143.94.16 - - [29/Feb/2020:17:57:14 +0200] "GET http://www.google.com/ HTTP/1.0" 301 162 "-" "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"
+45.143.94.16 - - [29/Feb/2020:17:57:14 +0200] "GET http://173.194.73.101/ HTTP/1.0" 301 162 "-" "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"

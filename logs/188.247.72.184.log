@@ -1,0 +1,6 @@
+Feb 28 20:23:02 Failed password for root from 188.247.72.184 port 45258 ssh2
+Feb 28 20:23:02 Connection closed by authenticating user root 188.247.72.184 port 45258 [preauth]
+Feb 28 20:27:21 Failed password for root from 188.247.72.184 port 45261 ssh2
+Feb 28 20:27:21 Connection closed by authenticating user root 188.247.72.184 port 45261 [preauth]
+Feb 28 20:42:31 Failed password for root from 188.247.72.184 port 45584 ssh2
+Feb 28 20:42:31 Connection closed by authenticating user root 188.247.72.184 port 45584 [preauth]

