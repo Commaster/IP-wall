@@ -1,0 +1,2 @@
+202.40.191.115 - - [16/Mar/2020:21:10:21 +0200] "GET /TP/public/index.php HTTP/1.1" 301 162 "-" "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)"
+202.40.191.115 - - [16/Mar/2020:21:10:21 +0200] "GET / HTTP/1.1" 301 162 "-" "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)"

@@ -1,0 +1,36 @@
+Mar 12 05:25:30 Did not receive identification string from 1.119.190.10 port 59596
+Mar 12 05:27:29 Failed password for miner from 1.119.190.10 port 37742 ssh2
+Mar 12 05:27:29 Received disconnect from 1.119.190.10 port 37742:11: Normal Shutdown, Thank you for playing [preauth]
+Mar 12 05:29:28 Failed password for miner from 1.119.190.10 port 35108 ssh2
+Mar 12 05:29:28 Received disconnect from 1.119.190.10 port 35108:11: Normal Shutdown, Thank you for playing [preauth]
+Mar 12 05:37:35 Failed password for hadoop from 1.119.190.10 port 35394 ssh2
+Mar 12 05:37:35 Received disconnect from 1.119.190.10 port 35394:11: Normal Shutdown, Thank you for playing [preauth]
+Mar 12 05:45:38 Failed password for postgres from 1.119.190.10 port 35402 ssh2
+Mar 12 05:45:40 Received disconnect from 1.119.190.10 port 35402:11: Normal Shutdown, Thank you for playing [preauth]
+Mar 12 05:58:08 Did not receive identification string from 1.119.190.10 port 35346
+Mar 12 05:59:55 Failed password for miner from 1.119.190.10 port 53554 ssh2
+Mar 12 05:59:55 Received disconnect from 1.119.190.10 port 53554:11: Normal Shutdown, Thank you for playing [preauth]
+Mar 12 06:05:53 Failed password for miner from 1.119.190.10 port 42244 ssh2
+Mar 12 06:05:54 Received disconnect from 1.119.190.10 port 42244:11: Normal Shutdown, Thank you for playing [preauth]
+Mar 12 06:07:32 Failed password for hadoop from 1.119.190.10 port 53802 ssh2
+Mar 12 06:07:32 Received disconnect from 1.119.190.10 port 53802:11: Normal Shutdown, Thank you for playing [preauth]
+Mar 12 06:09:20 Failed password for hadoop from 1.119.190.10 port 37242 ssh2
+Mar 12 06:09:20 Received disconnect from 1.119.190.10 port 37242:11: Normal Shutdown, Thank you for playing [preauth]
+Mar 12 06:18:34 Failed password for postgres from 1.119.190.10 port 39548 ssh2
+Mar 12 06:18:34 Received disconnect from 1.119.190.10 port 39548:11: Normal Shutdown, Thank you for playing [preauth]
+Mar 12 06:20:25 Failed password for postgres from 1.119.190.10 port 51298 ssh2
+Mar 12 06:20:25 Received disconnect from 1.119.190.10 port 51298:11: Normal Shutdown, Thank you for playing [preauth]
+Mar 12 06:23:49 Failed password for postgres from 1.119.190.10 port 36724 ssh2
+Mar 12 06:23:49 Received disconnect from 1.119.190.10 port 36724:11: Normal Shutdown, Thank you for playing [preauth]
+Mar 12 06:27:36 Failed password for git from 1.119.190.10 port 48560 ssh2
+Mar 12 06:27:36 Received disconnect from 1.119.190.10 port 48560:11: Normal Shutdown, Thank you for playing [preauth]
+Mar 12 06:28:17 Failed password for git from 1.119.190.10 port 33074 ssh2
+Mar 12 06:28:17 Received disconnect from 1.119.190.10 port 33074:11: Normal Shutdown, Thank you for playing [preauth]
+Mar 12 06:41:53 Failed password for spark from 1.119.190.10 port 46488 ssh2
+Mar 12 06:41:53 Received disconnect from 1.119.190.10 port 46488:11: Normal Shutdown, Thank you for playing [preauth]
+Mar 12 06:44:06 Failed password for spark from 1.119.190.10 port 58046 ssh2
+Mar 12 06:44:06 Received disconnect from 1.119.190.10 port 58046:11: Normal Shutdown, Thank you for playing [preauth]
+Mar 12 06:46:01 Failed password for kafka from 1.119.190.10 port 41110 ssh2
+Mar 12 06:46:01 Received disconnect from 1.119.190.10 port 41110:11: Normal Shutdown, Thank you for playing [preauth]
+Mar 12 06:49:27 Failed password for kafka from 1.119.190.10 port 53832 ssh2
+Mar 12 06:49:27 Received disconnect from 1.119.190.10 port 53832:11: Normal Shutdown, Thank you for playing [preauth]
