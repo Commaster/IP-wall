@@ -1,0 +1,2 @@
+124.106.83.63 - - [13/Apr/2020:00:54:22 +0300] "GET / HTTP/1.1" 301 162 "-" "-" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)"
+124.106.83.63 - - [13/Apr/2020:00:54:23 +0300] "POST /Admin792124b0/Login.php HTTP/1.1" 301 162 "-" "-" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)"

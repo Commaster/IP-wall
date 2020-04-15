@@ -1,0 +1,2 @@
+185.118.50.10 - - [13/Apr/2020:01:14:30 +0300] "GET /phpmyadmin/scripts/setup.php HTTP/1.0" 301 162 "-" "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36"
+185.118.50.10 - - [13/Apr/2020:06:42:50 +0300] "GET /phpmyadmin/scripts/setup.php HTTP/1.0" 301 162 "-" "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36"

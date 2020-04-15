@@ -1,0 +1,2 @@
+Apr 10 21:32:37 Did not receive identification string from 178.250.213.239 port 6698
+178.250.213.239 - - [10/Apr/2020:21:32:37 +0300] "GET / HTTP/1.0" 301 162 "-" "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)"

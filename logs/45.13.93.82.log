@@ -1,0 +1,7 @@
+Apr  7 06:31:08 Disconnected: Too many bad commands (no auth attempts in 0 secs): user=<>, rip=45.13.93.82, session=<HwayA6uiRoUtDV1S>
+Apr  7 16:27:43 Disconnected: Too many invalid commands (no auth attempts in 0 secs): user=<>, rip=45.13.93.82, session=<LwY9WbOiOr0tDV1S>
+Apr 11 10:31:53 Disconnected: Too many bad commands (no auth attempts in 0 secs): user=<>, rip=45.13.93.82, session=<oDsK2P6iKJctDV1S>
+45.13.93.82 - - [05/Apr/2020:14:31:11 +0300] "CONNECT ip.ws.126.net:443 HTTP/1.1" 500 170 "-" "-" "-"
+45.13.93.82 - - [06/Apr/2020:11:03:53 +0300] "CONNECT ip.ws.126.net:443 HTTP/1.1" 500 170 "-" "-" "-"
+45.13.93.82 - - [05/Apr/2020:12:52:33 +0300] "CONNECT ip.ws.126.net:443 HTTP/1.1" 400 150 "-" "-" "-"
+45.13.93.82 - - [06/Apr/2020:07:36:13 +0300] "CONNECT ip.ws.126.net:443 HTTP/1.1" 400 150 "-" "-" "-"

