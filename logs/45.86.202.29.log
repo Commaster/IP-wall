@@ -1,0 +1,2 @@
+45.86.202.29 - - [19/Apr/2020:08:28:47 +0300] "GET / HTTP/1.1" 301 162 "-" "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)"
+45.86.202.29 - - [19/Apr/2020:09:31:49 +0300] "GET / HTTP/1.1" 301 162 "-" "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)"
