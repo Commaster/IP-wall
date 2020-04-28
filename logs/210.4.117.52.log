@@ -1,0 +1,19 @@
+Apr 25 06:29:12 connect from unknown[210.4.117.52]
+Apr 25 06:29:12 lost connection after CONNECT from unknown[210.4.117.52]
+Apr 25 06:29:12 disconnect from unknown[210.4.117.52] commands=0/0
+Apr 25 06:47:43 connect from unknown[210.4.117.52]
+Apr 25 06:47:46 warning: unknown[210.4.117.52]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Apr 25 06:47:46 lost connection after AUTH from unknown[210.4.117.52]
+Apr 25 06:47:46 disconnect from unknown[210.4.117.52] ehlo=1 auth=0/1 commands=1/2
+Apr 25 06:47:46 connect from unknown[210.4.117.52]
+Apr 25 06:47:53 warning: unknown[210.4.117.52]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Apr 25 06:47:53 lost connection after AUTH from unknown[210.4.117.52]
+Apr 25 06:47:53 disconnect from unknown[210.4.117.52] ehlo=1 auth=0/1 commands=1/2
+Apr 25 06:47:53 connect from unknown[210.4.117.52]
+Apr 25 06:48:04 warning: unknown[210.4.117.52]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Apr 25 06:48:04 lost connection after AUTH from unknown[210.4.117.52]
+Apr 25 06:48:04 disconnect from unknown[210.4.117.52] ehlo=1 auth=0/1 commands=1/2
+Apr 25 06:48:04 connect from unknown[210.4.117.52]
+Apr 25 06:48:15 warning: unknown[210.4.117.52]: SASL LOGIN authentication failed: Connection lost to authentication server
+Apr 25 06:48:15 lost connection after AUTH from unknown[210.4.117.52]
+Apr 25 06:48:15 disconnect from unknown[210.4.117.52] ehlo=1 auth=0/1 commands=1/2

