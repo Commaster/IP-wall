@@ -1,0 +1,6 @@
+May  1 22:01:30 Disconnected (disconnected before auth was ready, waited 0 secs): user=<>, rip=194.146.229.150, TLS handshaking: SSL_accept() syscall failed: Connection reset by peer, session=<NMkcz5qk8tvCkuWW>
+May  1 22:01:30 Disconnected (no auth attempts in 0 secs): user=<>, rip=194.146.229.150, TLS handshaking: SSL_accept() syscall failed: Connection reset by peer, session=<YwAdz5qkBdzCkuWW>
+May  1 23:04:38 Disconnected (disconnected before auth was ready, waited 0 secs): user=<>, rip=194.146.229.150, TLS handshaking: SSL_accept() failed: error:1408F09C:SSL routines:ssl3_get_record:http request, session=</4PhsJukG97CkuWW>
+May  1 23:04:38 Disconnected (no auth attempts in 0 secs): user=<>, rip=194.146.229.150, TLS handshaking: SSL_accept() failed: error:1408F09C:SSL routines:ssl3_get_record:http request, session=<XdjhsJukXt7CkuWW>
+May  1 23:06:30 Disconnected (no auth attempts in 0 secs): user=<>, rip=194.146.229.150, TLS handshaking: SSL_accept() failed: error:1408F09C:SSL routines:ssl3_get_record:http request, session=<ZreXt5ukqfvCkuWW>
+May  1 23:06:30 Disconnected (no auth attempts in 0 secs): user=<>, rip=194.146.229.150, TLS handshaking: SSL_accept() failed: error:1408F09C:SSL routines:ssl3_get_record:http request, session=<fxmYt5uk/fvCkuWW>

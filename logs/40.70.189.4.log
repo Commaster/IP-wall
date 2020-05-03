@@ -1,0 +1,2 @@
+40.70.189.4 - - [30/Apr/2020:00:34:46 +0300] "GET /wp-login.php HTTP/1.1" 301 162 "-" "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0"
+40.70.189.4 - - [30/Apr/2020:00:35:32 +0300] "GET /wp-login.php HTTP/1.1" 200 82 "-" "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0"
