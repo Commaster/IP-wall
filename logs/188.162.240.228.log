@@ -1,0 +1,3 @@
+May 16 16:19:21 Did not receive identification string from 188.162.240.228 port 16337
+May 16 16:19:27 Failed password for 666666 from 188.162.240.228 port 3821 ssh2
+May 16 16:19:28 Connection closed by 666666 188.162.240.228 port 3821 [preauth]

@@ -1,0 +1,264 @@
+May 14 13:41:52 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:41:52 connect from unknown[37.48.231.20]
+May 14 13:41:52 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:41:52 connect from unknown[37.48.231.20]
+May 14 13:41:52 lost connection after CONNECT from unknown[37.48.231.20]
+May 14 13:41:52 disconnect from unknown[37.48.231.20] commands=0/0
+May 14 13:41:52 NOQUEUE: reject: RCPT from unknown[37.48.231.20]: 454 4.7.1 <westnets2@gmail.com>: Relay access denied; from=<westnets2@gmail.com> to=<westnets2@gmail.com> proto=SMTP helo=<wi-apps02.domain>
+May 14 13:41:52 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:41:52 connect from unknown[37.48.231.20]
+May 14 13:41:54 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:41:54 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:41:54 connect from unknown[37.48.231.20]
+May 14 13:41:56 lost connection after RCPT from unknown[37.48.231.20]
+May 14 13:41:56 disconnect from unknown[37.48.231.20] helo=1 mail=1 rcpt=0/1 commands=2/3
+May 14 13:42:00 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:42:00 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:42:00 connect from unknown[37.48.231.20]
+May 14 13:42:10 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:42:10 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:42:10 connect from unknown[37.48.231.20]
+May 14 13:42:20 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 14 13:42:20 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:42:20 connect from unknown[37.48.231.20]
+May 14 13:42:30 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 14 13:42:30 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:42:30 connect from unknown[37.48.231.20]
+May 14 13:42:33 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:42:33 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:42:33 connect from unknown[37.48.231.20]
+May 14 13:42:39 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:42:39 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:42:39 connect from unknown[37.48.231.20]
+May 14 13:42:41 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:42:41 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:42:41 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:42:41 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:42:41 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:42:41 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:42:41 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:42:41 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:42:41 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:42:41 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:42:46 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:42:46 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:42:49 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:42:49 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:42:49 connect from unknown[37.48.231.20]
+May 14 13:42:59 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 14 13:42:59 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:42:59 connect from unknown[37.48.231.20]
+May 14 13:43:09 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 14 13:43:09 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:43:09 connect from unknown[37.48.231.20]
+May 14 13:43:11 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:43:11 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:43:11 connect from unknown[37.48.231.20]
+May 14 13:43:17 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:43:17 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:43:17 connect from unknown[37.48.231.20]
+May 14 13:43:49 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:43:49 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:43:49 connect from unknown[37.48.231.20]
+May 14 13:43:55 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:43:55 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:43:55 connect from unknown[37.48.231.20]
+May 14 13:44:05 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:44:05 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:44:05 connect from unknown[37.48.231.20]
+May 14 13:44:15 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 14 13:44:15 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:44:15 connect from unknown[37.48.231.20]
+May 14 13:44:19 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:44:19 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:44:19 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:44:19 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:44:19 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:44:19 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:44:19 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:44:19 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:44:19 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:44:19 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:44:19 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:44:19 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:44:19 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:44:19 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:44:19 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:44:19 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:44:19 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:44:19 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:44:25 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 14 13:44:25 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:44:25 connect from unknown[37.48.231.20]
+May 14 13:44:27 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:44:27 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:44:27 connect from unknown[37.48.231.20]
+May 14 13:44:33 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:44:33 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:44:33 connect from unknown[37.48.231.20]
+May 14 13:44:37 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:44:37 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:44:43 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:44:43 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:44:43 connect from unknown[37.48.231.20]
+May 14 13:44:53 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 14 13:44:53 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:44:53 connect from unknown[37.48.231.20]
+May 14 13:45:03 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 14 13:45:03 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:45:03 connect from unknown[37.48.231.20]
+May 14 13:45:06 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:45:06 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:45:06 connect from unknown[37.48.231.20]
+May 14 13:45:12 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:45:12 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:45:12 connect from unknown[37.48.231.20]
+May 14 13:45:17 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:45:17 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:45:22 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:45:22 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:45:22 connect from unknown[37.48.231.20]
+May 14 13:45:22 NOQUEUE: reject: RCPT from unknown[37.48.231.20]: 454 4.7.1 <westnets2@gmail.com>: Relay access denied; from=<westnets2@gmail.com> to=<westnets2@gmail.com> proto=SMTP helo=<wi-apps02.domain>
+May 14 13:45:22 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:45:22 connect from unknown[37.48.231.20]
+May 14 13:45:32 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 14 13:45:32 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:45:32 connect from unknown[37.48.231.20]
+May 14 13:45:37 lost connection after RCPT from unknown[37.48.231.20]
+May 14 13:45:37 disconnect from unknown[37.48.231.20] helo=1 mail=1 rcpt=0/1 commands=2/3
+May 14 13:45:42 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 14 13:45:42 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:45:42 connect from unknown[37.48.231.20]
+May 14 13:45:44 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:45:44 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:45:44 connect from unknown[37.48.231.20]
+May 14 13:45:50 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:45:50 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:45:50 connect from unknown[37.48.231.20]
+May 14 13:46:09 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:46:09 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:46:09 connect from unknown[37.48.231.20]
+May 14 13:46:12 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:46:12 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:46:12 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:46:12 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:46:12 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:46:12 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:46:12 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:46:12 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:46:12 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:46:12 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:46:12 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:46:12 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:46:12 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:46:12 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:46:12 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:46:12 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:46:12 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:46:12 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:46:12 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:46:12 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:46:12 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:46:12 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:46:19 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 14 13:46:19 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:46:19 connect from unknown[37.48.231.20]
+May 14 13:46:29 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 14 13:46:29 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:46:29 connect from unknown[37.48.231.20]
+May 14 13:46:31 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:46:31 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:46:31 connect from unknown[37.48.231.20]
+May 14 13:46:37 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:46:37 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:46:37 connect from unknown[37.48.231.20]
+May 14 13:46:41 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:46:41 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:46:47 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:46:47 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:46:47 connect from unknown[37.48.231.20]
+May 14 13:46:57 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 14 13:46:57 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:46:57 connect from unknown[37.48.231.20]
+May 14 13:47:07 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 14 13:47:07 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:47:07 connect from unknown[37.48.231.20]
+May 14 13:47:10 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:47:10 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:47:10 connect from unknown[37.48.231.20]
+May 14 13:47:16 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:47:16 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:47:16 connect from unknown[37.48.231.20]
+May 14 13:47:26 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:47:26 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:47:26 connect from unknown[37.48.231.20]
+May 14 13:47:36 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 14 13:47:36 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:47:36 connect from unknown[37.48.231.20]
+May 14 13:47:42 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:47:42 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:47:42 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:47:42 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:47:42 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:47:42 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:47:42 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:47:42 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:47:42 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:47:42 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:47:42 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:47:42 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:47:46 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 14 13:47:46 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:47:46 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:47:46 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:47:46 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:47:46 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:47:46 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:47:46 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:47:46 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:47:46 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:47:46 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:47:55 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:47:55 connect from unknown[37.48.231.20]
+May 14 13:48:05 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:48:05 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:48:05 connect from unknown[37.48.231.20]
+May 14 13:48:11 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:48:11 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:48:11 connect from unknown[37.48.231.20]
+May 14 13:48:21 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:48:21 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:48:21 connect from unknown[37.48.231.20]
+May 14 13:48:31 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 14 13:48:31 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:48:31 connect from unknown[37.48.231.20]
+May 14 13:48:41 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 14 13:48:41 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:48:41 connect from unknown[37.48.231.20]
+May 14 13:48:43 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:48:43 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:48:43 connect from unknown[37.48.231.20]
+May 14 13:48:45 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:48:45 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:48:57 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:48:57 warning: hostname 37.48.231.20.wessexinternet.net does not resolve to address 37.48.231.20: Name or service not known
+May 14 13:48:57 connect from unknown[37.48.231.20]
+May 14 13:49:07 warning: unknown[37.48.231.20]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 14 13:49:20 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:49:20 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:49:20 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:49:20 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:49:20 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:49:20 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:49:20 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:49:20 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:49:20 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:49:20 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:49:20 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:49:20 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:49:20 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:49:20 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:49:20 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:49:20 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2
+May 14 13:49:20 lost connection after AUTH from unknown[37.48.231.20]
+May 14 13:49:20 disconnect from unknown[37.48.231.20] ehlo=1 auth=0/1 commands=1/2

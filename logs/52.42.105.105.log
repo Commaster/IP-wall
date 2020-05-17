@@ -1,0 +1,3 @@
+May 15 17:25:09 connect from ec2-52-42-105-105.us-west-2.compute.amazonaws.com[52.42.105.105]
+May 15 17:25:21 lost connection after EHLO from ec2-52-42-105-105.us-west-2.compute.amazonaws.com[52.42.105.105]
+May 15 17:25:21 disconnect from ec2-52-42-105-105.us-west-2.compute.amazonaws.com[52.42.105.105] ehlo=2 starttls=1 commands=3

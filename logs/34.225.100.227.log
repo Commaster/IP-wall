@@ -1,0 +1,94 @@
+May 14 20:57:45 Did not receive identification string from 34.225.100.227 port 37848
+May 14 20:57:52 Failed password for root from 34.225.100.227 port 51654 ssh2
+May 14 20:57:52 Received disconnect from 34.225.100.227 port 51654:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 20:57:58 Failed password for root from 34.225.100.227 port 33206 ssh2
+May 14 20:57:58 Received disconnect from 34.225.100.227 port 33206:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 20:58:04 Failed password for root from 34.225.100.227 port 42982 ssh2
+May 14 20:58:04 Received disconnect from 34.225.100.227 port 42982:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 20:58:10 Failed password for root from 34.225.100.227 port 52758 ssh2
+May 14 20:58:10 Received disconnect from 34.225.100.227 port 52758:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 20:58:16 Failed password for admin from 34.225.100.227 port 34288 ssh2
+May 14 20:58:16 Received disconnect from 34.225.100.227 port 34288:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 20:58:22 Failed password for test from 34.225.100.227 port 44064 ssh2
+May 14 20:58:23 Received disconnect from 34.225.100.227 port 44064:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 20:58:28 Failed password for testuser from 34.225.100.227 port 53832 ssh2
+May 14 20:58:28 Received disconnect from 34.225.100.227 port 53832:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 20:58:35 Failed password for odoo from 34.225.100.227 port 35364 ssh2
+May 14 20:58:35 Received disconnect from 34.225.100.227 port 35364:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 20:58:42 Failed password for guest from 34.225.100.227 port 45136 ssh2
+May 14 20:58:42 Received disconnect from 34.225.100.227 port 45136:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 20:58:48 Failed password for mcserver from 34.225.100.227 port 54910 ssh2
+May 14 20:58:48 Received disconnect from 34.225.100.227 port 54910:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 20:58:55 Failed password for demo from 34.225.100.227 port 36438 ssh2
+May 14 20:58:55 Received disconnect from 34.225.100.227 port 36438:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 20:59:02 Failed password for mc from 34.225.100.227 port 46214 ssh2
+May 14 20:59:02 Received disconnect from 34.225.100.227 port 46214:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 20:59:08 Failed password for server from 34.225.100.227 port 55978 ssh2
+May 14 20:59:08 Received disconnect from 34.225.100.227 port 55978:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 20:59:15 Failed password for nexus from 34.225.100.227 port 37510 ssh2
+May 14 20:59:15 Received disconnect from 34.225.100.227 port 37510:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 20:59:21 Failed password for postgres from 34.225.100.227 port 47276 ssh2
+May 14 20:59:21 Received disconnect from 34.225.100.227 port 47276:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 20:59:28 Failed password for stack from 34.225.100.227 port 57044 ssh2
+May 14 20:59:28 Received disconnect from 34.225.100.227 port 57044:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 20:59:34 Failed password for ubuntu from 34.225.100.227 port 38588 ssh2
+May 14 20:59:34 Received disconnect from 34.225.100.227 port 38588:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 20:59:42 Failed password for elastic from 34.225.100.227 port 48340 ssh2
+May 14 20:59:42 Received disconnect from 34.225.100.227 port 48340:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 20:59:49 Failed password for elasticsearch from 34.225.100.227 port 58114 ssh2
+May 14 20:59:49 Received disconnect from 34.225.100.227 port 58114:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 20:59:55 Failed password for username from 34.225.100.227 port 39652 ssh2
+May 14 20:59:55 Received disconnect from 34.225.100.227 port 39652:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 21:00:02 Failed password for zabbix from 34.225.100.227 port 49422 ssh2
+May 14 21:00:02 Received disconnect from 34.225.100.227 port 49422:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 21:00:09 Failed password for hadoop from 34.225.100.227 port 59192 ssh2
+May 14 21:00:09 Received disconnect from 34.225.100.227 port 59192:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 21:00:16 Failed password for node from 34.225.100.227 port 40728 ssh2
+May 14 21:00:16 Received disconnect from 34.225.100.227 port 40728:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:16:06 Did not receive identification string from 34.225.100.227 port 43048
+May 14 23:16:18 Failed password for root from 34.225.100.227 port 39682 ssh2
+May 14 23:16:18 Received disconnect from 34.225.100.227 port 39682:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:16:24 Failed password for root from 34.225.100.227 port 49502 ssh2
+May 14 23:16:24 Received disconnect from 34.225.100.227 port 49502:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:16:30 Failed password for root from 34.225.100.227 port 59312 ssh2
+May 14 23:16:30 Received disconnect from 34.225.100.227 port 59312:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:16:37 Failed password for root from 34.225.100.227 port 40904 ssh2
+May 14 23:16:37 Received disconnect from 34.225.100.227 port 40904:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:16:43 Failed password for admin from 34.225.100.227 port 50714 ssh2
+May 14 23:16:43 Received disconnect from 34.225.100.227 port 50714:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:16:50 Failed password for test from 34.225.100.227 port 60532 ssh2
+May 14 23:16:50 Received disconnect from 34.225.100.227 port 60532:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:16:56 Failed password for testuser from 34.225.100.227 port 42110 ssh2
+May 14 23:16:56 Received disconnect from 34.225.100.227 port 42110:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:17:03 Failed password for odoo from 34.225.100.227 port 51922 ssh2
+May 14 23:17:03 Received disconnect from 34.225.100.227 port 51922:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:17:08 Failed password for guest from 34.225.100.227 port 33510 ssh2
+May 14 23:17:08 Received disconnect from 34.225.100.227 port 33510:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:17:15 Failed password for mcserver from 34.225.100.227 port 43324 ssh2
+May 14 23:17:16 Received disconnect from 34.225.100.227 port 43324:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:17:22 Failed password for demo from 34.225.100.227 port 53136 ssh2
+May 14 23:17:22 Received disconnect from 34.225.100.227 port 53136:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:17:29 Failed password for mc from 34.225.100.227 port 34722 ssh2
+May 14 23:17:29 Received disconnect from 34.225.100.227 port 34722:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:17:35 Failed password for server from 34.225.100.227 port 44542 ssh2
+May 14 23:17:35 Received disconnect from 34.225.100.227 port 44542:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:17:42 Failed password for nexus from 34.225.100.227 port 54358 ssh2
+May 14 23:17:42 Received disconnect from 34.225.100.227 port 54358:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:17:49 Failed password for postgres from 34.225.100.227 port 35936 ssh2
+May 14 23:17:49 Received disconnect from 34.225.100.227 port 35936:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:17:55 Failed password for stack from 34.225.100.227 port 45756 ssh2
+May 14 23:17:55 Received disconnect from 34.225.100.227 port 45756:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:18:01 Failed password for ubuntu from 34.225.100.227 port 55558 ssh2
+May 14 23:18:01 Received disconnect from 34.225.100.227 port 55558:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:18:08 Failed password for elastic from 34.225.100.227 port 37142 ssh2
+May 14 23:18:08 Received disconnect from 34.225.100.227 port 37142:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:18:15 Failed password for elasticsearch from 34.225.100.227 port 46952 ssh2
+May 14 23:18:15 Received disconnect from 34.225.100.227 port 46952:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:18:22 Failed password for username from 34.225.100.227 port 56786 ssh2
+May 14 23:18:22 Received disconnect from 34.225.100.227 port 56786:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:18:28 Failed password for zabbix from 34.225.100.227 port 38352 ssh2
+May 14 23:18:28 Received disconnect from 34.225.100.227 port 38352:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:18:35 Failed password for hadoop from 34.225.100.227 port 48138 ssh2
+May 14 23:18:35 Received disconnect from 34.225.100.227 port 48138:11: Normal Shutdown, Thank you for playing [preauth]
+May 14 23:18:41 Failed password for node from 34.225.100.227 port 57982 ssh2
+May 14 23:18:41 Connection closed by node 34.225.100.227 port 57982 [preauth]

@@ -1,0 +1,3 @@
+May 13 20:20:36 Did not receive identification string from 197.220.169.144 port 2618
+May 13 20:20:42 Failed password for administrator from 197.220.169.144 port 2619 ssh2
+May 13 20:20:42 Connection closed by administrator 197.220.169.144 port 2619 [preauth]

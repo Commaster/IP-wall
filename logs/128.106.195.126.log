@@ -1,0 +1,4 @@
+128.106.195.126 - - [13/May/2020:22:53:37 +0300] "GET / HTTP/1.1" 301 162 "-" "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0"
+128.106.195.126 - - [13/May/2020:22:53:50 +0300] "GET /horde/imp/test.php HTTP/1.1" 301 162 "-" "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0"
+128.106.195.126 - - [13/May/2020:22:53:56 +0300] "GET /phpMyAdmin/scripts/setup.php HTTP/1.1" 301 162 "-" "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0"
+128.106.195.126 - - [13/May/2020:22:54:01 +0300] "GET /phpmyadmin/scripts/setup.php HTTP/1.1" 301 162 "-" "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0"
