@@ -1,0 +1,7 @@
+May 20 09:45:03 connect from ip112.ip-192-99-135.net[192.99.135.112]
+May 20 09:45:03 lost connection after CONNECT from ip112.ip-192-99-135.net[192.99.135.112]
+May 20 09:45:03 disconnect from ip112.ip-192-99-135.net[192.99.135.112] commands=0/0
+May 20 09:45:03 connect from ip112.ip-192-99-135.net[192.99.135.112]
+May 20 09:45:04 NOQUEUE: reject: RCPT from ip112.ip-192-99-135.net[192.99.135.112]: 454 4.7.1 <racswart@gmail.com>: Relay access denied; from=<test@example.com> to=<racswart@gmail.com> proto=SMTP helo=<99rdp.domain>
+May 20 09:46:03 lost connection after RCPT from ip112.ip-192-99-135.net[192.99.135.112]
+May 20 09:46:03 disconnect from ip112.ip-192-99-135.net[192.99.135.112] helo=1 mail=1 rcpt=0/1 commands=2/3

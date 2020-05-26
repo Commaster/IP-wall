@@ -1,0 +1,25 @@
+May 21 12:35:33 connect from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218]
+May 21 12:35:36 165EB4183B: client=201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218]
+May 21 12:35:40 disconnect from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218] ehlo=1 mail=1 rcpt=1 data=1 rset=1 quit=1 commands=6
+May 21 13:50:48 connect from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218]
+May 21 13:50:49 BEB47419CC: client=201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218]
+May 21 13:51:02 disconnect from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218] ehlo=1 mail=1 rcpt=1 data=1 rset=1 quit=1 commands=6
+May 21 21:59:08 connect from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218]
+May 21 21:59:09 disconnect from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218] quit=1 commands=1
+May 21 21:59:09 connect from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218]
+May 21 21:59:09 connect from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218]
+May 21 21:59:09 connect from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218]
+May 21 21:59:11 NOQUEUE: reject: RCPT from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218]: 454 4.7.1 <uchesmart55@yahoo.com>: Relay access denied; from=<info@imf.org> to=<uchesmart55@yahoo.com> proto=ESMTP helo=<[172.16.130.96]>
+May 21 21:59:11 NOQUEUE: reject: RCPT from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218]: 454 4.7.1 <alahaji2@outlook.com>: Relay access denied; from=<info@imf.org> to=<alahaji2@outlook.com> proto=ESMTP helo=<[172.16.130.96]>
+May 21 21:59:11 NOQUEUE: reject: RCPT from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218]: 454 4.7.1 <akuumueri200@gmail.com>: Relay access denied; from=<info@imf.org> to=<akuumueri200@gmail.com> proto=ESMTP helo=<[172.16.130.96]>
+May 21 21:59:11 disconnect from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218] ehlo=1 mail=1 rcpt=0/1 rset=1 quit=1 commands=4/5
+May 21 21:59:11 disconnect from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218] ehlo=1 mail=1 rcpt=0/1 rset=1 quit=1 commands=4/5
+May 21 21:59:11 disconnect from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218] ehlo=1 mail=1 rcpt=0/1 rset=1 quit=1 commands=4/5
+May 21 22:06:21 connect from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218]
+May 21 22:06:26 connect from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218]
+May 21 22:06:28 connect from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218]
+May 21 22:06:30 NOQUEUE: reject: RCPT from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218]: 454 4.7.1 <akuumueri200@gmail.com>: Relay access denied; from=<info@imf.org> to=<akuumueri200@gmail.com> proto=ESMTP helo=<[172.16.130.96]>
+May 21 22:06:30 NOQUEUE: reject: RCPT from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218]: 454 4.7.1 <alahaji2@outlook.com>: Relay access denied; from=<info@imf.org> to=<alahaji2@outlook.com> proto=ESMTP helo=<[172.16.130.96]>
+May 21 22:06:32 disconnect from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218] ehlo=1 mail=1 rcpt=0/1 rset=1 quit=1 commands=4/5
+May 21 22:06:32 disconnect from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218] ehlo=1 mail=1 rcpt=0/1 rset=1 quit=1 commands=4/5
+May 21 22:06:32 disconnect from 201.23.103.218.dedicated.neoviatelecom.com.br[201.23.103.218] quit=1 commands=1

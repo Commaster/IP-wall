@@ -1,0 +1,20 @@
+May 25 01:07:08 connect from server.delameta.co.id[113.20.31.66]
+May 25 01:07:11 warning: server.delameta.co.id[113.20.31.66]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 25 01:07:28 message repeated 2 times: [ warning: server.delameta.co.id[113.20.31.66]: SASL LOGIN authentication failed: UGFzc3dvcmQ6]
+May 25 01:07:38 warning: server.delameta.co.id[113.20.31.66]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 25 01:07:38 disconnect from server.delameta.co.id[113.20.31.66] ehlo=1 auth=0/4 rset=4 quit=1 commands=6/10
+May 25 01:26:31 connect from server.delameta.co.id[113.20.31.66]
+May 25 01:26:34 warning: server.delameta.co.id[113.20.31.66]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 25 01:26:51 message repeated 2 times: [ warning: server.delameta.co.id[113.20.31.66]: SASL LOGIN authentication failed: UGFzc3dvcmQ6]
+May 25 01:27:01 warning: server.delameta.co.id[113.20.31.66]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 25 01:27:01 disconnect from server.delameta.co.id[113.20.31.66] ehlo=1 auth=0/4 rset=4 quit=1 commands=6/10
+May 25 01:45:24 connect from server.delameta.co.id[113.20.31.66]
+May 25 01:45:27 warning: server.delameta.co.id[113.20.31.66]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 25 01:45:44 message repeated 2 times: [ warning: server.delameta.co.id[113.20.31.66]: SASL LOGIN authentication failed: UGFzc3dvcmQ6]
+May 25 01:45:54 warning: server.delameta.co.id[113.20.31.66]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 25 01:45:54 disconnect from server.delameta.co.id[113.20.31.66] ehlo=1 auth=0/4 rset=4 quit=1 commands=6/10
+May 25 02:02:59 connect from server.delameta.co.id[113.20.31.66]
+May 25 02:03:02 warning: server.delameta.co.id[113.20.31.66]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+May 25 02:03:19 message repeated 2 times: [ warning: server.delameta.co.id[113.20.31.66]: SASL LOGIN authentication failed: UGFzc3dvcmQ6]
+May 25 02:03:29 warning: server.delameta.co.id[113.20.31.66]: SASL LOGIN authentication failed: Connection lost to authentication server
+May 25 02:03:29 disconnect from server.delameta.co.id[113.20.31.66] ehlo=1 auth=0/4 rset=4 quit=1 commands=6/10

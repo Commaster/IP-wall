@@ -1,0 +1,2 @@
+34.228.210.170 - - [22/May/2020:17:03:47 +0300] "GET / HTTP/1.1" 301 162 "-" "-" "Cloud mapping experiment. Contact research@pdrlabs.net"
+34.228.210.170 - - [22/May/2020:17:11:52 +0300] "GET /clientaccesspolicy.xml HTTP/1.1" 301 162 "-" "-" "Cloud mapping experiment. Contact research@pdrlabs.net"
