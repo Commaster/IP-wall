@@ -1,0 +1,10 @@
+May 26 18:26:36 Disconnected (no auth attempts in 1 secs): user=<>, rip=185.165.190.34, TLS, session=<ZoWduI6mrpe5pb4i>
+May 26 18:26:36 Disconnected (no auth attempts in 0 secs): user=<>, rip=185.165.190.34, TLS handshaking: SSL_accept() failed: error:142090FC:SSL routines:tls_early_post_process_client_hello:unknown protocol, session=<n6yluI6mbJi5pb4i>
+May 26 18:26:37 Disconnected (no auth attempts in 0 secs): user=<>, rip=185.165.190.34, TLS handshaking: SSL_accept() failed: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low, session=<niqwuI6mdJm5pb4i>
+May 26 18:26:38 Disconnected (no auth attempts in 0 secs): user=<>, rip=185.165.190.34, TLS, session=<BIW/uI6mhJq5pb4i>
+May 26 18:26:39 Disconnected (no auth attempts in 0 secs): user=<>, rip=185.165.190.34, TLS, session=<xo3RuI6mFpy5pb4i>
+May 26 18:26:40 Disconnected: Too many bad commands (no auth attempts in 0 secs): user=<>, rip=185.165.190.34, session=<akHVuI6mGp25pb4i>
+May 26 18:26:42 Disconnected (no auth attempts in 1 secs): user=<>, rip=185.165.190.34, TLS, session=<qJ/0uI6mdp25pb4i>
+May 26 18:26:43 Disconnected (no auth attempts in 0 secs): user=<>, rip=185.165.190.34, session=<FtUGuY6m4qC5pb4i>
+May 26 18:26:43 Disconnected (no auth attempts in 0 secs): user=<>, rip=185.165.190.34, session=<p7QLuY6mFKG5pb4i>
+May 26 18:26:43 Disconnected (no auth attempts in 9 secs): user=<>, rip=185.165.190.34, TLS: Disconnected, session=<14UQuY6mapa5pb4i>

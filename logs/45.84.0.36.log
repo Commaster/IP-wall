@@ -1,0 +1,22 @@
+May 26 16:26:13 Failed password for root from 45.84.0.36 port 54196 ssh2
+May 26 16:26:13 Connection closed by authenticating user root 45.84.0.36 port 54196 [preauth]
+May 27 02:12:18 Failed password for root from 45.84.0.36 port 60770 ssh2
+May 27 02:12:19 Connection closed by authenticating user root 45.84.0.36 port 60770 [preauth]
+May 27 04:48:55 Failed password for root from 45.84.0.36 port 34642 ssh2
+May 27 04:48:55 Connection closed by authenticating user root 45.84.0.36 port 34642 [preauth]
+May 27 07:09:18 Failed password for root from 45.84.0.36 port 37828 ssh2
+May 27 07:09:18 Connection closed by authenticating user root 45.84.0.36 port 37828 [preauth]
+May 27 09:26:57 Failed password for root from 45.84.0.36 port 39658 ssh2
+May 27 09:26:57 Connection closed by authenticating user root 45.84.0.36 port 39658 [preauth]
+May 27 12:47:10 Failed password for root from 45.84.0.36 port 35268 ssh2
+May 27 12:47:10 Connection closed by authenticating user root 45.84.0.36 port 35268 [preauth]
+May 27 15:01:09 Failed password for root from 45.84.0.36 port 33044 ssh2
+May 27 15:01:09 Connection closed by authenticating user root 45.84.0.36 port 33044 [preauth]
+May 27 17:03:34 Failed password for root from 45.84.0.36 port 51018 ssh2
+May 27 17:03:34 Connection closed by authenticating user root 45.84.0.36 port 51018 [preauth]
+May 27 19:04:47 Failed password for root from 45.84.0.36 port 42794 ssh2
+May 27 19:04:47 Connection closed by authenticating user root 45.84.0.36 port 42794 [preauth]
+Jun  2 15:21:14 Failed password for root from 45.84.0.36 port 50682 ssh2
+Jun  2 15:21:14 Connection closed by authenticating user root 45.84.0.36 port 50682 [preauth]
+Jun  2 20:25:37 Failed password for root from 45.84.0.36 port 46120 ssh2
+Jun  2 20:25:37 Connection closed by authenticating user root 45.84.0.36 port 46120 [preauth]

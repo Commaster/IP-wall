@@ -1,0 +1,2 @@
+54.175.69.28 - - [31/May/2020:11:05:19 +0300] "GET / HTTP/1.1" 400 248 "-" "-" "Cloud mapping experiment. Contact research@pdrlabs.net"
+54.175.69.28 - - [31/May/2020:11:13:27 +0300] "GET /clientaccesspolicy.xml HTTP/1.1" 301 162 "-" "-" "Cloud mapping experiment. Contact research@pdrlabs.net"

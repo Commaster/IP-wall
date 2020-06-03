@@ -1,0 +1,71 @@
+Jun  3 09:16:12 Did not receive identification string from 82.118.242.107 port 40936
+Jun  3 09:16:40 Failed password for root from 82.118.242.107 port 43604 ssh2
+Jun  3 09:16:40 Received disconnect from 82.118.242.107 port 43604:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:17:34 Failed password for root from 82.118.242.107 port 55932 ssh2
+Jun  3 09:17:34 Received disconnect from 82.118.242.107 port 55932:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:18:14 Failed password for root from 82.118.242.107 port 33852 ssh2
+Jun  3 09:18:14 Received disconnect from 82.118.242.107 port 33852:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:18:32 Failed password for root from 82.118.242.107 port 40024 ssh2
+Jun  3 09:18:32 Received disconnect from 82.118.242.107 port 40024:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:18:51 Failed password for root from 82.118.242.107 port 46198 ssh2
+Jun  3 09:18:51 Received disconnect from 82.118.242.107 port 46198:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:19:14 Failed password for root from 82.118.242.107 port 52362 ssh2
+Jun  3 09:19:14 Received disconnect from 82.118.242.107 port 52362:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:20:20 Failed password for root from 82.118.242.107 port 36456 ssh2
+Jun  3 09:20:20 Received disconnect from 82.118.242.107 port 36456:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:20:39 Failed password for root from 82.118.242.107 port 42620 ssh2
+Jun  3 09:20:39 Received disconnect from 82.118.242.107 port 42620:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:20:59 Failed password for root from 82.118.242.107 port 48778 ssh2
+Jun  3 09:20:59 Received disconnect from 82.118.242.107 port 48778:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:21:23 Failed password for admin from 82.118.242.107 port 54940 ssh2
+Jun  3 09:21:23 Received disconnect from 82.118.242.107 port 54940:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:21:54 Failed password for admin from 82.118.242.107 port 32872 ssh2
+Jun  3 09:21:54 Received disconnect from 82.118.242.107 port 32872:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:22:26 Failed password for ubnt from 82.118.242.107 port 39034 ssh2
+Jun  3 09:22:26 Received disconnect from 82.118.242.107 port 39034:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:22:47 Failed password for admin from 82.118.242.107 port 45192 ssh2
+Jun  3 09:22:47 Received disconnect from 82.118.242.107 port 45192:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:23:10 Failed password for guest from 82.118.242.107 port 51356 ssh2
+Jun  3 09:23:10 Received disconnect from 82.118.242.107 port 51356:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:23:32 Failed password for test from 82.118.242.107 port 57520 ssh2
+Jun  3 09:23:32 Received disconnect from 82.118.242.107 port 57520:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:24:04 Failed password for user from 82.118.242.107 port 35450 ssh2
+Jun  3 09:24:04 Received disconnect from 82.118.242.107 port 35450:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:24:32 Failed password for git from 82.118.242.107 port 41626 ssh2
+Jun  3 09:24:32 Received disconnect from 82.118.242.107 port 41626:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:24:53 Failed password for postgres from 82.118.242.107 port 47788 ssh2
+Jun  3 09:24:53 Received disconnect from 82.118.242.107 port 47788:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:25:17 Failed password for oracle from 82.118.242.107 port 53954 ssh2
+Jun  3 09:25:17 Received disconnect from 82.118.242.107 port 53954:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:25:40 Failed password for gituser from 82.118.242.107 port 60120 ssh2
+Jun  3 09:25:40 Received disconnect from 82.118.242.107 port 60120:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:26:10 Failed password for odoo from 82.118.242.107 port 38052 ssh2
+Jun  3 09:26:10 Received disconnect from 82.118.242.107 port 38052:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:26:38 Failed password for ansible from 82.118.242.107 port 44216 ssh2
+Jun  3 09:26:39 Received disconnect from 82.118.242.107 port 44216:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:27:00 Failed password for ec2-user from 82.118.242.107 port 50380 ssh2
+Jun  3 09:27:00 Received disconnect from 82.118.242.107 port 50380:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:27:24 Failed password for test from 82.118.242.107 port 56544 ssh2
+Jun  3 09:27:24 Received disconnect from 82.118.242.107 port 56544:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:27:48 Failed password for ubuntu from 82.118.242.107 port 34476 ssh2
+Jun  3 09:27:48 Received disconnect from 82.118.242.107 port 34476:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:28:19 Failed password for demo from 82.118.242.107 port 40640 ssh2
+Jun  3 09:28:19 Received disconnect from 82.118.242.107 port 40640:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:28:46 Failed password for spark from 82.118.242.107 port 46806 ssh2
+Jun  3 09:28:46 Received disconnect from 82.118.242.107 port 46806:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:29:11 Failed password for jenkins from 82.118.242.107 port 52970 ssh2
+Jun  3 09:29:11 Received disconnect from 82.118.242.107 port 52970:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:29:34 Failed password for debian from 82.118.242.107 port 59134 ssh2
+Jun  3 09:29:34 Received disconnect from 82.118.242.107 port 59134:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:30:00 Failed password for ftpadmin from 82.118.242.107 port 37066 ssh2
+Jun  3 09:30:00 Received disconnect from 82.118.242.107 port 37066:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:30:29 Failed password for webadmin from 82.118.242.107 port 43234 ssh2
+Jun  3 09:30:29 Received disconnect from 82.118.242.107 port 43234:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:30:55 Failed password for svn from 82.118.242.107 port 49396 ssh2
+Jun  3 09:30:55 Received disconnect from 82.118.242.107 port 49396:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:31:20 Failed password for student from 82.118.242.107 port 55570 ssh2
+Jun  3 09:31:20 Received disconnect from 82.118.242.107 port 55570:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:31:44 Failed password for www from 82.118.242.107 port 33500 ssh2
+Jun  3 09:31:44 Received disconnect from 82.118.242.107 port 33500:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  3 09:32:39 Failed password for db2inst1 from 82.118.242.107 port 45832 ssh2
+Jun  3 09:32:39 Received disconnect from 82.118.242.107 port 45832:11: Normal Shutdown, Thank you for playing [preauth]

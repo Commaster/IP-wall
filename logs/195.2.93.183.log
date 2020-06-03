@@ -1,0 +1,4 @@
+May 25 21:53:03 Failed password for root from 195.2.93.183 port 57688 ssh2
+May 25 21:53:03 Connection closed by authenticating user root 195.2.93.183 port 57688 [preauth]
+May 26 17:10:36 Failed password for root from 195.2.93.183 port 38788 ssh2
+May 26 17:10:36 Connection closed by authenticating user root 195.2.93.183 port 38788 [preauth]

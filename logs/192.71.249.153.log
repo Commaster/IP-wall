@@ -1,0 +1,10 @@
+May 25 20:10:28 Failed password for root from 192.71.249.153 port 36160 ssh2
+May 25 20:10:29 Connection closed by authenticating user root 192.71.249.153 port 36160 [preauth]
+May 27 00:00:56 Failed password for root from 192.71.249.153 port 36428 ssh2
+May 27 00:00:56 Connection closed by authenticating user root 192.71.249.153 port 36428 [preauth]
+May 27 04:08:01 Failed password for root from 192.71.249.153 port 37074 ssh2
+May 27 04:08:01 Connection closed by authenticating user root 192.71.249.153 port 37074 [preauth]
+May 27 07:05:39 Failed password for root from 192.71.249.153 port 41184 ssh2
+May 27 07:05:39 Connection closed by authenticating user root 192.71.249.153 port 41184 [preauth]
+May 27 09:57:38 Failed password for root from 192.71.249.153 port 43466 ssh2
+May 27 09:57:38 Connection closed by authenticating user root 192.71.249.153 port 43466 [preauth]

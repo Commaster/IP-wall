@@ -1,0 +1,2 @@
+45.141.158.3 - - [25/May/2020:23:34:55 +0300] "GET /wp-login.php HTTP/1.1" 301 162 "-" "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)"
+45.141.158.3 - - [25/May/2020:23:34:55 +0300] "GET //wp-login.php HTTP/1.1" 301 162 "-" "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)"

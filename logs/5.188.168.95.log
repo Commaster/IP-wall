@@ -1,0 +1,16 @@
+May 26 16:47:13 Failed password for root from 5.188.168.95 port 52060 ssh2
+May 26 16:47:13 Connection closed by authenticating user root 5.188.168.95 port 52060 [preauth]
+May 27 03:11:21 Failed password for root from 5.188.168.95 port 53898 ssh2
+May 27 03:11:21 Connection closed by authenticating user root 5.188.168.95 port 53898 [preauth]
+May 27 05:37:58 Failed password for root from 5.188.168.95 port 58602 ssh2
+May 27 05:37:58 Connection closed by authenticating user root 5.188.168.95 port 58602 [preauth]
+May 27 08:02:01 Failed password for root from 5.188.168.95 port 33312 ssh2
+May 27 08:02:01 Connection closed by authenticating user root 5.188.168.95 port 33312 [preauth]
+May 27 10:22:35 Failed password for root from 5.188.168.95 port 34354 ssh2
+May 27 10:22:35 Connection closed by authenticating user root 5.188.168.95 port 34354 [preauth]
+May 27 13:36:12 Failed password for root from 5.188.168.95 port 56720 ssh2
+May 27 13:36:12 Connection closed by authenticating user root 5.188.168.95 port 56720 [preauth]
+May 27 15:50:25 Failed password for root from 5.188.168.95 port 53522 ssh2
+May 27 15:50:25 Connection closed by authenticating user root 5.188.168.95 port 53522 [preauth]
+May 27 18:20:08 Failed password for root from 5.188.168.95 port 47930 ssh2
+May 27 18:20:08 Connection closed by authenticating user root 5.188.168.95 port 47930 [preauth]
