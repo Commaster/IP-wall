@@ -1,0 +1,26 @@
+Jun  9 15:44:42 Did not receive identification string from 40.120.54.164 port 32962
+Jun  9 15:44:50 Failed password for root from 40.120.54.164 port 56388 ssh2
+Jun  9 15:44:50 Received disconnect from 40.120.54.164 port 56388:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  9 15:44:55 Failed password for root from 40.120.54.164 port 42260 ssh2
+Jun  9 15:44:55 Received disconnect from 40.120.54.164 port 42260:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  9 15:44:59 Failed password for root from 40.120.54.164 port 56284 ssh2
+Jun  9 15:44:59 Received disconnect from 40.120.54.164 port 56284:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  9 15:45:02 Failed password for root from 40.120.54.164 port 42126 ssh2
+Jun  9 15:45:02 Received disconnect from 40.120.54.164 port 42126:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  9 15:45:06 Failed password for root from 40.120.54.164 port 56174 ssh2
+Jun  9 15:45:06 Received disconnect from 40.120.54.164 port 56174:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  9 15:45:12 Failed password for root from 40.120.54.164 port 42006 ssh2
+Jun  9 15:45:12 Received disconnect from 40.120.54.164 port 42006:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  9 15:45:46 Failed password for git from 40.120.54.164 port 55856 ssh2
+Jun  9 15:45:46 Received disconnect from 40.120.54.164 port 55856:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  9 15:46:47 Failed password for ubuntu from 40.120.54.164 port 55428 ssh2
+Jun  9 15:46:47 Received disconnect from 40.120.54.164 port 55428:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  9 15:46:50 Failed password for demo from 40.120.54.164 port 41264 ssh2
+Jun  9 15:46:50 Received disconnect from 40.120.54.164 port 41264:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  9 15:46:54 Failed password for spark from 40.120.54.164 port 55308 ssh2
+Jun  9 15:46:54 Received disconnect from 40.120.54.164 port 55308:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  9 15:46:58 Failed password for jenkins from 40.120.54.164 port 41182 ssh2
+Jun  9 15:46:58 Received disconnect from 40.120.54.164 port 41182:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  9 15:47:02 Failed password for debian from 40.120.54.164 port 55246 ssh2
+Jun  9 15:47:02 Received disconnect from 40.120.54.164 port 55246:11: Normal Shutdown, Thank you for playing [preauth]
+Jun  9 15:47:49 Connection closed by 40.120.54.164 port 40970 [preauth]

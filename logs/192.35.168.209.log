@@ -1,0 +1,5 @@
+192.35.168.209 - - [08/Jun/2020:20:53:21 +0300] "GET / HTTP/1.1" 200 195 "-" "-" "Mozilla/5.0 zgrab/0.x"
+Jun 12 01:05:21 warning: hostname worker-13.sfj.censys-scanner.com does not resolve to address 192.35.168.209
+Jun 12 01:05:21 connect from unknown[192.35.168.209]
+Jun 12 01:05:22 lost connection after EHLO from unknown[192.35.168.209]
+Jun 12 01:05:22 disconnect from unknown[192.35.168.209] ehlo=1 commands=1

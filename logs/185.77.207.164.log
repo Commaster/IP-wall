@@ -1,0 +1,2 @@
+185.77.207.164 - - [12/Jun/2020:17:46:20 +0300] "GET / HTTP/1.1" 301 162 "-" "-" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)"
+185.77.207.164 - - [12/Jun/2020:17:46:20 +0300] "GET / HTTP/2.0" 200 184 "-" "-" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)"

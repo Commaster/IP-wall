@@ -1,0 +1,3 @@
+Jun 11 08:53:26 connect from ec2-3-101-86-214.us-west-1.compute.amazonaws.com[3.101.86.214]
+Jun 11 08:53:38 lost connection after EHLO from ec2-3-101-86-214.us-west-1.compute.amazonaws.com[3.101.86.214]
+Jun 11 08:53:38 disconnect from ec2-3-101-86-214.us-west-1.compute.amazonaws.com[3.101.86.214] ehlo=2 starttls=1 commands=3

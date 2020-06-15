@@ -1,0 +1,5 @@
+Jun 12 15:30:45 Disconnected (no auth attempts in 1 secs): user=<>, rip=192.35.168.212, TLS: Disconnected, session=<NrQAP+Kn5JTAI6jU>
+Jun 14 07:49:49 warning: hostname worker-13.sfj.censys-scanner.com does not resolve to address 192.35.168.212
+Jun 14 07:49:49 connect from unknown[192.35.168.212]
+Jun 14 07:49:49 lost connection after EHLO from unknown[192.35.168.212]
+Jun 14 07:49:49 disconnect from unknown[192.35.168.212] ehlo=1 commands=1

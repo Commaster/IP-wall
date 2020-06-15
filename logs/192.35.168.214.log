@@ -1,0 +1,2 @@
+Jun  9 13:23:59 Connections: disconnected: 192.35.168.214::38974 ([EndOfStream] Disconnection by client)
+Jun 13 13:59:59 Disconnected (no auth attempts in 1 secs): user=<>, rip=192.35.168.214, TLS: Disconnected, session=<afc/GPWngrfAI6jW>

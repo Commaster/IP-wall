@@ -1,0 +1,5 @@
+Jun 11 17:25:43 warning: hostname worker-12.sfj.censys-scanner.com does not resolve to address 192.35.168.199
+Jun 11 17:25:43 connect from unknown[192.35.168.199]
+Jun 11 17:25:44 lost connection after EHLO from unknown[192.35.168.199]
+Jun 11 17:25:44 disconnect from unknown[192.35.168.199] ehlo=1 commands=1
+Jun 11 21:49:44 Connection closed by 192.35.168.199 port 50498 [preauth]

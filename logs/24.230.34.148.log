@@ -1,0 +1,4 @@
+Jun  6 18:26:14 Failed password for pi from 24.230.34.148 port 60096 ssh2
+Jun  6 18:26:14 Failed password for pi from 24.230.34.148 port 60104 ssh2
+Jun  6 18:26:14 Connection closed by pi 24.230.34.148 port 60104 [preauth]
+Jun  6 18:26:15 Connection closed by pi 24.230.34.148 port 60096 [preauth]
