@@ -1,0 +1,3 @@
+3.21.244.195 - - [19/Jun/2020:13:03:31 +0300] "GET / HTTP/1.1" 301 162 "-" "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.1; bit.ly/2W6Px8S) Chrome/74.0.3729.131 Safari/537.36"
+3.21.244.195 - - [19/Jun/2020:13:03:31 +0300] "GET / HTTP/1.1" 200 195 "-" "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.1; bit.ly/2W6Px8S) Chrome/74.0.3729.131 Safari/537.36"
+3.21.244.195 - - [19/Jun/2020:13:04:02 +0300] "" 400 0 "-" "-" "-"

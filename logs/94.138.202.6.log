@@ -1,0 +1,2 @@
+94.138.202.6 - - [15/Jun/2020:20:18:53 +0300] "GET /en/wp-includes/wlwmanifest.xml HTTP/1.1" 301 162 "-" "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
+94.138.202.6 - - [15/Jun/2020:20:19:39 +0300] "GET /en/wp-includes/wlwmanifest.xml HTTP/1.1" 200 68 "-" "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"

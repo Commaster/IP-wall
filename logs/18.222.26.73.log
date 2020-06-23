@@ -1,0 +1,2 @@
+18.222.26.73 - - [21/Jun/2020:03:12:49 +0300] "GET http://www.google.com/ HTTP/1.0" 301 162 "-" "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"
+18.222.26.73 - - [21/Jun/2020:03:12:50 +0300] "GET http://172.217.9.46/ HTTP/1.0" 301 162 "-" "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"

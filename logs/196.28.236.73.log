@@ -1,0 +1,134 @@
+Jun 22 11:01:48 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:01:48 connect from unknown[196.28.236.73]
+Jun 22 11:01:48 lost connection after CONNECT from unknown[196.28.236.73]
+Jun 22 11:01:48 disconnect from unknown[196.28.236.73] commands=0/0
+Jun 22 11:01:49 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:01:50 connect from unknown[196.28.236.73]
+Jun 22 11:01:50 NOQUEUE: reject: RCPT from unknown[196.28.236.73]: 454 4.7.1 <test@gmail.com>: Relay access denied; from=<test@la.net.ua> to=<test@gmail.com> proto=SMTP helo=<sql01.domain>
+Jun 22 11:01:52 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:01:52 connect from unknown[196.28.236.73]
+Jun 22 11:01:55 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Jun 22 11:01:55 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:01:55 connect from unknown[196.28.236.73]
+Jun 22 11:02:03 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Jun 22 11:02:03 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:02:03 connect from unknown[196.28.236.73]
+Jun 22 11:02:05 lost connection after RCPT from unknown[196.28.236.73]
+Jun 22 11:02:05 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:02:05 disconnect from unknown[196.28.236.73] helo=1 mail=1 rcpt=0/1 commands=2/3
+Jun 22 11:02:05 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:02:14 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Jun 22 11:02:14 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:02:14 connect from unknown[196.28.236.73]
+Jun 22 11:02:26 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: Connection lost to authentication server
+Jun 22 11:03:16 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:03:16 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:03:16 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:03:16 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:03:17 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:03:17 connect from unknown[196.28.236.73]
+Jun 22 11:03:21 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Jun 22 11:03:21 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:03:21 connect from unknown[196.28.236.73]
+Jun 22 11:03:22 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:03:22 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:03:29 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Jun 22 11:03:29 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:03:29 connect from unknown[196.28.236.73]
+Jun 22 11:03:30 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:03:30 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:03:40 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Jun 22 11:03:40 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:03:40 connect from unknown[196.28.236.73]
+Jun 22 11:03:42 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:03:42 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:03:51 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: Connection lost to authentication server
+Jun 22 11:03:53 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:03:53 connect from unknown[196.28.236.73]
+Jun 22 11:03:58 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Jun 22 11:03:59 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:03:59 connect from unknown[196.28.236.73]
+Jun 22 11:04:00 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:04:00 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:04:01 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:04:01 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:04:08 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Jun 22 11:04:08 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:04:08 connect from unknown[196.28.236.73]
+Jun 22 11:04:20 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Jun 22 11:04:20 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:04:20 connect from unknown[196.28.236.73]
+Jun 22 11:04:21 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:04:21 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:04:21 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:04:21 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:04:34 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: Connection lost to authentication server
+Jun 22 11:04:34 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:04:34 connect from unknown[196.28.236.73]
+Jun 22 11:04:38 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Jun 22 11:04:38 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:04:38 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:04:38 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:04:38 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:04:38 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:04:38 connect from unknown[196.28.236.73]
+Jun 22 11:04:46 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Jun 22 11:04:48 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:04:48 connect from unknown[196.28.236.73]
+Jun 22 11:04:59 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Jun 22 11:05:01 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:05:01 connect from unknown[196.28.236.73]
+Jun 22 11:05:11 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:05:11 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:05:11 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:05:11 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:05:12 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: Connection lost to authentication server
+Jun 22 11:05:12 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:05:12 connect from unknown[196.28.236.73]
+Jun 22 11:05:16 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Jun 22 11:05:16 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:05:16 connect from unknown[196.28.236.73]
+Jun 22 11:05:26 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Jun 22 11:05:27 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:05:27 connect from unknown[196.28.236.73]
+Jun 22 11:05:28 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:05:28 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:05:29 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:05:29 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:05:29 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:05:29 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:05:41 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Jun 22 11:05:41 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:05:41 connect from unknown[196.28.236.73]
+Jun 22 11:05:46 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:05:46 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:05:55 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: Connection lost to authentication server
+Jun 22 11:05:57 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:05:57 connect from unknown[196.28.236.73]
+Jun 22 11:06:00 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:06:00 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:06:01 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Jun 22 11:06:02 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:06:02 connect from unknown[196.28.236.73]
+Jun 22 11:06:10 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Jun 22 11:06:11 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:06:11 connect from unknown[196.28.236.73]
+Jun 22 11:06:12 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:06:12 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:06:12 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:06:12 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:06:26 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Jun 22 11:06:27 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:06:27 connect from unknown[196.28.236.73]
+Jun 22 11:06:38 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: Connection lost to authentication server
+Jun 22 11:06:40 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:06:40 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:06:40 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:06:40 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:06:50 warning: hostname australseguros.co.mz does not resolve to address 196.28.236.73
+Jun 22 11:06:50 connect from unknown[196.28.236.73]
+Jun 22 11:06:55 warning: unknown[196.28.236.73]: SASL LOGIN authentication failed: UGFzc3dvcmQ6
+Jun 22 11:07:10 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:07:10 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
+Jun 22 11:07:10 lost connection after AUTH from unknown[196.28.236.73]
+Jun 22 11:07:10 disconnect from unknown[196.28.236.73] ehlo=1 auth=0/1 commands=1/2
