@@ -1,0 +1,22 @@
+Jun 27 09:48:30 Did not receive identification string from 185.63.253.157 port 47782
+Jun 27 09:48:41 Failed password for root from 185.63.253.157 port 44732 ssh2
+Jun 27 09:48:41 Received disconnect from 185.63.253.157 port 44732:11: Normal Shutdown, Thank you for playing [preauth]
+Jun 27 09:48:49 Failed password for root from 185.63.253.157 port 60486 ssh2
+Jun 27 09:48:49 Received disconnect from 185.63.253.157 port 60486:11: Normal Shutdown, Thank you for playing [preauth]
+Jun 27 09:49:01 Failed password for root from 185.63.253.157 port 35746 ssh2
+Jun 27 09:49:01 Received disconnect from 185.63.253.157 port 35746:11: Normal Shutdown, Thank you for playing [preauth]
+Jun 27 09:49:06 Failed password for root from 185.63.253.157 port 51634 ssh2
+Jun 27 09:49:06 Received disconnect from 185.63.253.157 port 51634:11: Normal Shutdown, Thank you for playing [preauth]
+Jun 27 09:49:25 Failed password for root from 185.63.253.157 port 42724 ssh2
+Jun 27 09:49:25 Received disconnect from 185.63.253.157 port 42724:11: Normal Shutdown, Thank you for playing [preauth]
+Jun 28 01:04:17 Did not receive identification string from 185.63.253.157 port 33350
+Jun 28 01:04:26 Failed password for root from 185.63.253.157 port 51132 ssh2
+Jun 28 01:04:26 Received disconnect from 185.63.253.157 port 51132:11: Normal Shutdown, Thank you for playing [preauth]
+Jun 28 01:04:39 Failed password for root from 185.63.253.157 port 50574 ssh2
+Jun 28 01:04:39 Received disconnect from 185.63.253.157 port 50574:11: Normal Shutdown, Thank you for playing [preauth]
+Jun 28 01:04:44 Failed password for root from 185.63.253.157 port 36354 ssh2
+Jun 28 01:04:44 Received disconnect from 185.63.253.157 port 36354:11: Normal Shutdown, Thank you for playing [preauth]
+Jun 28 01:05:07 Failed password for root from 185.63.253.157 port 35256 ssh2
+Jun 28 01:05:07 Received disconnect from 185.63.253.157 port 35256:11: Normal Shutdown, Thank you for playing [preauth]
+Jun 28 01:05:27 Failed password for user from 185.63.253.157 port 34752 ssh2
+Jun 28 01:05:27 Received disconnect from 185.63.253.157 port 34752:11: Normal Shutdown, Thank you for playing [preauth]

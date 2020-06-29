@@ -1,0 +1,20 @@
+Jun 26 06:12:19 Failed password for root from 40.79.64.109 port 48516 ssh2
+Jun 26 06:12:20 Received disconnect from 40.79.64.109 port 48516:11: Client disconnecting normally [preauth]
+Jun 26 08:24:22 Failed password for root from 40.79.64.109 port 4872 ssh2
+Jun 26 08:24:22 Received disconnect from 40.79.64.109 port 4872:11: Client disconnecting normally [preauth]
+Jun 26 09:44:41 Failed password for root from 40.79.64.109 port 35909 ssh2
+Jun 26 09:44:41 Received disconnect from 40.79.64.109 port 35909:11: Client disconnecting normally [preauth]
+Jun 26 16:32:45 Failed password for NetLinx from 40.79.64.109 port 47559 ssh2
+Jun 26 16:32:45 Received disconnect from 40.79.64.109 port 47559:11: Client disconnecting normally [preauth]
+Jun 26 23:25:02 Failed password for root from 40.79.64.109 port 34926 ssh2
+Jun 26 23:25:02 Received disconnect from 40.79.64.109 port 34926:11: Client disconnecting normally [preauth]
+Jun 27 07:40:36 Failed password for root from 40.79.64.109 port 28975 ssh2
+Jun 27 07:40:36 Received disconnect from 40.79.64.109 port 28975:11: Client disconnecting normally [preauth]
+Jun 28 01:36:41 Failed password for root from 40.79.64.109 port 1891 ssh2
+Jun 28 01:36:41 Received disconnect from 40.79.64.109 port 1891:11: Client disconnecting normally [preauth]
+Jun 28 09:56:01 Failed password for root from 40.79.64.109 port 16693 ssh2
+Jun 28 09:56:01 Received disconnect from 40.79.64.109 port 16693:11: Client disconnecting normally [preauth]
+Jun 28 10:23:49 Failed password for root from 40.79.64.109 port 15167 ssh2
+Jun 28 10:23:49 Received disconnect from 40.79.64.109 port 15167:11: Client disconnecting normally [preauth]
+Jun 29 06:59:56 Failed password for root from 40.79.64.109 port 11466 ssh2
+Jun 29 06:59:56 Received disconnect from 40.79.64.109 port 11466:11: Client disconnecting normally [preauth]

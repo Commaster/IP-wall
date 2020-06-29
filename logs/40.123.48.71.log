@@ -1,0 +1,12 @@
+Jun 26 09:34:30 Failed password for root from 40.123.48.71 port 64936 ssh2
+Jun 26 09:34:30 Received disconnect from 40.123.48.71 port 64936:11: Client disconnecting normally [preauth]
+Jun 26 09:58:04 Failed password for root from 40.123.48.71 port 15946 ssh2
+Jun 26 09:58:04 Received disconnect from 40.123.48.71 port 15946:11: Client disconnecting normally [preauth]
+Jun 27 03:01:52 Failed password for root from 40.123.48.71 port 34437 ssh2
+Jun 27 03:01:52 Received disconnect from 40.123.48.71 port 34437:11: Client disconnecting normally [preauth]
+Jun 27 23:00:07 Failed password for root from 40.123.48.71 port 24860 ssh2
+Jun 27 23:00:07 Received disconnect from 40.123.48.71 port 24860:11: Client disconnecting normally [preauth]
+Jun 28 03:41:14 Failed password for root from 40.123.48.71 port 19094 ssh2
+Jun 28 03:41:14 Received disconnect from 40.123.48.71 port 19094:11: Client disconnecting normally [preauth]
+Jun 28 17:33:49 Failed password for root from 40.123.48.71 port 25491 ssh2
+Jun 28 17:33:49 Received disconnect from 40.123.48.71 port 25491:11: Client disconnecting normally [preauth]

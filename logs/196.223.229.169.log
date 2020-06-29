@@ -1,0 +1,2 @@
+Jun 27 01:27:59 Did not receive identification string from 196.223.229.169 port 7165
+196.223.229.169 - - [27/Jun/2020:01:27:59 +0300] "GET / HTTP/1.0" 301 162 "-" "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)"

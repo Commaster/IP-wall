@@ -1,0 +1,7 @@
+Jun 24 03:03:34 Connections: disconnected: 197.229.135.137::56933 ([EndOfStream] Disconnection by client)
+Jun 24 03:04:41 Connections: disconnected: 197.229.135.137::56959 ([ConnFailed] No configured security type is supported by 3.3 VNC Viewer)
+Jun 24 03:05:13 Connections: disconnected: 197.229.135.137::56959 ([ConnFailed] No configured security type is supported by 3.3 VNC Viewer)
+Jun 24 03:08:03 Connections: disconnected: 197.229.135.137::56940 ([ConnFailed] No configured security type is supported by 3.3 VNC Viewer)
+Jun 24 03:10:50 Connections: disconnected: 197.229.135.137::15007 ([ConnFailed] No configured security type is supported by 3.3 VNC Viewer)
+Jun 24 03:11:20 Connections: disconnected: 197.229.135.137::14989 ([ConnFailed] No configured security type is supported by 3.3 VNC Viewer)
+Jun 24 03:11:54 Connections: disconnected: 197.229.135.137::15004 ([ConnFailed] No configured security type is supported by 3.3 VNC Viewer)

