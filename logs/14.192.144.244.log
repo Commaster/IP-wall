@@ -1,0 +1,3 @@
+Jun 30 09:36:06 Did not receive identification string from 14.192.144.244 port 55493
+Jun 30 09:36:11 Failed password for admin1 from 14.192.144.244 port 55755 ssh2
+Jun 30 09:36:12 Connection closed by admin1 14.192.144.244 port 55755 [preauth]

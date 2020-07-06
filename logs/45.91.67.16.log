@@ -1,0 +1,35 @@
+Jul  2 18:36:25 Did not receive identification string from 45.91.67.16 port 52996
+Jul  2 18:36:37 Failed password for root from 45.91.67.16 port 43314 ssh2
+Jul  2 18:36:37 Received disconnect from 45.91.67.16 port 43314:11: Normal Shutdown, Thank you for playing [preauth]
+Jul  2 18:36:52 Failed password for root from 45.91.67.16 port 51086 ssh2
+Jul  2 18:36:53 Received disconnect from 45.91.67.16 port 51086:11: Normal Shutdown, Thank you for playing [preauth]
+Jul  2 18:36:53 Failed password for root from 45.91.67.16 port 58932 ssh2
+Jul  2 18:36:53 Received disconnect from 45.91.67.16 port 58932:11: Normal Shutdown, Thank you for playing [preauth]
+Jul  2 18:37:00 Failed password for root from 45.91.67.16 port 38488 ssh2
+Jul  2 18:37:00 Received disconnect from 45.91.67.16 port 38488:11: Normal Shutdown, Thank you for playing [preauth]
+Jul  2 18:37:07 Failed password for root from 45.91.67.16 port 47626 ssh2
+Jul  2 18:37:07 Received disconnect from 45.91.67.16 port 47626:11: Normal Shutdown, Thank you for playing [preauth]
+Jul  2 18:37:16 Failed password for root from 45.91.67.16 port 54078 ssh2
+Jul  2 18:37:16 Received disconnect from 45.91.67.16 port 54078:11: Normal Shutdown, Thank you for playing [preauth]
+Jul  2 18:37:20 Failed password for root from 45.91.67.16 port 33622 ssh2
+Jul  2 18:37:20 Received disconnect from 45.91.67.16 port 33622:11: Normal Shutdown, Thank you for playing [preauth]
+Jul  2 18:37:27 Failed password for root from 45.91.67.16 port 41446 ssh2
+Jul  2 18:37:27 Received disconnect from 45.91.67.16 port 41446:11: Normal Shutdown, Thank you for playing [preauth]
+Jul  2 18:37:32 Failed password for root from 45.91.67.16 port 49246 ssh2
+Jul  2 18:37:33 Received disconnect from 45.91.67.16 port 49246:11: Normal Shutdown, Thank you for playing [preauth]
+Jul  2 18:37:42 Failed password for root from 45.91.67.16 port 57040 ssh2
+Jul  2 18:37:42 Received disconnect from 45.91.67.16 port 57040:11: Normal Shutdown, Thank you for playing [preauth]
+Jul  2 18:37:46 Failed password for root from 45.91.67.16 port 36590 ssh2
+Jul  2 18:37:47 Received disconnect from 45.91.67.16 port 36590:11: Normal Shutdown, Thank you for playing [preauth]
+Jul  2 18:37:53 Failed password for root from 45.91.67.16 port 44380 ssh2
+Jul  2 18:37:53 Received disconnect from 45.91.67.16 port 44380:11: Normal Shutdown, Thank you for playing [preauth]
+Jul  2 18:38:01 Failed password for root from 45.91.67.16 port 52194 ssh2
+Jul  2 18:38:01 Received disconnect from 45.91.67.16 port 52194:11: Normal Shutdown, Thank you for playing [preauth]
+Jul  2 18:38:07 Failed password for root from 45.91.67.16 port 60010 ssh2
+Jul  2 18:38:07 Received disconnect from 45.91.67.16 port 60010:11: Normal Shutdown, Thank you for playing [preauth]
+Jul  2 18:38:14 Failed password for root from 45.91.67.16 port 39566 ssh2
+Jul  2 18:38:14 Received disconnect from 45.91.67.16 port 39566:11: Normal Shutdown, Thank you for playing [preauth]
+Jul  2 18:38:20 Failed password for root from 45.91.67.16 port 47344 ssh2
+Jul  2 18:38:20 Received disconnect from 45.91.67.16 port 47344:11: Normal Shutdown, Thank you for playing [preauth]
+Jul  2 18:38:26 Failed password for root from 45.91.67.16 port 55122 ssh2
+Jul  2 18:38:26 Connection closed by authenticating user root 45.91.67.16 port 55122 [preauth]

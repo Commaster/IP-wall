@@ -1,0 +1,2 @@
+Jul  5 00:49:06 Disconnected (no auth attempts in 0 secs): user=<>, rip=150.129.8.15, TLS handshaking: SSL_accept() failed: error:1408F09C:SSL routines:ssl3_get_record:http request, session=<JnZenKSpnpuWgQgP>
+Jul  5 00:49:08 Disconnected: Too many invalid commands (no auth attempts in 2 secs): user=<>, rip=150.129.8.15, TLS: Disconnected, session=<Ue10nKSpcJyWgQgP>

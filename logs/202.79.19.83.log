@@ -1,0 +1,3 @@
+Jul  6 02:28:27 Did not receive identification string from 202.79.19.83 port 64581
+Jul  6 02:28:32 Failed password for nagesh from 202.79.19.83 port 64602 ssh2
+Jul  6 02:28:32 Connection closed by nagesh 202.79.19.83 port 64602 [preauth]

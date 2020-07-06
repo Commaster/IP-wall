@@ -1,0 +1,3 @@
+Jul  6 00:00:06 connect from ec2-52-60-130-237.ca-central-1.compute.amazonaws.com[52.60.130.237]
+Jul  6 00:00:06 warning: non-SMTP command from ec2-52-60-130-237.ca-central-1.compute.amazonaws.com[52.60.130.237]: GET / HTTP/1.1
+Jul  6 00:00:06 disconnect from ec2-52-60-130-237.ca-central-1.compute.amazonaws.com[52.60.130.237] unknown=0/1 commands=0/1

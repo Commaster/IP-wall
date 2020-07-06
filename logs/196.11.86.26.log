@@ -1,0 +1,3 @@
+Jun 29 16:33:19 Did not receive identification string from 196.11.86.26 port 60315
+Jun 29 16:33:24 Failed password for system from 196.11.86.26 port 60345 ssh2
+Jun 29 16:33:25 Connection closed by system 196.11.86.26 port 60345 [preauth]

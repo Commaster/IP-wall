@@ -1,0 +1,3 @@
+Jun 30 18:38:23 Did not receive identification string from 195.18.19.92 port 63176
+Jun 30 18:38:26 Failed password for root from 195.18.19.92 port 63444 ssh2
+Jun 30 18:38:29 Connection closed by authenticating user root 195.18.19.92 port 63444 [preauth]

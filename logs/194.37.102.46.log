@@ -1,0 +1,3 @@
+Jun 30 12:51:43 Did not receive identification string from 194.37.102.46 port 63376
+Jun 30 12:51:46 Failed password for guest from 194.37.102.46 port 63629 ssh2
+Jun 30 12:51:47 Connection closed by guest 194.37.102.46 port 63629 [preauth]

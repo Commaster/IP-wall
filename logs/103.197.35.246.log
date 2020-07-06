@@ -1,0 +1,3 @@
+Jun 30 16:35:23 Did not receive identification string from 103.197.35.246 port 64370
+Jun 30 16:35:28 Failed password for ubnt from 103.197.35.246 port 64554 ssh2
+Jun 30 16:35:28 Connection closed by ubnt 103.197.35.246 port 64554 [preauth]
