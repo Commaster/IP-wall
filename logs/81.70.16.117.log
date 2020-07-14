@@ -1,0 +1,21 @@
+Jul 10 16:14:53 Did not receive identification string from 81.70.16.117 port 37316
+Jul 10 16:15:12 Failed password for root from 81.70.16.117 port 52054 ssh2
+Jul 10 16:15:12 Received disconnect from 81.70.16.117 port 52054:11: Normal Shutdown, Thank you for playing [preauth]
+Jul 10 16:15:32 Failed password for git from 81.70.16.117 port 59136 ssh2
+Jul 10 16:15:46 Failed password for guest from 81.70.16.117 port 49830 ssh2
+Jul 10 16:15:46 Received disconnect from 81.70.16.117 port 49830:11: Normal Shutdown, Thank you for playing [preauth]
+Jul 10 16:15:57 Received disconnect from 81.70.16.117 port 59136:11: Normal Shutdown, Thank you for playing [preauth]
+Jul 10 16:16:26 Failed password for root from 81.70.16.117 port 52338 ssh2
+Jul 10 16:16:26 Received disconnect from 81.70.16.117 port 52338:11: Normal Shutdown, Thank you for playing [preauth]
+Jul 10 16:17:40 Failed password for demo from 81.70.16.117 port 57218 ssh2
+Jul 10 16:17:41 Failed password for root from 81.70.16.117 port 50100 ssh2
+Jul 10 16:17:41 Received disconnect from 81.70.16.117 port 57218:11: Normal Shutdown, Thank you for playing [preauth]
+Jul 10 16:17:41 Received disconnect from 81.70.16.117 port 50100:11: Normal Shutdown, Thank you for playing [preauth]
+Jul 10 16:18:15 Failed password for dev from 81.70.16.117 port 38450 ssh2
+Jul 10 16:18:18 Received disconnect from 81.70.16.117 port 38450:11: Normal Shutdown, Thank you for playing [preauth]
+Jul 10 16:18:37 Failed password for debian from 81.70.16.117 port 50280 ssh2
+Jul 10 16:18:38 Received disconnect from 81.70.16.117 port 50280:11: Normal Shutdown, Thank you for playing [preauth]
+Jul 10 16:18:41 Failed password for user1 from 81.70.16.117 port 55014 ssh2
+Jul 10 16:18:46 Received disconnect from 81.70.16.117 port 55014:11: Normal Shutdown, Thank you for playing [preauth]
+Jul 10 16:18:52 Connection closed by 81.70.16.117 port 45544 [preauth]
+Jul 10 16:18:55 Connection closed by 81.70.16.117 port 57378 [preauth]

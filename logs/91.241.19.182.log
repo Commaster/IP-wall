@@ -1,0 +1,8 @@
+91.241.19.182 - - [21/Jun/2020:03:49:12 +0300] "GET / HTTP/1.1" 301 162 "-" "-" "Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.9.168 Version/11.50"
+91.241.19.182 - - [21/Jun/2020:03:49:12 +0300] "GET / HTTP/1.1" 200 228 "-" "-" "Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.9.168 Version/11.50"
+91.241.19.182 - - [01/Jul/2020:14:50:09 +0300] "GET / HTTP/1.1" 301 162 "-" "-" "Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.9.168 Version/11.50"
+91.241.19.182 - - [01/Jul/2020:14:50:10 +0300] "GET / HTTP/1.1" 200 228 "-" "-" "Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.9.168 Version/11.50"
+91.241.19.182 - - [03/Jun/2020:13:24:48 +0300] "GET / HTTP/1.1" 301 162 "-" "-" "Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.9.168 Version/11.50"
+91.241.19.182 - - [03/Jun/2020:13:24:49 +0300] "GET / HTTP/1.1" 200 228 "-" "-" "Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.9.168 Version/11.50"
+91.241.19.182 - - [10/Jul/2020:23:51:55 +0300] "GET / HTTP/1.1" 301 162 "-" "-" "Mozilla/5.0 (Windows NT 6.1; rv:5.0) Gecko/20100101 Firefox/5.0"
+91.241.19.182 - - [10/Jul/2020:23:51:55 +0300] "GET / HTTP/1.1" 200 228 "-" "-" "Mozilla/5.0 (Windows NT 6.1; rv:5.0) Gecko/20100101 Firefox/5.0"

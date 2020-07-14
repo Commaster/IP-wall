@@ -1,0 +1,4 @@
+Jul 13 16:00:52 warning: hostname 78.156.243.191.linkfull.com.br does not resolve to address 191.243.156.78: Name or service not known
+Jul 13 16:00:52 connect from unknown[191.243.156.78]
+Jul 13 16:00:53 A7417402DD: client=unknown[191.243.156.78]
+Jul 13 16:00:56 disconnect from unknown[191.243.156.78] ehlo=1 mail=1 rcpt=1 data=1 rset=1 quit=1 commands=6
