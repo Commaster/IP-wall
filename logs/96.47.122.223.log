@@ -1,0 +1,98 @@
+Jul 22 19:37:40 Bad protocol version identification '' from 96.47.122.223 port 51791
+Jul 22 19:37:42 Failed password for osboxes from 96.47.122.223 port 51837 ssh2
+Jul 22 19:37:42 Connection closed by osboxes 96.47.122.223 port 51837 [preauth]
+Jul 22 19:37:45 Failed password for openhabian from 96.47.122.223 port 52159 ssh2
+Jul 22 19:37:45 Connection closed by openhabian 96.47.122.223 port 52159 [preauth]
+Jul 22 19:37:48 Failed password for support from 96.47.122.223 port 52474 ssh2
+Jul 22 19:37:48 Connection closed by support 96.47.122.223 port 52474 [preauth]
+Jul 22 19:37:50 Failed password for NetLinx from 96.47.122.223 port 52840 ssh2
+Jul 22 19:37:51 Connection closed by NetLinx 96.47.122.223 port 52840 [preauth]
+Jul 22 19:37:53 Failed password for netscreen from 96.47.122.223 port 53175 ssh2
+Jul 22 19:39:50 Failed password for root from 96.47.122.223 port 56592 ssh2
+Jul 22 19:39:53 Failed password for root from 96.47.122.223 port 37450 ssh2
+Jul 22 19:39:55 Connection closed by root 96.47.122.223 port 37450 [preauth]
+Jul 22 19:39:57 Failed password for root from 96.47.122.223 port 37856 ssh2
+Jul 22 19:39:57 Connection closed by root 96.47.122.223 port 37856 [preauth]
+Jul 22 19:40:00 Failed password for root from 96.47.122.223 port 38261 ssh2
+Jul 22 19:40:00 Connection closed by root 96.47.122.223 port 38261 [preauth]
+Jul 22 19:40:03 Failed password for root from 96.47.122.223 port 38603 ssh2
+Jul 22 19:40:03 Connection closed by root 96.47.122.223 port 38603 [preauth]
+Jul 22 19:40:07 Failed password for root from 96.47.122.223 port 39030 ssh2
+Jul 22 19:40:07 Connection closed by root 96.47.122.223 port 39030 [preauth]
+Jul 22 19:40:07 Connection closed by root 96.47.122.223 port 56592 [preauth]
+Jul 22 19:40:10 Failed password for root from 96.47.122.223 port 39412 ssh2
+Jul 22 19:40:10 Connection closed by root 96.47.122.223 port 39412 [preauth]
+Jul 22 19:40:13 Failed password for root from 96.47.122.223 port 39795 ssh2
+Jul 22 19:40:52 Failed password for root from 96.47.122.223 port 43373 ssh2
+Jul 22 19:40:56 Connection closed by root 96.47.122.223 port 43373 [preauth]
+Jul 22 19:40:57 Failed password for root from 96.47.122.223 port 44269 ssh2
+Jul 22 19:40:57 Connection closed by root 96.47.122.223 port 44269 [preauth]
+Jul 22 19:41:00 Failed password for root from 96.47.122.223 port 44813 ssh2
+Jul 22 19:41:00 Connection closed by root 96.47.122.223 port 44813 [preauth]
+Jul 22 19:41:02 Connection closed by root 96.47.122.223 port 39795 [preauth]
+Jul 22 19:41:03 Failed password for root from 96.47.122.223 port 45208 ssh2
+Jul 22 19:41:03 Connection closed by root 96.47.122.223 port 45208 [preauth]
+Jul 22 19:41:06 Failed password for root from 96.47.122.223 port 45649 ssh2
+Jul 22 19:41:07 Connection closed by root 96.47.122.223 port 45649 [preauth]
+Jul 22 19:41:10 Failed password for root from 96.47.122.223 port 46056 ssh2
+Jul 22 19:41:10 Connection closed by root 96.47.122.223 port 46056 [preauth]
+Jul 22 19:41:13 Failed password for root from 96.47.122.223 port 46465 ssh2
+Jul 22 19:41:13 Connection closed by root 96.47.122.223 port 46465 [preauth]
+Jul 22 19:41:16 Failed password for root from 96.47.122.223 port 46856 ssh2
+Jul 22 19:41:16 Connection closed by root 96.47.122.223 port 46856 [preauth]
+Jul 22 19:41:20 Failed password for root from 96.47.122.223 port 47235 ssh2
+Jul 22 19:41:20 Connection closed by root 96.47.122.223 port 47235 [preauth]
+Jul 22 19:41:23 Failed password for root from 96.47.122.223 port 47661 ssh2
+Jul 22 19:41:23 Connection closed by root 96.47.122.223 port 47661 [preauth]
+Jul 22 19:42:21 Failed password for root from 96.47.122.223 port 48060 ssh2
+Jul 22 19:42:21 Connection closed by root 96.47.122.223 port 48060 [preauth]
+Jul 22 19:42:24 Failed password for root from 96.47.122.223 port 54369 ssh2
+Jul 22 19:42:24 Connection closed by root 96.47.122.223 port 54369 [preauth]
+Jul 22 19:42:27 Failed password for root from 96.47.122.223 port 54736 ssh2
+Jul 22 19:42:28 Connection closed by root 96.47.122.223 port 54736 [preauth]
+Jul 22 19:42:31 Failed password for root from 96.47.122.223 port 55240 ssh2
+Jul 22 19:42:31 Connection closed by root 96.47.122.223 port 55240 [preauth]
+Jul 22 19:42:33 Failed password for root from 96.47.122.223 port 55598 ssh2
+Jul 22 19:42:33 Connection closed by root 96.47.122.223 port 55598 [preauth]
+Jul 22 19:43:34 Failed password for root from 96.47.122.223 port 55889 ssh2
+Jul 22 19:43:34 Connection closed by root 96.47.122.223 port 55889 [preauth]
+Jul 22 19:43:37 Failed password for root from 96.47.122.223 port 34317 ssh2
+Jul 22 19:43:37 Connection closed by root 96.47.122.223 port 34317 [preauth]
+Jul 22 19:43:40 Failed password for root from 96.47.122.223 port 34681 ssh2
+Jul 22 19:43:40 Connection closed by root 96.47.122.223 port 34681 [preauth]
+Jul 22 19:43:43 Failed password for root from 96.47.122.223 port 35043 ssh2
+Jul 22 19:43:43 Connection closed by root 96.47.122.223 port 35043 [preauth]
+Jul 22 19:43:45 Failed password for root from 96.47.122.223 port 35367 ssh2
+Jul 22 19:44:35 Connection closed by root 96.47.122.223 port 35367 [preauth]
+Jul 22 19:44:38 Failed password for root from 96.47.122.223 port 41087 ssh2
+Jul 22 19:44:38 Connection closed by root 96.47.122.223 port 41087 [preauth]
+Jul 22 19:44:41 Failed password for root from 96.47.122.223 port 41480 ssh2
+Jul 22 19:44:41 Connection closed by root 96.47.122.223 port 41480 [preauth]
+Jul 22 19:44:44 Failed password for root from 96.47.122.223 port 41842 ssh2
+Jul 22 19:44:44 Connection closed by root 96.47.122.223 port 41842 [preauth]
+Jul 22 19:44:47 Failed password for root from 96.47.122.223 port 42241 ssh2
+Jul 22 19:44:47 Connection closed by root 96.47.122.223 port 42241 [preauth]
+Jul 22 19:44:50 Failed password for root from 96.47.122.223 port 42572 ssh2
+Jul 22 19:44:50 Connection closed by root 96.47.122.223 port 42572 [preauth]
+Jul 22 19:44:53 Failed password for admin from 96.47.122.223 port 42988 ssh2
+Jul 22 19:44:53 Connection closed by admin 96.47.122.223 port 42988 [preauth]
+Jul 22 19:45:39 Failed password for admin from 96.47.122.223 port 43373 ssh2
+Jul 22 19:45:39 Connection closed by admin 96.47.122.223 port 43373 [preauth]
+Jul 22 19:45:42 Failed password for admin from 96.47.122.223 port 48308 ssh2
+Jul 22 19:45:42 Connection closed by admin 96.47.122.223 port 48308 [preauth]
+Jul 22 19:45:46 Failed password for admin from 96.47.122.223 port 48675 ssh2
+Jul 22 19:45:46 Connection closed by admin 96.47.122.223 port 48675 [preauth]
+Jul 22 19:45:49 Failed password for admin from 96.47.122.223 port 49113 ssh2
+Jul 22 19:45:49 Connection closed by admin 96.47.122.223 port 49113 [preauth]
+Jul 22 19:45:52 Failed password for admin from 96.47.122.223 port 49544 ssh2
+Jul 22 19:45:52 Connection closed by admin 96.47.122.223 port 49544 [preauth]
+Jul 22 19:45:55 Failed password for pi from 96.47.122.223 port 49921 ssh2
+Jul 22 19:45:55 Connection closed by pi 96.47.122.223 port 49921 [preauth]
+Jul 22 19:45:57 Failed password for pi from 96.47.122.223 port 50254 ssh2
+Jul 22 19:45:58 Connection closed by pi 96.47.122.223 port 50254 [preauth]
+Jul 22 19:46:01 Failed password for pi from 96.47.122.223 port 50563 ssh2
+Jul 22 19:46:01 Connection closed by pi 96.47.122.223 port 50563 [preauth]
+Jul 22 19:46:04 Failed password for misp from 96.47.122.223 port 50953 ssh2
+Jul 22 19:46:43 Failed password for osbash from 96.47.122.223 port 54544 ssh2
+Jul 22 19:46:43 Connection closed by osbash 96.47.122.223 port 54544 [preauth]
+Jul 22 19:46:54 Connection closed by misp 96.47.122.223 port 50953 [preauth]

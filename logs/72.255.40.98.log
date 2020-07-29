@@ -1,0 +1,3 @@
+Jul 26 23:50:47 Did not receive identification string from 72.255.40.98 port 6062
+Jul 26 23:50:53 Failed password for service from 72.255.40.98 port 6380 ssh2
+Jul 26 23:50:53 Connection closed by service 72.255.40.98 port 6380 [preauth]

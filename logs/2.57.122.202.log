@@ -1,0 +1,32 @@
+Jul 21 14:12:27 connect from unknown[2.57.122.202]
+Jul 21 14:12:27 connect from unknown[2.57.122.202]
+Jul 21 14:12:27 lost connection after CONNECT from unknown[2.57.122.202]
+Jul 21 14:12:27 disconnect from unknown[2.57.122.202] commands=0/0
+Jul 21 14:12:29 warning: unknown[2.57.122.202]: SASL login authentication failed: UGFzc3dvcmQ6
+Jul 21 14:12:29 NOQUEUE: reject: RCPT from unknown[2.57.122.202]: 454 4.7.1 <meregion69@gmail.com>: Relay access denied; from=<admin@la.net.ua> to=<meregion69@gmail.com> proto=ESMTP helo=<WIN-6H79TFFJL6O>
+Jul 21 14:12:29 lost connection after RCPT from unknown[2.57.122.202]
+Jul 21 14:12:29 disconnect from unknown[2.57.122.202] ehlo=1 auth=0/1 mail=1 rcpt=0/1 commands=2/4
+Jul 22 11:45:19 connect from unknown[2.57.122.202]
+Jul 22 11:45:19 connect from unknown[2.57.122.202]
+Jul 22 11:45:19 lost connection after CONNECT from unknown[2.57.122.202]
+Jul 22 11:45:19 disconnect from unknown[2.57.122.202] commands=0/0
+Jul 22 11:45:21 warning: unknown[2.57.122.202]: SASL login authentication failed: UGFzc3dvcmQ6
+Jul 22 11:45:21 NOQUEUE: reject: RCPT from unknown[2.57.122.202]: 454 4.7.1 <meregion69@gmail.com>: Relay access denied; from=<info@la.net.ua> to=<meregion69@gmail.com> proto=ESMTP helo=<WIN-6H79TFFJL6O>
+Jul 22 11:45:21 lost connection after RCPT from unknown[2.57.122.202]
+Jul 22 11:45:21 disconnect from unknown[2.57.122.202] ehlo=1 auth=0/1 mail=1 rcpt=0/1 commands=2/4
+Jul 25 01:16:26 connect from unknown[2.57.122.202]
+Jul 25 01:16:26 connect from unknown[2.57.122.202]
+Jul 25 01:16:26 lost connection after CONNECT from unknown[2.57.122.202]
+Jul 25 01:16:26 disconnect from unknown[2.57.122.202] commands=0/0
+Jul 25 01:16:29 warning: unknown[2.57.122.202]: SASL login authentication failed: UGFzc3dvcmQ6
+Jul 25 01:16:29 NOQUEUE: reject: RCPT from unknown[2.57.122.202]: 454 4.7.1 <meregion69@gmail.com>: Relay access denied; from=<info@la.net.ua> to=<meregion69@gmail.com> proto=ESMTP helo=<WIN-6H79TFFJL6O>
+Jul 25 01:16:29 lost connection after RCPT from unknown[2.57.122.202]
+Jul 25 01:16:29 disconnect from unknown[2.57.122.202] ehlo=1 auth=0/1 mail=1 rcpt=0/1 commands=2/4
+Jul 26 17:51:28 connect from unknown[2.57.122.202]
+Jul 26 17:51:28 connect from unknown[2.57.122.202]
+Jul 26 17:51:28 lost connection after CONNECT from unknown[2.57.122.202]
+Jul 26 17:51:28 disconnect from unknown[2.57.122.202] commands=0/0
+Jul 26 17:51:31 warning: unknown[2.57.122.202]: SASL login authentication failed: UGFzc3dvcmQ6
+Jul 26 17:51:31 NOQUEUE: reject: RCPT from unknown[2.57.122.202]: 454 4.7.1 <meregion69@gmail.com>: Relay access denied; from=<admin@la.net.ua> to=<meregion69@gmail.com> proto=ESMTP helo=<WIN-6H79TFFJL6O>
+Jul 26 17:51:31 lost connection after RCPT from unknown[2.57.122.202]
+Jul 26 17:51:31 disconnect from unknown[2.57.122.202] ehlo=1 auth=0/1 mail=1 rcpt=0/1 commands=2/4

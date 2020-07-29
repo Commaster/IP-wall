@@ -1,0 +1,2 @@
+54.172.55.153 - - [26/Jul/2020:14:07:25 +0300] "GET / HTTP/1.1" 301 162 "-" "-" "Cloud mapping experiment. Contact research@pdrlabs.net"
+54.172.55.153 - - [26/Jul/2020:14:15:04 +0300] "GET /clientaccesspolicy.xml HTTP/1.1" 301 162 "-" "-" "Cloud mapping experiment. Contact research@pdrlabs.net"

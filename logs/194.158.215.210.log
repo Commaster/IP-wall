@@ -1,0 +1,4 @@
+Jul 27 15:38:58 warning: hostname pppoe-static.194.158.215.210.telecom.mogilev.by does not resolve to address 194.158.215.210: Name or service not known
+Jul 27 15:38:58 connect from unknown[194.158.215.210]
+Jul 27 15:38:58 4B99640400: client=unknown[194.158.215.210]
+Jul 27 15:39:01 disconnect from unknown[194.158.215.210] ehlo=1 mail=1 rcpt=1 data=1 rset=1 quit=1 commands=6

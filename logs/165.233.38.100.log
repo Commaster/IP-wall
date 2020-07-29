@@ -1,0 +1,5 @@
+165.233.38.100 - - [26/Jul/2020:08:04:48 +0300] "GET /.env HTTP/1.1" 301 162 "-" "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)"
+165.233.38.100 - - [26/Jul/2020:08:04:48 +0300] "GET /portal/.env HTTP/1.1" 301 162 "-" "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)"
+165.233.38.100 - - [26/Jul/2020:08:04:49 +0300] "GET /public/.env HTTP/1.1" 301 162 "-" "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)"
+165.233.38.100 - - [26/Jul/2020:08:04:50 +0300] "GET /laravel/.env HTTP/1.1" 301 162 "-" "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)"
+165.233.38.100 - - [26/Jul/2020:08:04:51 +0300] "GET HTTP/1.1 HTTP/1.1" 400 150 "-" "-" "-"

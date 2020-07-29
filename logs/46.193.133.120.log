@@ -1,0 +1,3 @@
+Jul 26 21:47:06 Did not receive identification string from 46.193.133.120 port 65109
+Jul 26 21:47:10 Failed password for sniffer from 46.193.133.120 port 65308 ssh2
+Jul 26 21:47:10 Connection closed by sniffer 46.193.133.120 port 65308 [preauth]

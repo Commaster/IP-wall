@@ -1,0 +1,6 @@
+Jul 18 05:27:46 connect from fb02itshh.fh-muenster.de[193.174.89.26]
+Jul 18 05:27:52 disconnect from fb02itshh.fh-muenster.de[193.174.89.26] ehlo=1 starttls=1 quit=1 commands=3
+Jul 20 17:56:34 connect from fb02itshh.fh-muenster.de[193.174.89.26]
+Jul 20 17:56:34 disconnect from fb02itshh.fh-muenster.de[193.174.89.26] ehlo=2 starttls=1 quit=1 unknown=0/2 commands=4/6
+Jul 25 09:34:24 connect from fb02itshh.fh-muenster.de[193.174.89.26]
+Jul 25 09:34:25 disconnect from fb02itshh.fh-muenster.de[193.174.89.26] ehlo=2 starttls=1 quit=1 unknown=0/2 commands=4/6
