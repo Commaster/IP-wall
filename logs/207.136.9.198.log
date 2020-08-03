@@ -1,0 +1,1 @@
+207.136.9.198 - - [29/Jul/2020:22:24:44 +0300] "GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=busybox&curpath=/&currentsetting.htm=1 HTTP/1.1" 400 150 "-" "-" "Mozilla/5.0"
