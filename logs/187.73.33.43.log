@@ -1,0 +1,2 @@
+187.73.33.43 - - [19/Aug/2020:14:49:21 +0300] "GET /staging/wp-includes/wlwmanifest.xml HTTP/1.1" 301 162 "-" "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
+187.73.33.43 - - [19/Aug/2020:14:50:08 +0300] "GET /staging/wp-includes/wlwmanifest.xml HTTP/1.1" 200 68 "-" "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"

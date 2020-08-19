@@ -1,0 +1,2 @@
+Aug  7 04:24:50 Did not receive identification string from 194.61.142.213 port 7634
+194.61.142.213 - - [07/Aug/2020:04:24:50 +0300] "GET / HTTP/1.0" 301 162 "-" "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)"

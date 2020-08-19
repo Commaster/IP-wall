@@ -1,0 +1,3 @@
+Aug 18 07:27:11 Did not receive identification string from 103.107.162.110 port 54109
+Aug 18 07:27:16 Failed password for sniffer from 103.107.162.110 port 54373 ssh2
+Aug 18 07:27:17 Connection closed by sniffer 103.107.162.110 port 54373 [preauth]

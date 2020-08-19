@@ -1,0 +1,4 @@
+Aug  9 11:55:58 Failed password for pi from 188.7.82.37 port 47424 ssh2
+Aug  9 11:55:58 Connection closed by pi 188.7.82.37 port 47424 [preauth]
+Aug  9 11:55:59 Failed password for pi from 188.7.82.37 port 47426 ssh2
+Aug  9 11:55:59 Connection closed by pi 188.7.82.37 port 47426 [preauth]

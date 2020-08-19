@@ -1,0 +1,81 @@
+Aug 16 12:20:25 Bad protocol version identification '' from 46.77.88.146 port 47888
+Aug 16 12:21:07 Failed password for root from 46.77.88.146 port 36782 ssh2
+Aug 16 12:21:07 Connection closed by root 46.77.88.146 port 36782 [preauth]
+Aug 16 12:21:13 Failed password for root from 46.77.88.146 port 37760 ssh2
+Aug 16 12:21:13 Connection closed by root 46.77.88.146 port 37760 [preauth]
+Aug 16 12:21:16 Failed password for root from 46.77.88.146 port 40348 ssh2
+Aug 16 12:21:16 Connection closed by root 46.77.88.146 port 40348 [preauth]
+Aug 16 12:21:38 Failed password for root from 46.77.88.146 port 50038 ssh2
+Aug 16 12:21:38 Connection closed by root 46.77.88.146 port 50038 [preauth]
+Aug 16 12:21:58 Failed password for root from 46.77.88.146 port 55272 ssh2
+Aug 16 12:21:58 Connection closed by root 46.77.88.146 port 55272 [preauth]
+Aug 16 12:22:08 Failed password for root from 46.77.88.146 port 59468 ssh2
+Aug 16 12:22:08 Connection closed by root 46.77.88.146 port 59468 [preauth]
+Aug 16 12:22:11 Failed password for root from 46.77.88.146 port 35334 ssh2
+Aug 16 12:22:11 Connection closed by root 46.77.88.146 port 35334 [preauth]
+Aug 16 12:22:20 Failed password for root from 46.77.88.146 port 36556 ssh2
+Aug 16 12:22:20 Connection closed by root 46.77.88.146 port 36556 [preauth]
+Aug 16 12:22:25 Failed password for root from 46.77.88.146 port 40488 ssh2
+Aug 16 12:22:25 Connection closed by root 46.77.88.146 port 40488 [preauth]
+Aug 16 12:22:27 Failed password for root from 46.77.88.146 port 42684 ssh2
+Aug 16 12:22:27 Connection closed by root 46.77.88.146 port 42684 [preauth]
+Aug 16 12:22:30 Failed password for root from 46.77.88.146 port 43500 ssh2
+Aug 16 12:22:30 Connection closed by root 46.77.88.146 port 43500 [preauth]
+Aug 16 12:22:32 Failed password for root from 46.77.88.146 port 44804 ssh2
+Aug 16 12:22:32 Connection closed by root 46.77.88.146 port 44804 [preauth]
+Aug 16 12:22:35 Failed password for root from 46.77.88.146 port 45826 ssh2
+Aug 16 12:22:35 Connection closed by root 46.77.88.146 port 45826 [preauth]
+Aug 16 12:22:50 Failed password for root from 46.77.88.146 port 51202 ssh2
+Aug 16 12:22:50 Connection closed by root 46.77.88.146 port 51202 [preauth]
+Aug 16 12:22:53 Failed password for root from 46.77.88.146 port 53320 ssh2
+Aug 16 12:22:53 Connection closed by root 46.77.88.146 port 53320 [preauth]
+Aug 16 12:22:55 Failed password for root from 46.77.88.146 port 54410 ssh2
+Aug 16 12:22:55 Connection closed by root 46.77.88.146 port 54410 [preauth]
+Aug 16 12:23:20 Failed password for root from 46.77.88.146 port 35814 ssh2
+Aug 16 12:23:21 Connection closed by root 46.77.88.146 port 35814 [preauth]
+Aug 16 12:23:24 Failed password for root from 46.77.88.146 port 38016 ssh2
+Aug 16 12:23:24 Connection closed by root 46.77.88.146 port 38016 [preauth]
+Aug 16 12:23:30 Failed password for root from 46.77.88.146 port 39562 ssh2
+Aug 16 12:23:30 Connection closed by root 46.77.88.146 port 39562 [preauth]
+Aug 16 12:23:35 Failed password for root from 46.77.88.146 port 42052 ssh2
+Aug 16 12:23:35 Connection closed by root 46.77.88.146 port 42052 [preauth]
+Aug 16 12:23:58 Failed password for root from 46.77.88.146 port 52952 ssh2
+Aug 16 12:23:58 Connection closed by root 46.77.88.146 port 52952 [preauth]
+Aug 16 12:24:03 Failed password for root from 46.77.88.146 port 53874 ssh2
+Aug 16 12:24:03 Connection closed by root 46.77.88.146 port 53874 [preauth]
+Aug 16 12:24:07 Failed password for root from 46.77.88.146 port 56314 ssh2
+Aug 16 12:24:07 Connection closed by root 46.77.88.146 port 56314 [preauth]
+Aug 16 12:24:16 Failed password for root from 46.77.88.146 port 57768 ssh2
+Aug 16 12:24:16 Connection closed by root 46.77.88.146 port 57768 [preauth]
+Aug 16 12:24:19 Failed password for root from 46.77.88.146 port 33484 ssh2
+Aug 16 12:24:19 Connection closed by root 46.77.88.146 port 33484 [preauth]
+Aug 16 12:24:22 Failed password for root from 46.77.88.146 port 34652 ssh2
+Aug 16 12:24:22 Connection closed by root 46.77.88.146 port 34652 [preauth]
+Aug 16 12:24:24 Failed password for root from 46.77.88.146 port 35998 ssh2
+Aug 16 12:24:24 Connection closed by root 46.77.88.146 port 35998 [preauth]
+Aug 16 12:24:26 Failed password for root from 46.77.88.146 port 36962 ssh2
+Aug 16 12:24:26 Connection closed by root 46.77.88.146 port 36962 [preauth]
+Aug 16 12:24:45 Failed password for root from 46.77.88.146 port 42170 ssh2
+Aug 16 12:24:45 Connection closed by root 46.77.88.146 port 42170 [preauth]
+Aug 16 12:24:48 Failed password for root from 46.77.88.146 port 46060 ssh2
+Aug 16 12:24:48 Connection closed by root 46.77.88.146 port 46060 [preauth]
+Aug 16 12:24:53 Failed password for pi from 46.77.88.146 port 47230 ssh2
+Aug 16 12:24:53 Connection closed by pi 46.77.88.146 port 47230 [preauth]
+Aug 16 12:24:56 Failed password for pi from 46.77.88.146 port 49626 ssh2
+Aug 16 12:24:57 Connection closed by pi 46.77.88.146 port 49626 [preauth]
+Aug 16 12:25:12 Failed password for ubnt from 46.77.88.146 port 55174 ssh2
+Aug 16 12:25:12 Connection closed by ubnt 46.77.88.146 port 55174 [preauth]
+Aug 16 12:25:16 Failed password for openhabian from 46.77.88.146 port 57652 ssh2
+Aug 16 12:25:16 Connection closed by openhabian 46.77.88.146 port 57652 [preauth]
+Aug 16 12:25:21 Failed password for NetLinx from 46.77.88.146 port 59148 ssh2
+Aug 16 12:25:21 Connection closed by NetLinx 46.77.88.146 port 59148 [preauth]
+Aug 16 12:25:30 Failed password for netscreen from 46.77.88.146 port 33062 ssh2
+Aug 16 12:25:30 Connection closed by netscreen 46.77.88.146 port 33062 [preauth]
+Aug 16 12:25:36 Failed password for nexthink from 46.77.88.146 port 37156 ssh2
+Aug 16 12:25:36 Connection closed by nexthink 46.77.88.146 port 37156 [preauth]
+Aug 16 12:25:50 Failed password for admin from 46.77.88.146 port 43690 ssh2
+Aug 16 12:25:50 Connection closed by admin 46.77.88.146 port 43690 [preauth]
+Aug 16 12:26:02 Failed password for admin from 46.77.88.146 port 49562 ssh2
+Aug 16 12:26:02 Connection closed by admin 46.77.88.146 port 49562 [preauth]
+Aug 16 12:26:12 Failed password for admin from 46.77.88.146 port 50734 ssh2
+Aug 16 12:26:12 Connection closed by admin 46.77.88.146 port 50734 [preauth]

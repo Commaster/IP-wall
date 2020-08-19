@@ -1,0 +1,117 @@
+Aug 10 12:21:21 Bad protocol version identification '' from 78.90.224.112 port 39590
+Aug 10 12:21:26 Failed password for ubnt from 78.90.224.112 port 40246 ssh2
+Aug 10 12:21:26 Connection closed by ubnt 78.90.224.112 port 40246 [preauth]
+Aug 10 12:21:31 Failed password for osboxes from 78.90.224.112 port 44378 ssh2
+Aug 10 12:21:31 Connection closed by osboxes 78.90.224.112 port 44378 [preauth]
+Aug 10 12:21:35 Failed password for NetLinx from 78.90.224.112 port 48786 ssh2
+Aug 10 12:21:35 Connection closed by NetLinx 78.90.224.112 port 48786 [preauth]
+Aug 10 12:21:39 Failed password for netscreen from 78.90.224.112 port 52098 ssh2
+Aug 10 12:21:39 Connection closed by netscreen 78.90.224.112 port 52098 [preauth]
+Aug 10 12:21:44 Failed password for nexthink from 78.90.224.112 port 56156 ssh2
+Aug 10 12:21:44 Connection closed by nexthink 78.90.224.112 port 56156 [preauth]
+Aug 10 12:21:49 Failed password for root from 78.90.224.112 port 60246 ssh2
+Aug 10 12:21:49 Connection closed by root 78.90.224.112 port 60246 [preauth]
+Aug 10 12:21:53 Failed password for root from 78.90.224.112 port 36340 ssh2
+Aug 10 12:21:54 Connection closed by root 78.90.224.112 port 36340 [preauth]
+Aug 10 12:21:59 Failed password for root from 78.90.224.112 port 41256 ssh2
+Aug 10 12:22:00 Connection closed by root 78.90.224.112 port 41256 [preauth]
+Aug 10 12:22:04 Failed password for root from 78.90.224.112 port 46220 ssh2
+Aug 10 12:22:04 Connection closed by root 78.90.224.112 port 46220 [preauth]
+Aug 10 12:22:08 Failed password for root from 78.90.224.112 port 49926 ssh2
+Aug 10 12:22:09 Connection closed by root 78.90.224.112 port 49926 [preauth]
+Aug 10 12:22:13 Failed password for root from 78.90.224.112 port 54048 ssh2
+Aug 10 12:22:14 Connection closed by root 78.90.224.112 port 54048 [preauth]
+Aug 10 12:22:18 Failed password for root from 78.90.224.112 port 58272 ssh2
+Aug 10 12:22:18 Connection closed by root 78.90.224.112 port 58272 [preauth]
+Aug 10 12:22:22 Failed password for root from 78.90.224.112 port 34286 ssh2
+Aug 10 12:22:22 Connection closed by root 78.90.224.112 port 34286 [preauth]
+Aug 10 12:22:26 Failed password for root from 78.90.224.112 port 37986 ssh2
+Aug 10 12:22:26 Connection closed by root 78.90.224.112 port 37986 [preauth]
+Aug 10 12:22:30 Failed password for root from 78.90.224.112 port 41442 ssh2
+Aug 10 12:22:31 Connection closed by root 78.90.224.112 port 41442 [preauth]
+Aug 10 12:22:35 Failed password for root from 78.90.224.112 port 45200 ssh2
+Aug 10 12:22:36 Connection closed by root 78.90.224.112 port 45200 [preauth]
+Aug 10 12:22:40 Failed password for root from 78.90.224.112 port 49864 ssh2
+Aug 10 12:22:40 Connection closed by root 78.90.224.112 port 49864 [preauth]
+Aug 10 12:22:44 Failed password for root from 78.90.224.112 port 54084 ssh2
+Aug 10 12:22:45 Connection closed by root 78.90.224.112 port 54084 [preauth]
+Aug 10 12:22:50 Failed password for root from 78.90.224.112 port 58182 ssh2
+Aug 10 12:22:50 Connection closed by root 78.90.224.112 port 58182 [preauth]
+Aug 10 12:22:55 Failed password for root from 78.90.224.112 port 35262 ssh2
+Aug 10 12:22:55 Connection closed by root 78.90.224.112 port 35262 [preauth]
+Aug 10 12:23:00 Failed password for root from 78.90.224.112 port 39560 ssh2
+Aug 10 12:23:00 Connection closed by root 78.90.224.112 port 39560 [preauth]
+Aug 10 12:23:04 Failed password for root from 78.90.224.112 port 43822 ssh2
+Aug 10 12:23:04 Connection closed by root 78.90.224.112 port 43822 [preauth]
+Aug 10 12:23:09 Failed password for root from 78.90.224.112 port 46900 ssh2
+Aug 10 12:23:09 Connection closed by root 78.90.224.112 port 46900 [preauth]
+Aug 10 12:23:14 Failed password for root from 78.90.224.112 port 51662 ssh2
+Aug 10 12:23:14 Connection closed by root 78.90.224.112 port 51662 [preauth]
+Aug 10 12:23:18 Failed password for root from 78.90.224.112 port 55954 ssh2
+Aug 10 12:23:19 Connection closed by root 78.90.224.112 port 55954 [preauth]
+Aug 10 12:23:22 Failed password for root from 78.90.224.112 port 60026 ssh2
+Aug 10 12:23:23 Connection closed by root 78.90.224.112 port 60026 [preauth]
+Aug 10 12:23:27 Failed password for root from 78.90.224.112 port 36192 ssh2
+Aug 10 12:23:28 Connection closed by root 78.90.224.112 port 36192 [preauth]
+Aug 10 12:23:31 Failed password for root from 78.90.224.112 port 40110 ssh2
+Aug 10 12:23:32 Connection closed by root 78.90.224.112 port 40110 [preauth]
+Aug 10 12:23:37 Failed password for root from 78.90.224.112 port 43684 ssh2
+Aug 10 12:23:37 Connection closed by root 78.90.224.112 port 43684 [preauth]
+Aug 10 12:23:41 Failed password for root from 78.90.224.112 port 47982 ssh2
+Aug 10 12:23:41 Connection closed by root 78.90.224.112 port 47982 [preauth]
+Aug 10 12:23:45 Failed password for root from 78.90.224.112 port 52232 ssh2
+Aug 10 12:23:45 Connection closed by root 78.90.224.112 port 52232 [preauth]
+Aug 10 12:23:49 Failed password for root from 78.90.224.112 port 55866 ssh2
+Aug 10 12:23:49 Connection closed by root 78.90.224.112 port 55866 [preauth]
+Aug 10 12:23:54 Failed password for root from 78.90.224.112 port 59488 ssh2
+Aug 10 12:23:54 Connection closed by root 78.90.224.112 port 59488 [preauth]
+Aug 10 12:23:57 Failed password for root from 78.90.224.112 port 35372 ssh2
+Aug 10 12:23:58 Connection closed by root 78.90.224.112 port 35372 [preauth]
+Aug 10 12:24:03 Failed password for root from 78.90.224.112 port 38390 ssh2
+Aug 10 12:24:03 Connection closed by root 78.90.224.112 port 38390 [preauth]
+Aug 10 12:24:08 Failed password for root from 78.90.224.112 port 43282 ssh2
+Aug 10 12:24:08 Connection closed by root 78.90.224.112 port 43282 [preauth]
+Aug 10 12:24:12 Failed password for root from 78.90.224.112 port 47622 ssh2
+Aug 10 12:24:13 Connection closed by root 78.90.224.112 port 47622 [preauth]
+Aug 10 12:24:17 Failed password for root from 78.90.224.112 port 52008 ssh2
+Aug 10 12:24:17 Connection closed by root 78.90.224.112 port 52008 [preauth]
+Aug 10 12:24:20 Failed password for root from 78.90.224.112 port 56038 ssh2
+Aug 10 12:24:21 Connection closed by root 78.90.224.112 port 56038 [preauth]
+Aug 10 12:24:25 Failed password for root from 78.90.224.112 port 59030 ssh2
+Aug 10 12:24:25 Connection closed by root 78.90.224.112 port 59030 [preauth]
+Aug 10 12:24:31 Failed password for root from 78.90.224.112 port 35064 ssh2
+Aug 10 12:24:31 Connection closed by root 78.90.224.112 port 35064 [preauth]
+Aug 10 12:24:36 Failed password for root from 78.90.224.112 port 40216 ssh2
+Aug 10 12:24:36 Connection closed by root 78.90.224.112 port 40216 [preauth]
+Aug 10 12:24:39 Failed password for root from 78.90.224.112 port 44582 ssh2
+Aug 10 12:24:40 Connection closed by root 78.90.224.112 port 44582 [preauth]
+Aug 10 12:24:43 Failed password for root from 78.90.224.112 port 48104 ssh2
+Aug 10 12:24:44 Connection closed by root 78.90.224.112 port 48104 [preauth]
+Aug 10 12:24:48 Failed password for admin from 78.90.224.112 port 51906 ssh2
+Aug 10 12:24:48 Connection closed by admin 78.90.224.112 port 51906 [preauth]
+Aug 10 12:24:51 Failed password for admin from 78.90.224.112 port 55436 ssh2
+Aug 10 12:24:52 Connection closed by admin 78.90.224.112 port 55436 [preauth]
+Aug 10 12:24:56 Failed password for admin from 78.90.224.112 port 59290 ssh2
+Aug 10 12:24:57 Connection closed by admin 78.90.224.112 port 59290 [preauth]
+Aug 10 12:25:00 Failed password for admin from 78.90.224.112 port 35032 ssh2
+Aug 10 12:25:00 Connection closed by admin 78.90.224.112 port 35032 [preauth]
+Aug 10 12:25:04 Failed password for admin from 78.90.224.112 port 38728 ssh2
+Aug 10 12:25:04 Connection closed by admin 78.90.224.112 port 38728 [preauth]
+Aug 10 12:25:09 Failed password for admin from 78.90.224.112 port 41862 ssh2
+Aug 10 12:25:09 Connection closed by admin 78.90.224.112 port 41862 [preauth]
+Aug 10 12:25:14 Failed password for pi from 78.90.224.112 port 45906 ssh2
+Aug 10 12:25:14 Connection closed by pi 78.90.224.112 port 45906 [preauth]
+Aug 10 12:25:17 Failed password for pi from 78.90.224.112 port 50306 ssh2
+Aug 10 12:25:17 Connection closed by pi 78.90.224.112 port 50306 [preauth]
+Aug 10 12:25:21 Failed password for pi from 78.90.224.112 port 53810 ssh2
+Aug 10 12:25:21 Connection closed by pi 78.90.224.112 port 53810 [preauth]
+Aug 10 12:25:25 Failed password for osbash from 78.90.224.112 port 57378 ssh2
+Aug 10 12:25:26 Connection closed by osbash 78.90.224.112 port 57378 [preauth]
+Aug 10 12:25:29 Failed password for plexuser from 78.90.224.112 port 60992 ssh2
+Aug 10 12:25:29 Connection closed by plexuser 78.90.224.112 port 60992 [preauth]
+Aug 10 12:25:33 Failed password for openhabian from 78.90.224.112 port 36298 ssh2
+Aug 10 12:25:33 Connection closed by openhabian 78.90.224.112 port 36298 [preauth]
+Aug 10 12:25:37 Failed password for support from 78.90.224.112 port 39816 ssh2
+Aug 10 12:25:37 Connection closed by support 78.90.224.112 port 39816 [preauth]
+Aug 10 12:25:41 Failed password for misp from 78.90.224.112 port 43234 ssh2
+Aug 10 12:25:41 Connection closed by misp 78.90.224.112 port 43234 [preauth]

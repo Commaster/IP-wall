@@ -1,0 +1,17 @@
+Aug 13 03:33:46 Aborted login (auth failed, 1 attempts in 2 secs): user=<postmaster>, method=PLAIN, rip=193.169.253.113, session=<92D2dLes6/bBqf1x>
+Aug 13 03:33:52 Aborted login (auth failed, 1 attempts in 6 secs): user=<postmaster>, method=PLAIN, rip=193.169.253.113, session=<g64PdbesfMbBqf1x>
+Aug 13 03:33:55 Aborted login (auth failed, 1 attempts in 6 secs): user=<postmaster>, method=PLAIN, rip=193.169.253.113, session=<VvA+dbes/9LBqf1x>
+Aug 13 03:34:02 Aborted login (auth failed, 1 attempts in 10 secs): user=<postmaster>, method=PLAIN, rip=193.169.253.113, session=<FDhudbesPtjBqf1x>
+Aug 13 03:34:05 Aborted login (auth failed, 1 attempts in 10 secs): user=<postmaster>, method=PLAIN, rip=193.169.253.113, session=<LDeedbesntfBqf1x>
+Aug 13 03:34:08 Aborted login (auth failed, 1 attempts in 10 secs): user=<postmaster>, method=PLAIN, rip=193.169.253.113, session=<ZobNdbes/+DBqf1x>
+Aug 13 03:34:19 Aborted login (auth failed, 1 attempts in 17 secs): user=<postmaster>, method=PLAIN, rip=193.169.253.113, session=<1dX8dbesoeTBqf1x>
+Aug 13 03:34:22 Aborted login (auth failed, 1 attempts in 17 secs): user=<postmaster>, method=PLAIN, rip=193.169.253.113, session=<Dy4sdresHeTBqf1x>
+Aug 13 03:34:25 Aborted login (auth failed, 1 attempts in 17 secs): user=<postmaster>, method=PLAIN, rip=193.169.253.113, session=<2nRbdres+9zBqf1x>
+Aug 13 03:34:28 Aborted login (auth failed, 1 attempts in 17 secs): user=<postmaster>, method=PLAIN, rip=193.169.253.113, session=<FbmKdreswNjBqf1x>
+Aug 13 03:34:31 Aborted login (auth failed, 1 attempts in 17 secs): user=<postmaster>, method=PLAIN, rip=193.169.253.113, session=<ngq6dresj9rBqf1x>
+Aug 13 03:34:33 Disconnected (no auth attempts in 48 secs): user=<>, rip=193.169.253.113, session=<6RbVd7esz+vBqf1x>
+Aug 13 03:34:34 Aborted login (auth failed, 1 attempts in 17 secs): user=<postmaster>, method=PLAIN, rip=193.169.253.113, session=<oq/pdresDN7Bqf1x>
+Aug 13 03:34:37 Aborted login (auth failed, 1 attempts in 17 secs): user=<postmaster>, method=PLAIN, rip=193.169.253.113, session=<jCMZd7esVfbBqf1x>
+Aug 13 03:34:40 Aborted login (auth failed, 1 attempts in 17 secs): user=<postmaster>, method=PLAIN, rip=193.169.253.113, session=<YEVId7esR/jBqf1x>
+Aug 13 03:34:43 Aborted login (auth failed, 1 attempts in 17 secs): user=<postmaster>, method=PLAIN, rip=193.169.253.113, session=<ogd4d7es4u/Bqf1x>
+Aug 13 03:34:47 Aborted login (auth failed, 1 attempts in 17 secs): user=<postmaster>, method=PLAIN, rip=193.169.253.113, session=<omend7esacPBqf1x>

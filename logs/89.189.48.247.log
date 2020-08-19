@@ -1,0 +1,117 @@
+Aug  7 03:11:11 Bad protocol version identification '' from 89.189.48.247 port 43874
+Aug  7 03:12:41 Failed password for nexthink from 89.189.48.247 port 33710 ssh2
+Aug  7 03:12:41 Connection closed by nexthink 89.189.48.247 port 33710 [preauth]
+Aug  7 03:12:53 Failed password for osbash from 89.189.48.247 port 59666 ssh2
+Aug  7 03:12:54 Connection closed by osbash 89.189.48.247 port 59666 [preauth]
+Aug  7 03:13:08 Failed password for root from 89.189.48.247 port 57994 ssh2
+Aug  7 03:13:12 Connection closed by root 89.189.48.247 port 57994 [preauth]
+Aug  7 03:13:24 Failed password for root from 89.189.48.247 port 55392 ssh2
+Aug  7 03:13:25 Connection closed by root 89.189.48.247 port 55392 [preauth]
+Aug  7 03:13:38 Failed password for root from 89.189.48.247 port 49822 ssh2
+Aug  7 03:13:39 Connection closed by root 89.189.48.247 port 49822 [preauth]
+Aug  7 03:13:48 Failed password for root from 89.189.48.247 port 44584 ssh2
+Aug  7 03:13:49 Connection closed by root 89.189.48.247 port 44584 [preauth]
+Aug  7 03:14:01 Failed password for root from 89.189.48.247 port 33260 ssh2
+Aug  7 03:14:02 Connection closed by root 89.189.48.247 port 33260 [preauth]
+Aug  7 03:14:14 Failed password for root from 89.189.48.247 port 56586 ssh2
+Aug  7 03:14:16 Connection closed by root 89.189.48.247 port 56586 [preauth]
+Aug  7 03:14:29 Failed password for root from 89.189.48.247 port 50850 ssh2
+Aug  7 03:14:30 Connection closed by root 89.189.48.247 port 50850 [preauth]
+Aug  7 03:14:39 Failed password for root from 89.189.48.247 port 45026 ssh2
+Aug  7 03:14:40 Connection closed by root 89.189.48.247 port 45026 [preauth]
+Aug  7 03:14:55 Failed password for root from 89.189.48.247 port 33834 ssh2
+Aug  7 03:14:57 Connection closed by root 89.189.48.247 port 33834 [preauth]
+Aug  7 03:15:06 Failed password for root from 89.189.48.247 port 36222 ssh2
+Aug  7 03:15:08 Connection closed by root 89.189.48.247 port 36222 [preauth]
+Aug  7 03:15:18 Failed password for root from 89.189.48.247 port 54034 ssh2
+Aug  7 03:15:20 Connection closed by root 89.189.48.247 port 54034 [preauth]
+Aug  7 03:15:35 Failed password for root from 89.189.48.247 port 43402 ssh2
+Aug  7 03:15:36 Connection closed by root 89.189.48.247 port 43402 [preauth]
+Aug  7 03:15:47 Failed password for root from 89.189.48.247 port 43292 ssh2
+Aug  7 03:15:48 Connection closed by root 89.189.48.247 port 43292 [preauth]
+Aug  7 03:16:04 Failed password for root from 89.189.48.247 port 36278 ssh2
+Aug  7 03:16:04 Connection closed by root 89.189.48.247 port 36278 [preauth]
+Aug  7 03:16:16 Failed password for root from 89.189.48.247 port 34570 ssh2
+Aug  7 03:16:17 Connection closed by root 89.189.48.247 port 34570 [preauth]
+Aug  7 03:16:29 Failed password for root from 89.189.48.247 port 56268 ssh2
+Aug  7 03:16:30 Connection closed by root 89.189.48.247 port 56268 [preauth]
+Aug  7 03:16:43 Failed password for root from 89.189.48.247 port 50366 ssh2
+Aug  7 03:16:46 Connection closed by root 89.189.48.247 port 50366 [preauth]
+Aug  7 03:16:59 Failed password for root from 89.189.48.247 port 47966 ssh2
+Aug  7 03:17:00 Connection closed by root 89.189.48.247 port 47966 [preauth]
+Aug  7 03:17:12 Failed password for root from 89.189.48.247 port 44510 ssh2
+Aug  7 03:17:18 Connection closed by root 89.189.48.247 port 44510 [preauth]
+Aug  7 03:17:37 Failed password for root from 89.189.48.247 port 45600 ssh2
+Aug  7 03:17:38 Connection closed by root 89.189.48.247 port 45600 [preauth]
+Aug  7 03:17:52 Failed password for root from 89.189.48.247 port 53054 ssh2
+Aug  7 03:17:56 Connection closed by root 89.189.48.247 port 53054 [preauth]
+Aug  7 03:18:06 Failed password for root from 89.189.48.247 port 54736 ssh2
+Aug  7 03:18:08 Connection closed by root 89.189.48.247 port 54736 [preauth]
+Aug  7 03:18:23 Failed password for root from 89.189.48.247 port 46918 ssh2
+Aug  7 03:18:24 Connection closed by root 89.189.48.247 port 46918 [preauth]
+Aug  7 03:18:38 Failed password for root from 89.189.48.247 port 46574 ssh2
+Aug  7 03:18:41 Connection closed by root 89.189.48.247 port 46574 [preauth]
+Aug  7 03:18:54 Failed password for root from 89.189.48.247 port 46096 ssh2
+Aug  7 03:18:55 Connection closed by root 89.189.48.247 port 46096 [preauth]
+Aug  7 03:19:08 Failed password for root from 89.189.48.247 port 42906 ssh2
+Aug  7 03:19:10 Connection closed by root 89.189.48.247 port 42906 [preauth]
+Aug  7 03:19:19 Failed password for root from 89.189.48.247 port 38752 ssh2
+Aug  7 03:19:20 Connection closed by root 89.189.48.247 port 38752 [preauth]
+Aug  7 03:19:29 Failed password for root from 89.189.48.247 port 57848 ssh2
+Aug  7 03:19:29 Connection closed by root 89.189.48.247 port 57848 [preauth]
+Aug  7 03:19:48 Failed password for root from 89.189.48.247 port 45120 ssh2
+Aug  7 03:19:51 Connection closed by root 89.189.48.247 port 45120 [preauth]
+Aug  7 03:20:03 Failed password for root from 89.189.48.247 port 52346 ssh2
+Aug  7 03:20:04 Connection closed by root 89.189.48.247 port 52346 [preauth]
+Aug  7 03:20:19 Failed password for root from 89.189.48.247 port 45370 ssh2
+Aug  7 03:20:19 Connection closed by root 89.189.48.247 port 45370 [preauth]
+Aug  7 03:20:31 Failed password for root from 89.189.48.247 port 42972 ssh2
+Aug  7 03:20:32 Connection closed by root 89.189.48.247 port 42972 [preauth]
+Aug  7 03:20:44 Failed password for root from 89.189.48.247 port 37652 ssh2
+Aug  7 03:20:46 Connection closed by root 89.189.48.247 port 37652 [preauth]
+Aug  7 03:20:59 Failed password for root from 89.189.48.247 port 60878 ssh2
+Aug  7 03:21:01 Connection closed by root 89.189.48.247 port 60878 [preauth]
+Aug  7 03:21:10 Failed password for root from 89.189.48.247 port 57864 ssh2
+Aug  7 03:21:12 Connection closed by root 89.189.48.247 port 57864 [preauth]
+Aug  7 03:21:30 Failed password for root from 89.189.48.247 port 50870 ssh2
+Aug  7 03:21:33 Connection closed by root 89.189.48.247 port 50870 [preauth]
+Aug  7 03:21:51 Failed password for root from 89.189.48.247 port 55134 ssh2
+Aug  7 03:21:53 Connection closed by root 89.189.48.247 port 55134 [preauth]
+Aug  7 03:22:09 Failed password for root from 89.189.48.247 port 33848 ssh2
+Aug  7 03:22:11 Connection closed by root 89.189.48.247 port 33848 [preauth]
+Aug  7 03:22:25 Failed password for root from 89.189.48.247 port 35776 ssh2
+Aug  7 03:22:26 Connection closed by root 89.189.48.247 port 35776 [preauth]
+Aug  7 03:22:46 Failed password for ubnt from 89.189.48.247 port 35074 ssh2
+Aug  7 03:22:47 Connection closed by ubnt 89.189.48.247 port 35074 [preauth]
+Aug  7 03:23:03 Failed password for openhabian from 89.189.48.247 port 40948 ssh2
+Aug  7 03:23:05 Connection closed by openhabian 89.189.48.247 port 40948 [preauth]
+Aug  7 03:23:19 Failed password for NetLinx from 89.189.48.247 port 42890 ssh2
+Aug  7 03:23:20 Connection closed by NetLinx 89.189.48.247 port 42890 [preauth]
+Aug  7 03:23:34 Failed password for netscreen from 89.189.48.247 port 39576 ssh2
+Aug  7 03:23:35 Connection closed by netscreen 89.189.48.247 port 39576 [preauth]
+Aug  7 03:23:48 Failed password for misp from 89.189.48.247 port 37884 ssh2
+Aug  7 03:23:50 Connection closed by misp 89.189.48.247 port 37884 [preauth]
+Aug  7 03:24:04 Failed password for plexuser from 89.189.48.247 port 40692 ssh2
+Aug  7 03:24:06 Connection closed by plexuser 89.189.48.247 port 40692 [preauth]
+Aug  7 03:24:19 Failed password for admin from 89.189.48.247 port 34214 ssh2
+Aug  7 03:24:21 Connection closed by admin 89.189.48.247 port 34214 [preauth]
+Aug  7 03:24:32 Failed password for admin from 89.189.48.247 port 58042 ssh2
+Aug  7 03:24:33 Connection closed by admin 89.189.48.247 port 58042 [preauth]
+Aug  7 03:24:43 Failed password for admin from 89.189.48.247 port 52058 ssh2
+Aug  7 03:24:44 Connection closed by admin 89.189.48.247 port 52058 [preauth]
+Aug  7 03:25:04 Failed password for admin from 89.189.48.247 port 39782 ssh2
+Aug  7 03:25:05 Connection closed by admin 89.189.48.247 port 39782 [preauth]
+Aug  7 03:25:16 Failed password for admin from 89.189.48.247 port 47818 ssh2
+Aug  7 03:25:19 Connection closed by admin 89.189.48.247 port 47818 [preauth]
+Aug  7 03:25:32 Failed password for admin from 89.189.48.247 port 44240 ssh2
+Aug  7 03:25:33 Connection closed by admin 89.189.48.247 port 44240 [preauth]
+Aug  7 03:25:43 Failed password for pi from 89.189.48.247 port 39008 ssh2
+Aug  7 03:25:45 Connection closed by pi 89.189.48.247 port 39008 [preauth]
+Aug  7 03:25:57 Failed password for pi from 89.189.48.247 port 34584 ssh2
+Aug  7 03:26:00 Connection closed by pi 89.189.48.247 port 34584 [preauth]
+Aug  7 03:26:11 Failed password for pi from 89.189.48.247 port 55298 ssh2
+Aug  7 03:26:14 Connection closed by pi 89.189.48.247 port 55298 [preauth]
+Aug  7 03:26:25 Failed password for osboxes from 89.189.48.247 port 50528 ssh2
+Aug  7 03:26:27 Connection closed by osboxes 89.189.48.247 port 50528 [preauth]
+Aug  7 03:26:39 Failed password for support from 89.189.48.247 port 45900 ssh2
+Aug  7 03:26:41 Connection closed by support 89.189.48.247 port 45900 [preauth]

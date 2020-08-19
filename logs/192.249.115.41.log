@@ -1,0 +1,2 @@
+192.249.115.41 - - [04/Aug/2020:02:16:14 +0300] "GET /backup.tar.gz HTTP/1.1" 200 82 "-" "-" "Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.133 Safari/534.16"
+192.249.115.41 - - [04/Aug/2020:03:04:49 +0300] "GET /backup.rar HTTP/1.1" 200 68 "-" "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.127 Safari/534.16"

