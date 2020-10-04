@@ -1,11 +1,11 @@
 # IP-wall
+Operations have been terminated due to no end in sight and no effort from the providers of the malicious IPs.
+
 List of IP addresses and ranges, caught during hacking and/or intrussion attempts.
 
 List produced by: `sudo iptables -S | grep DROP | sort -u | sed -ne 's/^.*-s \(.*\) -j.*$/\1/pg'`
 
 Starting 2020 (and partially december of 2019) all offending logs are provided right away.
-
-Current coverage of the "whole internet" can be seen [here](http://commi.ddns.info/ISec), updates twice a day.
 
 We have surpassed 35%!
 
